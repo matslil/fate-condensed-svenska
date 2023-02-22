@@ -1,3 +1,5 @@
+.. contents:: Öde - Kortfattad version
+
 Skapa karaktär
 ==============
 
@@ -26,6 +28,7 @@ Aspekter
 --------
 
 En aspekt är en kort mening som beskriver vem karaktären är eller vad som är viktigt för karaktären. Det kan innefatta
+
 - karaktärens fysiska eller mentala kvaliteter
 - bakgroundshistoria
 - träning
@@ -180,4 +183,60 @@ Smyga::
 
 Vilja::
    Mental styrka, kunna motstå frestelser och trauman. Stunt på vilja låter dig ignorera mentala konsekvenser, motstå mental dödsångest från okända krafter och behålla lugnet när andra försöker provocera. Hög vilja ger dig fler rutor på mental stress eller konsekvens.
+
+Stunt
+-----
+
+Även om alla karaktärer har tillgång till alla färdigheter - även om en del är på Medioker (+0) nivå för de flesta av dem - har din karaktär några unika stunt. Stunt är coola tekniker, tricks eller utrustning som gör din karaktär unik och intressant. Där färdigheter handlar om breda kompetenser så 'r stunt specifika förmågor; de flesta ger dig bonus under speciella omständigheter eller låter dig göra något som andra karaktärer inte kan.
+
+Din karaktär börjar med tre fria stunt. Du behöver inte bestämma dig för vad de ska vara från början utan du kan bestämma det under spelets gång. Du kan köpa en stunt genom att minska Återhämtning med ett, ner tills du bara har ett i Återhämtning kvar.
+
+Författa stunt
+~~~~~~~~~~~~~~
+
+Du författar dina egna stunt när du gör karaktären. Det finns i grunden två olika sorters stunt: Bonusstunt och regeländrande stunt.
+
+Bonusstunt::
+   Bonusstunt ger **+2 bonus** på när du använder en viss färdighet inom vissa givna ramar, typiskt viss handling eller speciella omständigheter.
+   Skriv stunten enligt följande mönsker:
+   Eftersom jag **[beskriv på vilket sätt du är fantastisk eller har cool utrustning]**, så får jag +2 när jag använder **[välj färdighet]** för att **[välj en: övervinna, få en fördel, attackera, försvara]** när **[beskriv en omständighet]**.
+   Exempel: Eftersom jag **är en tränad lönnmördare**, så får jag +2 när jag använder **Slåss** för att **attackera** när **belysningen är dålig**.
+
+Regeländrande stunt::
+   Regeländrande stunt är en bred kategori som inkluderar bland annat:
+
+   - Byta ut vilken färdighet du använder i en given situation. Till exempel, en forskare kan använda Akademi när han utför en ritual, när man normalt skulle ha använt Mysticism.
+   - Använda en handling som färdigheten normalt inte används för. Till exempel att låta karaktären använda Smyga för att anfalla i ryggen från skuggorna, istället för att använda Slåss.
+   - Ge karaktären någon annan form av bonus som är ungefär likvärdigt med +2 bonus. Till exempel när en tränad talare får en fördel med hjälp av Samband, så ger det en extra fri framkallande.
+   - Ge karaktären möjlighet att deklarera em faktadetalj som alltid är sann. Till exempel, en överlevare har alltid överlevnadsutrustning som tändstickor på sig, även under osannolika förhållanden. Den här stunten gör att du inte behöver förklara i historien hur det gick till.
+   - Tillåt karaktären att göra ett specifikt regelundantag. Till exempel, en karaktär kan ha två till stressrutor eller en extra konsekvensruta.
+
+   Skriv stunten enligt följande mönster:
+   Eftersom jag **[beskriv på vilket sätt du är fantastik eller har cool utrustning]**, så kan jag **[beskriv den fantastiska förmågan]**, men bara **[beskriv en omständighet eller begränsning]**.
+   Exempel: Eftersom jag **inte tror på magi**, så kan jag **ignorera effekterna av övernaturliga förmågor**, men bara **en gång per spelsession**.
+
+Stree
+-----
+
+Stress och konsekvenser är hur din karaktär står emot fysiska och mentala påfrestningar under äventyren. Karaktärerna har åtminstone tree rutor för fysisk stress och tre rutor för mental stress. De får också en ruta var för milda, medelsvåra och svåra konsekvenser.
+
+Din nivå i färdigheten Sport påverkar hur många fysiska stressrutor din karaktär har. Färdigheten Vilja gör motsvarande för mentala rutor. Se följande tabell:
+
+.. table:: 
+   :widths: auto
+
+   ================================  =====================
+   Sport/Vilja                       Fyisks/Mental Stress
+   ================================  =====================
+   Medioker (+0)                     [1][1][1]
+   Ordinär (+1)                      [1][1][1] [1]
+   Hyffsad (+2)                      [1][1][1] [1][1]
+   God (+3) eller Utmärkt (+4)       [1][1][1] [1][1][1]
+   Superb (5) eller högre            [1][1][1] [1][1][1] och en andra mild konsekvensruta speciellt för fysisk eller mental skada
+   ================================  =====================
+
+
+Invoke::
+   Framkallande
+
 
