@@ -215,8 +215,8 @@ Regeländrande stunt::
    Eftersom jag **[beskriv på vilket sätt du är fantastik eller har cool utrustning]**, så kan jag **[beskriv den fantastiska förmågan]**, men bara **[beskriv en omständighet eller begränsning]**.
    Exempel: Eftersom jag **inte tror på magi**, så kan jag **ignorera effekterna av övernaturliga förmågor**, men bara **en gång per spelsession**.
 
-Stree
------
+Stress och konsekvenser
+-----------------------
 
 Stress och konsekvenser är hur din karaktär står emot fysiska och mentala påfrestningar under äventyren. Karaktärerna har åtminstone tree rutor för fysisk stress och tre rutor för mental stress. De får också en ruta var för milda, medelsvåra och svåra konsekvenser.
 
@@ -235,6 +235,54 @@ Din nivå i färdigheten Sport påverkar hur många fysiska stressrutor din kara
    Superb (5) eller högre            [1][1][1] [1][1][1] och en andra mild konsekvensruta speciellt för fysisk eller mental skada
    ================================  =====================
 
+Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i :ref:'Att ta skada'.
+
+Påfyllning
+----------
+
+Din påfyllning är det minsta antal ödespoäng som din karaktär börjar med inför varje spelsession. Din karaktär börjar med en påfyllning av 3.
+
+Du börjar varje spelsession med minst påfyllning ödespoäng. Kom ihåg att hålla reda på hur många ödespoäng du hade till övers från förra spelsessionen. Om du hade mer ödespoäng än påfyllning så börjar din spelsession med vad du hade när förra spelsessionen avslutades.
+
+Kalle tjänade ihop flera ödespoäng under dagens spelsession, vilket slutade med 5 ödespoäng. Hans påfyllning är 2, så Kalle börjar nästa spelsession med 5 ödespoäng. Maria avslutade samma spelsession med bara ett ödespoäng. Hennes påfyllning är 3, så hon börjar nästa spelsession med 3 ödespoäng.
+
+Karaktärens persondetaljer
+--------------------------
+
+Ge din karaktär ett namn och en beskrivning, och diskutera hans eller hennes bakgrundshistoria med de andra spelarna. Om du inte beskrivit relationsaspekten än så är det tid att göra det nu.
+
+Utföra handling, rulla tärning
+==============================
+
+När du spelar *Öde - Kortfattad version* kommer du att bestämma över de handlingar som din skapade karaktär utför, och därigenom bidra till handlingen i spelet. Rent generellt så är det spelledaren som berättar om världen och vad spelledarpersonerna gör, och spelarna som berättar om deras karaktärers handlande.
+
+För att agera följa principen **berättelsen i första hand**: säg vad din karaktär försöker göra, *sedan* lista ut hur det ska gå till inom ramen för spelsystemet. Din karaktärs aspekter berättar vad de kan försöka göra och hjälper till att tolka resultaten. De flesta skulle inte ens försöka sig på akut kirurgi på en lemlästad allierad, men med en aspekt som etablerar en medicinsk bakgrund, så kan du försöka. Utan denna aspekt så är ditt bästa alternativ att köpa en liten stund för att få fram ett farväl. När du är osäker, rådfråga spelledaren och de andra runt bordet.
+
+Hur vet du om du lyckas? Vanligtvis lyckas din karaktär med vad han eller hon försöka göra av den enkla anledningen att det varken är svårt eller någon som försöker göra det svårt. Men i svåra eller oförutsägbara situationer behöver du tärningen för att utröna hur det går.
+
+När en karaktär vill utföra en handling behöver gruppen fundera över följande frågor:
+
+- Vad hindrar det från att hända?
+- Vad kan gå fel?
+- På vilket intressant sätt kan det gå fel?
+
+Om ingen har något har ett bra svar på någon av ovanstående fråga, så lyckas handlingen per automatik. Köra till flygplatsen kräver inget tärningsslag. I en desperat biljakt längs en motorväg till ett väntande plan jagad av cybernetiskt förstärkta bestar från en annan värld, är å andra sidan ett utmärkt tillfälle för att ta fram tärningarna.
+
+När du utför en handling, följ dessa steg:
+
+1. Berättelsen först: Berätta vad du försöker göra, *sedan* väljer du färdighet och handling som passar in.
+2. Slå fyra tärningar.
+3. Summera symbolerna på tärningarna: `+` betyder +1, `-` betyder -1, och blank betyder 0. Det ger ett spann från -4 till +4.
+4. Addera ihop tärningsresultatet med färdighetsvärdet.
+5. Modifiera tärningen genom att påkalla aspekter och utföra stunt.
+6. Tala om vad slutresultatet blir, benämnd ditt bidrag.
+
+Svårighet och motstånd
+----------------------
+
+Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast **svårighetsnivå**. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa aspekter (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
+
+Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom :ref:'försvar'.
 
 Invoke::
    Framkallande
