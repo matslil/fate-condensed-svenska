@@ -1,7 +1,10 @@
 .. contents:: Öde - Kortfattad version
 
+
+==============
 Skapa karaktär
 ==============
+
 
 Aspekter::
    Beskriver vem karaktären är
@@ -25,7 +28,7 @@ Karaktärens persondetaljer::
    Personlig information om karaktären
 
 Aspekter
---------
+========
 
 En aspekt är en kort mening som beskriver vem karaktären är eller vad som är viktigt för karaktären. Det kan innefatta
 
@@ -58,7 +61,7 @@ Fria aspekter::
    De sista två aspekterna kan vara vad som helst. Välj något som utvecklar din karaktär på ett sätt som gör spelet roligare eller får karaktären att bättre passa in i världen.
 
 Färdigheter
------------
+===========
 
 Aspekterna berättar **vem** din karaktär är, men färdigheterna berättar **vad** de kan göra. Varje färdighet berättar om en ganska bred färdighet som karaktären har lärt sig eller har talang för. En karaktär som har Stjäla kan, till viss grad, utföra allt som relaterar till att stjäla - kartlägga ett ställe för att förbereda för ett inbrott, gå förbi säkerhet, ficktjuveri och dyrka upp lås.
 
@@ -105,7 +108,7 @@ När du skapar karaktären väljs färdighetsnivåer med följande pyramid:
      - Skrämmande
 
 Färdigheterna
-~~~~~~~~~~~~~
+-------------
 
 - Akademi
 - Sport
@@ -185,14 +188,14 @@ Vilja::
    Mental styrka, kunna motstå frestelser och trauman. Stunt på vilja låter dig ignorera mentala konsekvenser, motstå mental dödsångest från okända krafter och behålla lugnet när andra försöker provocera. Hög vilja ger dig fler rutor på mental stress eller konsekvens.
 
 Stunt
------
+=====
 
 Även om alla karaktärer har tillgång till alla färdigheter - även om en del är på Medioker (+0) nivå för de flesta av dem - har din karaktär några unika stunt. Stunt är coola tekniker, tricks eller utrustning som gör din karaktär unik och intressant. Där färdigheter handlar om breda kompetenser så 'r stunt specifika förmågor; de flesta ger dig bonus under speciella omständigheter eller låter dig göra något som andra karaktärer inte kan.
 
 Din karaktär börjar med tre fria stunt. Du behöver inte bestämma dig för vad de ska vara från början utan du kan bestämma det under spelets gång. Du kan köpa en stunt genom att minska Återhämtning med ett, ner tills du bara har ett i Återhämtning kvar.
 
 Författa stunt
-~~~~~~~~~~~~~~
+--------------
 
 Du författar dina egna stunt när du gör karaktären. Det finns i grunden två olika sorters stunt: Bonusstunt och regeländrande stunt.
 
@@ -216,13 +219,13 @@ Regeländrande stunt::
    Exempel: Eftersom jag **inte tror på magi**, så kan jag **ignorera effekterna av övernaturliga förmågor**, men bara **en gång per spelsession**.
 
 Stress och konsekvenser
------------------------
+=======================
 
 Stress och konsekvenser är hur din karaktär står emot fysiska och mentala påfrestningar under äventyren. Karaktärerna har åtminstone tree rutor för fysisk stress och tre rutor för mental stress. De får också en ruta var för milda, medelsvåra och svåra konsekvenser.
 
 Din nivå i färdigheten Sport påverkar hur många fysiska stressrutor din karaktär har. Färdigheten Vilja gör motsvarande för mentala rutor. Se följande tabell:
 
-.. table:: 
+.. table::
    :widths: auto
 
    ================================  =====================
@@ -235,10 +238,10 @@ Din nivå i färdigheten Sport påverkar hur många fysiska stressrutor din kara
    Superb (5) eller högre            [1][1][1] [1][1][1] och en andra mild konsekvensruta speciellt för fysisk eller mental skada
    ================================  =====================
 
-Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i :ref:'Att ta skada'.
+Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i :ref`Att ta skada<Att ta skada>`.
 
 Påfyllning
-----------
+==========
 
 Din påfyllning är det minsta antal ödespoäng som din karaktär börjar med inför varje spelsession. Din karaktär börjar med en påfyllning av 3.
 
@@ -247,12 +250,15 @@ Du börjar varje spelsession med minst påfyllning ödespoäng. Kom ihåg att h�
 Kalle tjänade ihop flera ödespoäng under dagens spelsession, vilket slutade med 5 ödespoäng. Hans påfyllning är 2, så Kalle börjar nästa spelsession med 5 ödespoäng. Maria avslutade samma spelsession med bara ett ödespoäng. Hennes påfyllning är 3, så hon börjar nästa spelsession med 3 ödespoäng.
 
 Karaktärens persondetaljer
---------------------------
+==========================
 
 Ge din karaktär ett namn och en beskrivning, och diskutera hans eller hennes bakgrundshistoria med de andra spelarna. Om du inte beskrivit relationsaspekten än så är det tid att göra det nu.
 
+
+==============================
 Utföra handling, rulla tärning
 ==============================
+
 
 När du spelar *Öde - Kortfattad version* kommer du att bestämma över de handlingar som din skapade karaktär utför, och därigenom bidra till handlingen i spelet. Rent generellt så är det spelledaren som berättar om världen och vad spelledarpersonerna gör, och spelarna som berättar om deras karaktärers handlande.
 
@@ -278,11 +284,126 @@ När du utför en handling, följ dessa steg:
 6. Tala om vad slutresultatet blir, benämnd ditt bidrag.
 
 Svårighet och motstånd
-----------------------
+======================
 
 Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast **svårighetsnivå**. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa aspekter (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
 
-Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom :ref:'försvar'.
+Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom :ref:`försvarshandling<Försvar>`. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, aspekter och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
+
+Motstånd kan anta många former. Kämpa mot en medlem av en kult över en rituell dolk har en uppenbar motståndare. Eller du kanske kämpar mot kraften från en mystisk ritual som måste övervinnas för att rädda världen. Bryta sig in i kassavalvet  på Stadsbanken för att komma åt bankfacken är en utmaning med risk för att bli upptäckt, men det är upp till spelledaren om du slår mot *motståndet* från de patrullerande vakterna eller mot bankvalvets *svårighetsnivån*.
+
+Modifiera Tärningen
+===================
+
+Du kan modifiera tärningen genom att framkalla en aspekt för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också framkalla en aspekt för att :ref:`hjälpa en allierad <Samarbete>` eller öka svårighetsnivån för en fiende.
+
+Framkalla en aspekt
+-------------------
+
+När du utför en handling men tärningsslaget inte räcker till så behöver du inte bara sitta och acceptera nederlaget. (Fast du kan absolut göra det. Kan bli roligt det med.) Aspekterna som är i spel ger dig valmöjligheter och en väg till framgång.
+
+När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att framkalla den (eller använd ett fritt framkallande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att framkalla en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda :ref:`säkerhetsverktyg <Säkerhetsverktyg>` på liknande sätt.
+
+När ditt framkallande av aspekt anses fel har du två valmöjligheter. Du kan ta tillbaka framkallandet och försöka något annat, kanske annan aspekt. Du kan ha en snabb diskussion om varför du anser att aspekter passar in. Om personen inte blir övertygad, ta tillbaka framkallandet och gå vidare. Om du övertygar personen så kan du fortsätta med framallandet som vanligt. Falskregeln är till för att spelupplevelsen ska bli bra. Använd den när något inte låter rätt eller logiskt eller inte passar in. Att kasta en bil med framkallandet av aspekten **Framstående som första intryck** är troligen ett fall för falskregeln. Men kanske har karaktären har en övernaturlig stunt som gör honom eller henne otroligt stark, stark nog för att kunna kasta en bil, och detta är första striden mot ett hemskt monster. I det fallet kanske **Framstående som första intryck** skulle kunna fungera.
+
+När du framkallar en aspekt får du antingen +2 bonus på tärningsslaget, eller möjlighet att slå om alla tärningar, eller lägga till 2 på motståndarens svårighetsnivå om det kan motiveras. Du kan göra multiple framkallanden för samma tärningsslag så länge det görs mot olika aspekter, med ett undantag: Du kan använda så många *fria framkallanden* för en aspekt som du vill på samma tärningsslag.
+
+Vanligtvis framkallar du en av din karaktärs aspekter. Du kan också :ref:`framkalla en situationsaspekt <Framkallanden>` eller göra ett :ref:`fientligt framkallande <Fientliga framkallanden>` av någon annan karaktärs aspekt.
+
+Använda stunt
+-------------
+
+Stunt kan ge dig en bonus på dina tärningsslag förutsatt att du uppfyller kraven som är skrivna för stunten, till exempel omständighet, handling eller använd färdighet. Du kan vilja :ref:`skapa övertag <Skapa ett övertag>` för att introducera aspekter som ger de rätta omständigheterna. Tänk på stuntens omständigheter när du beskriver dina handlingar också, och förbered dig på framgång.
+
+Normalt ger stunt +2 bonus inom ett snäv omständighet utan kostnad; du kan använda dem närhelst de är tillämpbara. Vissa sällsynta och kraftfulle stunt kan kräva ödespoäng för att använda dem.
+
+Resultat
+========
+
+Skillnaden mellan ansträngningen (tärningsslaget plus modifikationer) och svårighetsnivån eller motståndet kallas steg. Ett steg har värdet 1. Det finns fyra möjliga resultat:
+
+- Om din ansträngning är mindre än svårighetsnivån eller motståndet, misslyckas du.
+- Om din ansträngning är lika med svårighetsnivån eller motståndet, blir det oavgjort.
+- Om din ansträngning är ett eller två steg över svårighetsnivån eller motståndet, lyckas du.
+- Om din ansträngning är tre eller fler steg över svårighetsnivån eller motståndet, lyckas du med stil.
+
+En del resultat är uppenbarligen bättre för dig än andra, men alla bör föra fram historien på ett intressant sätt. Du började med :ref:`historien först <Utföra handling, rulla tärning>`; se till att du slutar med det också, för att bibehålla fokus på historien, och för att säkerställa att du tolkar resultatet på ett sätt som passar handlingen.
+
+Ethan är inte så bra på att knäcka kassaskåp (även om han har verktygen), och ändå är han i en lömsk sekts vaktade högkvarter, med en ståldörr mellan sig och en rituell bok som han är i desperat behov av. Kan han komma in?
+
+Misslyckande
+------------
+
+Om din ansträngning är mindre än svårighetsnivån eller motståndet, så misslyckas du.
+
+Det kan spelas på ett antal olika sätt: enkelt misslyckande, lyckas till stor kostnad, eller att ta emot en träff.
+
+Enkelt misslyckande
+~~~~~~~~~~~~~~~~~~~
+
+Den första är enklast att förstå - **enkelt misslyckande**. Du uppnår inte ditt mål, gör inga framsteg. Se till att historien förs fram av det - att helt enkelt misslyckas med att dyrka upp kassavalvet är trögt och tråkigt.
+
+Ethan drar triumferande i handtaget, men kassavalvet förblir stängt medan alarmet börjar ljuda. Misslyckandet har förändrat situationen och driver historien framåt - nu är det vakter på väg. Ethan måste välja mellan att försöka igen, eller minska förlusterna och springa.
+
+Lyckas till stor kostnad
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Den andra är ett **lyckas till stor kostnad**. Du gör det du tänkte, men det finns ett stort pris att betala - situationen blir värre eller mer komplicerat. Spelledaren kan antingen bestämma detta resultat eller erbjuda det istället för ett enkelt misslyckande. Båda alternativen är bra och användbara i olika situationer.
+
+Ethan misslyckas med sitt tärningsslag och spelledaren säger "Du hör ett klick när det sista stiftet faller på plats. Det ekar till det klickande ljudet av hanen som spänns på en revolver när en vakt säger åt dig att sätta händerna upp i vädret.". Den stora kostnaden här är konfrontationen med en vakt som han hade hoppats undvika.
+
+Ta emot en träff
+~~~~~~~~~~~~~~~~
+
+Slutligen kan du **ta emot en träff**, som du måste sätta upp på stress eller konsekvens, eller få någon annan nackdel. Det här misslyckandet är mest vanligt när man försvarar sig mot en attack eller försöker övervinna något farligt hinder. Det här skiljer sig från enkelt misslyckande genom att karaktären själv, och inte nödvändigtvis hela truppen, påverkas. Det skiljer sig också från lyckas till stor kostnad genom att lyckas inte nödvändigtvis finns tillgängligt som ett alternativ.
+
+Ethan lyckas dyrka upp kassavalvet, men när han öppnar känner han ett sting i handen. Han misslyckades med att desarmera fällan! Han skriver ner en mild konsekvens **Förgiftad**.
+
+Du kan mixa dessa alternativ: Skadliga misslyckanden kan vara tufft men rätt i stunden. Lyckas till kostnaden av skada kan mycket väl vara ett alternativ.
+
+Oavgjort
+--------
+
+Om din ansträngning är lika med svårighetsnivån eller moståndet, blir det oavgjort.
+
+Liksom vid misslyckande bör oavgjort föra historien framåt, aldrig strypa händelserna. Något intressant ska bör hända. Liksom vid misslyckande kan det spelas på olika sätt: Lyckas till mindre kostnad eller delvis lyckande.
+
+Lyckas till mindre kostnad
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Den första är **lyckas till mindre kostnad** - några poäng av stress, detaljer i historien om svårigheter eller komplikationer som i sig inte är några hinder, bonus åt fienden är alla mindre kostander.
+
+Ethans första försöka misslyckas. När han väl lyckas få upp kassavalvet har det blivit ljust igen, och att fly i skyddet av mörkret är inte längre att tänka på. Han fick det han ville ha, men situationen är värre nu.
+
+Delvis lyckande
+~~~~~~~~~~~~~~~
+
+Det andra sättet att hantera oavgjort är **devlis lyckande** - du lyckas men fick bara en del av det du ville ha.
+
+Ethan lyckas bara öppna kassavalvet på glänt - om dörren öppnas mer kommer larmet ljuda och han kan inte lista ut hur han ska desarmera det. Han lyckas slita ut några sidor ur boken genom öppningen, men kommer att behöva gissa sig fram till de sista stegen.
+
+Lyckas
+------
+
+Om din ansträngning är en eller två steg över svårighetsnivån eller motståndet så lyckas du.
+
+Du får det du villa ha utan extra kostnad.
+
+Öppen! Ethan tar ritualboken och lämnar innan vakterna märker det.
+
+Tillämpa "händelse först" på lyckas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historien definierar vad lyckas betyder. Tänk om Ethan inte hade de verktyg eller erfarenheter som krävdes för att dyrka upp kassavalvet? Kanske lyckas då är likt "till mindre kostnad" i exemplen ovan. Om Ethan var med och konstruerade kassavalvet så kanske lyckas är närmare "med stil" i exemplen.
+
+Lyckas med stil
+---------------
+
+Om din ansträngning är tre steg över svårighetsnivån eller motståndet så lyckas du med stil.
+
+Du får det du ville, men får mer utöver det.
+
+Ethan har otrolig tur; kassavalvet öppnas nästan omedelbart. Inte nog med att han får ritualboken, men han hinner titta runt bland de andra papperena i valvet. Bland liggare och finansiella dokument hittar han en karta över gamla Akeleys herrgård.
 
 Invoke::
    Framkallande
