@@ -124,7 +124,7 @@ Färdigheterna
 - Uppmärksamma
 - Kroppsbyggnad
 - Provocera
-- Samband
+- Kontakt
 - Resurser
 - Skjuta
 - Smyga
@@ -172,11 +172,11 @@ Kroppsbyggnad::
 Provocera::
    Att få folk ur balans för att få dem att göra det du vill. Det är hotande och manipulativt, inga positiva interaktioner. Stunt på provocera ger dig möjligheten att provocera folk till att göra något dumstristigt, få dem att bli aggressiva mot dig eller skrämmas.
 
-Samband::
-   Bygga förtroende och samförstånd, övertala folk att vilja hjälpa till. Stunt på samband låter dig att påverka en folksamling, improvisera relationer eller få nya kontakter.
+Kontakt::
+   Bygga förtroende och samförstånd, övertala folk att vilja hjälpa till. Stunt på kontakt låter dig att påverka en folksamling, improvisera relationer eller få nya kontakter.
 
 Resurser::
-   Ger dig tillgång till materiella ting, inte bara pengar eller direkt ägarskap. Det kan vara att låna från vänner eller organisationer. Stunt på resurser ger dig möjilgheten att använda resurser istället för samband eller kontakter eller extra fria framkallanden när du betalar för det bästa.
+   Ger dig tillgång till materiella ting, inte bara pengar eller direkt ägarskap. Det kan vara att låna från vänner eller organisationer. Stunt på resurser ger dig möjilgheten att använda resurser istället för kontakt eller kontakter eller extra fria framkallanden när du betalar för det bästa.
 
 Skjuta::
    All form av avståndsvapen, kastvapen, bågar, armborst. Stunt på skjuta ger dig möjlighet att dra fram vapnet snabbt eller att alltid ha vapnet tillhands.
@@ -210,7 +210,7 @@ Regeländrande stunt::
 
    - Byta ut vilken färdighet du använder i en given situation. Till exempel, en forskare kan använda Akademi när han utför en ritual, när man normalt skulle ha använt Mysticism.
    - Använda en handling som färdigheten normalt inte används för. Till exempel att låta karaktären använda Smyga för att anfalla i ryggen från skuggorna, istället för att använda Slåss.
-   - Ge karaktären någon annan form av bonus som är ungefär likvärdigt med +2 bonus. Till exempel när en tränad talare får en fördel med hjälp av Samband, så ger det en extra fri framkallande.
+   - Ge karaktären någon annan form av bonus som är ungefär likvärdigt med +2 bonus. Till exempel när en tränad talare får en fördel med hjälp av Kontakt, så ger det en extra fri framkallande.
    - Ge karaktären möjlighet att deklarera em faktadetalj som alltid är sann. Till exempel, en överlevare har alltid överlevnadsutrustning som tändstickor på sig, även under osannolika förhållanden. Den här stunten gör att du inte behöver förklara i historien hur det gick till.
    - Tillåt karaktären att göra ett specifikt regelundantag. Till exempel, en karaktär kan ha två till stressrutor eller en extra konsekvensruta.
 
@@ -404,6 +404,105 @@ Om din ansträngning är tre steg över svårighetsnivån eller motståndet så 
 Du får det du ville, men får mer utöver det.
 
 Ethan har otrolig tur; kassavalvet öppnas nästan omedelbart. Inte nog med att han får ritualboken, men han hinner titta runt bland de andra papperena i valvet. Bland liggare och finansiella dokument hittar han en karta över gamla Akeleys herrgård.
+
+Handlingar
+==========
+
+Det finns fyra olika handlingar som du kan utföra, var och en med sitt eget specifika syfte och inverkan på berättelsen:
+
+- **Övervinna** ett hinder med hjälp av dina färdigheter.
+- **Skapa ett övertag** för att ändra situationen till din fördel.
+- **Attackera** för att skada en fiende.
+- **Försvara** för att överleva en attack, stoppa en motståndare från att skapa ett övertag eller förhindra ett försök att övervinna ett hinder.
+
+Övervinna
+---------
+
+Övervinna ett hinder med hjälp av dina färdigheter.
+
+Varje karaktär möter ett otal utmaningar under berättelsens gång. Handlingen övervinna är vad de använder för att möta och bemästra dessa utmaningar.
+
+En karaktär med nivån god på Sport kan klättra över murar och rusa genom folkvimlet på gatan. En detektiv med hög Undersöka kan pussla ihop ledtrådar som andra missat. Någon som är kunning inom Kontakt kommer att finna det lättare att undvika ett bråk på en fientlig bar.
+
+Dina alternativ för övervinna är:
+
+- **Om du misslyckas**, diskutera med spelledaren (och försvarande spelare, om någon) huruvida det är ett misslyckande eller :ref:`lyckande till stor kostnad <Lyckas till stor kostnad>`.
+- **Om det är oavgjort**, så är det :ref:`lyckas till mindre kostnad <Lyckas till mindre kostnad>` - du är i en svår sits, fienden får en :ref:`bonus <Bonus>`, eller du tar skada. Alternativt så fallerar du, men får en bonus.
+- **Om du lyckas**, så uppnår du ditt mål och berättelsen går vidare utan fler störningar.
+- **Om du lyckas med stil**, så uppnår du ditt mål och får också en bonus.
+
+Charles har kommit fram till den antarktiska forskningsstationen. Byggnaderna är i ruiner och invånarna är inte kvar. Han vill söka igenom ruinerna för ledtrådar. Spelledaren ber honom att slå på Undersöka mot svårighetsnivån Hyffsad (+2). Charles slår [ ][ ][+][+], adderar sin Ordinär (+1) på Undersöka, och får God (+3) på sin ansträngning. Ett lyckande! Spelledaren beskriver ledtrådarna han hittar: fotspår i snön, gjord av något djur som går på många tunna, icke-mänskliga ben.
+
+Handling övervinna används i allmänhet för att utröna om karaktären kan få tillgång till eller notera fakta eller ledtrådar. Håll ett öga på lyckas-till-en-kostnad-alternativet när så är fallet. Om att missa en detalj skulle sinka berättelsen ignorera misslyckanden och fokusera på kostnaden för lyckanden istället.
+
+Skapa ett övertag
+-----------------
+
+Skapa en situationsaspekt eller få en fördel av en existerande aspekt.
+
+Du kan använda **skapa ett övertag** handling för att ändra berättelsens gång. Genom att använda dina färdigheter för att skapa nya aspekter eller lägga tilll framkallanden till befintliga aspekter kan du manipulera situationen till din och dina lagkamraters fördel. Du kan ändra på omständigheterna (barrikadera en dörr eller skapa en plan), upptäcka ny information (få reda på ett monsters svaghet genom efterforskning) eller ta fördel av något som redan är känt (som VD:ns smak för whiskey).
+
+En aspekt skapad (eller upptäckt) genom skapandet av en fördel fungerar som vilken annan aspekt som helst: Den styr berättelsens omständigheter och kan tillåta, förhindra eller försvåra handling - till exempel, du kan inte läsa besvärjelsen om rummet blev becksvart. Det kan också bli :ref:`framkallad <Framkallanden>` eller :ref:`betvingad <Betvinganden>`. När du skapar ett övertag får du en eller flera fria framkallanden utöver den skapade aspekten. Ett fritt framkallande, som namnet antyder, låter dig framkalla en aspekt utan att behöva spendera ett ödespoäng. Du kan till och med låta dina allierade använda fria framkallanden som du har skapat.
+
+När du slår tärning för att skapa ett övertag, ange om du skapar en ny aspekt eller drar fördel av en existerande. Om det är det förstnämnda, lägger du det på en allierad, moståndare eller miljön? Om du lägger den på din motståndare kan de välja en försvrshandling för att göra motstånd. Annars kommer du att möta en svårighetsnivå, men spelledaren kan välja om något eller någon motverkar dina ansträngningar med ett försvarsslag istället.
+
+Dina alternativ för skapa ny aspekt är:
+
+- **Om du misslyckas**, antingen skapar du ingen ny aspekt (fallerar) eller så skapar du den men fienden får fri framkallande (lyckas till en kostnad). Om du lyckas till en kostnad så kan detaljerna kring aspekten behöva skrivas om för att passa fienden. Det kan ändå vara värt det för :ref:`aspekter är alltid sanna <Aspekter är sanna>`.
+- **Om det blir oavgjort**, så skapar du ingen ny aspekt men du får en :ref:`bonus <Bonus>`.
+- **Om du lyckas**, så skapar du en situationsaspekt med ett fritt framkallande för det.
+- **Om du lyckas med stil**, så skapar du en situationsaspekt med *två* fria framkallanden för det.
+
+Med existerande eller okänd aspekt är alternativen:
+
+- **Om du misslyckas**, och aspekten var känd, så får fienden ett fritt framkallande. Om aspekten var okänd så kan fienden välja att avslöja aspekten för att få ett fritt framkallande.
+- **Om det blir oavgjort**, så får du en bonus om aspekten är okänd, aspekten förblir okänd. Om aspekten är känd så får du ett fritt framkallande istället.
+- **Om du lyckas**, så får du ett fritt framkallande och avslöjar aspekten om den är okänd.
+- **Om du lyckas med stil**, så får du två fria framkallanden, och avsläjar aspekten om den är okänd.
+
+Ethan möter en shoggoth, en massiv och uthållig köttig best. Han vet att den är alltför mäktig för att attackera den rakt på, så han bestämmer sig för att bästa taktiken är att distrahera den: "Jag vill göra en Molotov-coctail och sätta eld på saker!" deklarerar han.
+
+Spelledaren bestämmer sig för att faktiskt träffa shoggoth är trivialt, så detta är ett Hantverks-slag - hur snabbt kan han finna och göra något till ett brinnande vapen? Svårighetsnivån sätts till God (+3). Ethan har Ordinär (+1) Hantverk men slår [ ][+][+][+], vilket ger honom Utmärkt (+4) i ansträngning.
+
+Ethan samlar ihop till en Molotov-coctail och kastar den på besten. Shoggoth är nu *brinnande* nu och Ethan får ett fritt framkallande för denna nya aspekt. Shoggoth är definitivt distraherad och om den försöker jaga honom, kan han använda detta framkallande för att hjälpa honom att undkomma.
+
+Attackera
+---------
+
+Attackera för att skada fiende.
+
+Attackera-handling är hur du försöker ta ner en motståndare - försöka döda något förhatligt monster eller kanske slå en vakt medvetslös som inte vet vad det är han vaktar. En attack kan vara att att skjuta med ett maskingevär, utdela en smocka eller kasta en elak besvärjelse.
+
+Tänk på huruvida du överhuvudtaget kan göra någon skada på motståndaren. Inte alla attacker är lika. Du kan inte slå en kaiju och hoppas på att du skadar den. Ta reda på huruvida attacken har en chans att lyckas före du börjar slå tärningar. Många kraftfulla väsen kan ha specifika svagheter som man måste utnyttja, eller någon form av skydd som man måste tränga igenom innan man kan börja skada dem.
+
+Dina alternativ för attacker är:
+
+- **Du misslyckas**, du når inte fram - motståndaren parerar, duckar eller skadan absorberas av rustning.
+- **Det blir oavgjort**, kanske når du fram nätt och jämt, eller du fick motståndaren att rycka till. Oavsett så får du en :ref:`bonus <Bonus>`.
+- **Om du lyckas**, du utdelar skada som är skillnaden attackens total och försvarets ansträngning. Försvararen måste ta skadan som stress eller konsekvens, eller :ref:`bli utslagen <Att bli utslagen>`.
+- **Om du lyckas med stil**, du utdelar skada i likhet med vanligt lyckat slag, men du har möjlighet att minska skadan med en nivå för att få en bonus.
+
+Ruth snubblar över ett lik som väckts till liv av mystiska krafter för att fullfölja något mörkt syfte. Hon bestämmer sig för att slå till det. Hon har Utmärkt (+4) Slåss men slår [-][-][ ][ ], vilket ger Hyffsat (+2) i ansträngning.
+
+Försvar
+-------
+
+Försvara för att överleva en attack eller ingripa i en fiendes handling.
+
+Försöker ett monster äta upp ditt ansikte? Försöker en fiende att knuffa dig ur vägen när de försöker fly din vrede? Hur var det med den där kultmedlemmen när han försökte knivhugga dig i båda njurarna? **Försvar**, försvar, försvar.
+
+Försvar är den enda reaktiva handlingen i *Öde - Kortfattad version*. Du använder den för att stoppa något från att hända utanför din tur, så du möter oftast ett motståndaslag snarare än att slå mot en svårighet. Fienden slår, och du slår direkt för att försvara dig, så länge du är målet för attacken eller du kan motivera ditt motstånd (vilket oftast gör dig till målet för attacken). Aspekter eller stunt kan hjälpa till att motivera.
+
+Alternativen för försvar är:
+
+- **Du misslyckas** försvara dig mot en attack, du tar skada, vilket måste tas av :ref:`stress <Stress>` eller :ref:`konsekvenser <Konsekvenser>`. Oavsett så lyckas fienden med sin handling så som de beskrev den.
+- **Om det blir oavgjort**, följ vad som står för oavgjort på attackens beskrivning.
+- **Om du lyckas**, så tar du ingen skada eller du förhindrar fiendens handling.
+- **Om du lyckas med stil**, så tar du ingen skada, förhindrar fiendens handling, och får till och med en bnonus eftersom du får ett övertag just nu.
+
+Fortsättning från föregående exempel: Liket försvarar sig mot Ruth. Spelledaren slår [-][ ][ ][+], vilket inte förändrar varelsens Medikoer (+0) Sport.
+
+
 
 Invoke::
    Framkallande
