@@ -22,7 +22,7 @@ Konsekvenser::
    Skador, fysiska såväl som psykiska, som karaktären kan utstå
 
 Påfyllning::
-   Mått på karaktärens narrativa förmåga, dvs hur bra karaktären kan bidra till historien
+   Mått på karaktärens narrativa förmåga, dvs hur bra karaktären kan bidra till berättelsen
 
 Karaktärens persondetaljer::
    Personlig information om karaktären
@@ -40,7 +40,7 @@ En aspekt är en kort mening som beskriver vem karaktären är eller vad som är
 
 Aspekter är alltid sanna per definition. Om en aspekt säger att karaktären är en lönnmördare med föraningar, så får han föraningar som lönnmördare.
 
-Aspekter används också under spelets gång för att ändra på historien. Den ger dig möljighet att förbättra tärningsslag och att etablera fakta om världen. Slutligen, aspekter kan ge dig ödespoäng om de ger karaktären komplikationer. Av den anledningen är bra aspekter tveeggade, de kan både användas för positiva saker som att förbättra tärningsslag såväl som negativa för att göra livet mer komplicerat men samtidigt ge ödespoäng.
+Aspekter används också under spelets gång för att ändra på berättelsen. Den ger dig möljighet att förbättra tärningsslag och att etablera fakta om världen. Slutligen, aspekter kan ge dig ödespoäng om de ger karaktären komplikationer. Av den anledningen är bra aspekter tveeggade, de kan både användas för positiva saker som att förbättra tärningsslag såväl som negativa för att göra livet mer komplicerat men samtidigt ge ödespoäng.
 
 Karaktären börjar med fem aspekter: Två övergripande aspekt, problem, relation, och två fria aspekter. Börja med den övergripande aspekten.
 
@@ -211,7 +211,7 @@ Regeländrande stunt::
    - Byta ut vilken färdighet du använder i en given situation. Till exempel, en forskare kan använda Akademi när han utför en ritual, när man normalt skulle ha använt Mysticism.
    - Använda en handling som färdigheten normalt inte används för. Till exempel att låta karaktären använda Smyga för att anfalla i ryggen från skuggorna, istället för att använda Slåss.
    - Ge karaktären någon annan form av bonus som är ungefär likvärdigt med +2 bonus. Till exempel när en tränad talare får en fördel med hjälp av Kontakt, så ger det en extra fri åberopande.
-   - Ge karaktären möjlighet att deklarera em faktadetalj som alltid är sann. Till exempel, en överlevare har alltid överlevnadsutrustning som tändstickor på sig, även under osannolika förhållanden. Den här stunten gör att du inte behöver förklara i historien hur det gick till.
+   - Ge karaktären möjlighet att deklarera em faktadetalj som alltid är sann. Till exempel, en överlevare har alltid överlevnadsutrustning som tändstickor på sig, även under osannolika förhållanden. Den här stunten gör att du inte behöver förklara i berättelsen hur det gick till.
    - Tillåt karaktären att göra ett specifikt regelundantag. Till exempel, en karaktär kan ha två till stressrutor eller en extra konsekvensruta.
 
    Skriv stunten enligt följande mönster:
@@ -327,7 +327,7 @@ Skillnaden mellan ansträngningen (tärningsslaget plus modifikationer) och svå
 - Om din ansträngning är ett eller två steg över svårighetsnivån eller motståndet, lyckas du.
 - Om din ansträngning är tre eller fler steg över svårighetsnivån eller motståndet, lyckas du med stil.
 
-En del resultat är uppenbarligen bättre för dig än andra, men alla bör föra fram historien på ett intressant sätt. Du började med `historien först <#Utföra handling, rulla tärning>`_; se till att du slutar med det också, för att bibehålla fokus på historien, och för att säkerställa att du tolkar resultatet på ett sätt som passar handlingen.
+En del resultat är uppenbarligen bättre för dig än andra, men alla bör föra fram berättelsen på ett intressant sätt. Du började med `berättelsen först <#Utföra handling, rulla tärning>`_; se till att du slutar med det också, för att bibehålla fokus på berättelsen, och för att säkerställa att du tolkar resultatet på ett sätt som passar handlingen.
 
 Ethan är inte så bra på att knäcka kassaskåp (även om han har verktygen), och ändå är han i en lömsk sekts vaktade högkvarter, med en ståldörr mellan sig och en rituell bok som han är i desperat behov av. Kan han komma in?
 
@@ -341,9 +341,9 @@ Det kan spelas på ett antal olika sätt: enkelt misslyckande, lyckas till stor 
 Enkelt misslyckande
 ~~~~~~~~~~~~~~~~~~~
 
-Den första är enklast att förstå - **enkelt misslyckande**. Du uppnår inte ditt mål, gör inga framsteg. Se till att historien förs fram av det - att helt enkelt misslyckas med att dyrka upp kassavalvet är trögt och tråkigt.
+Den första är enklast att förstå - **enkelt misslyckande**. Du uppnår inte ditt mål, gör inga framsteg. Se till att berättelsen förs fram av det - att helt enkelt misslyckas med att dyrka upp kassavalvet är trögt och tråkigt.
 
-Ethan drar triumferande i handtaget, men kassavalvet förblir stängt medan alarmet börjar ljuda. Misslyckandet har förändrat situationen och driver historien framåt - nu är det vakter på väg. Ethan måste välja mellan att försöka igen, eller minska förlusterna och springa.
+Ethan drar triumferande i handtaget, men kassavalvet förblir stängt medan alarmet börjar ljuda. Misslyckandet har förändrat situationen och driver berättelsen framåt - nu är det vakter på väg. Ethan måste välja mellan att försöka igen, eller minska förlusterna och springa.
 
 Lyckas till stor kostnad
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -366,12 +366,12 @@ Oavgjort
 
 Om din ansträngning är lika med svårighetsnivån eller moståndet, blir det oavgjort.
 
-Liksom vid misslyckande bör oavgjort föra historien framåt, aldrig strypa händelserna. Något intressant ska bör hända. Liksom vid misslyckande kan det spelas på olika sätt: Lyckas till mindre kostnad eller delvis lyckande.
+Liksom vid misslyckande bör oavgjort föra berättelsen framåt, aldrig strypa händelserna. Något intressant ska bör hända. Liksom vid misslyckande kan det spelas på olika sätt: Lyckas till mindre kostnad eller delvis lyckande.
 
 Lyckas till mindre kostnad
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Den första är **lyckas till mindre kostnad** - några poäng av stress, detaljer i historien om svårigheter eller komplikationer som i sig inte är några hinder, bonus åt fienden är alla mindre kostander.
+Den första är **lyckas till mindre kostnad** - några poäng av stress, detaljer i berättelsen om svårigheter eller komplikationer som i sig inte är några hinder, bonus åt fienden är alla mindre kostander.
 
 Ethans första försöka misslyckas. När han väl lyckas få upp kassavalvet har det blivit ljust igen, och att fly i skyddet av mörkret är inte längre att tänka på. Han fick det han ville ha, men situationen är värre nu.
 
@@ -523,7 +523,7 @@ Aspekter och ödespoäng
 
 En aspekt är ett ord eller fras som beskriver något utmärkande om en person, plats, ting, situation eller grupp. Samligen av alla aspekter beskriver vad som för tillfället är intressant för berättelsen här och nu, det vill säga allt sådant som har god chans att påverka fortsättningen på berättelsen. De är till för att sätta fokus på vad som är viktigt just nu.
 
-En person kan ha rykte om sig att vara den **Bästa prickskytten i ödemarkerna** (se nedan för mer om denna typ av aspekter). Ett rum kan vara **Brinnande** efter att du slagit omkull en oljelykta. Efter att ha träffat på ett monster så kan du ha blivit **Förskräckt**. Aspekter låter dig ändra historiens gång på sätt som är i linje med karaktärernas personlighet, färdigheter eller problem.
+En person kan ha rykte om sig att vara den **Bästa prickskytten i ödemarkerna** (se nedan för mer om denna typ av aspekter). Ett rum kan vara **Brinnande** efter att du slagit omkull en oljelykta. Efter att ha träffat på ett monster så kan du ha blivit **Förskräckt**. Aspekter låter dig ändra berättelsens gång på sätt som är i linje med karaktärernas personlighet, färdigheter eller problem.
 
 Aspekter är alltid sanna
 ========================
