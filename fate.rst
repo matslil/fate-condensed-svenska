@@ -288,32 +288,32 @@ Svårighet och motstånd
 
 Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast **svårighetsnivå**. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa aspekter (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
 
-Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom :ref:`försvarshandling<Försvar>`. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, aspekter och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
+Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom `försvarshandling <#Försvar>`_. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, aspekter och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
 
 Motstånd kan anta många former. Kämpa mot en medlem av en kult över en rituell dolk har en uppenbar motståndare. Eller du kanske kämpar mot kraften från en mystisk ritual som måste övervinnas för att rädda världen. Bryta sig in i kassavalvet  på Stadsbanken för att komma åt bankfacken är en utmaning med risk för att bli upptäckt, men det är upp till spelledaren om du slår mot *motståndet* från de patrullerande vakterna eller mot bankvalvets *svårighetsnivån*.
 
 Modifiera Tärningen
 ===================
 
-Du kan modifiera tärningen genom att åberopa en aspekt för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också åberopa en aspekt för att :ref:`hjälpa en allierad <Samarbete>` eller öka svårighetsnivån för en fiende.
+Du kan modifiera tärningen genom att åberopa en aspekt för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också åberopa en aspekt för att `hjälpa en allierad <#Samarbete>`_ eller öka svårighetsnivån för en fiende.
 
 Åberopa en aspekt
 -------------------
 
 När du utför en handling men tärningsslaget inte räcker till så behöver du inte bara sitta och acceptera nederlaget. (Fast du kan absolut göra det. Kan bli roligt det med.) Aspekterna som är i spel ger dig valmöjligheter och en väg till framgång.
 
-När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att åberopa den (eller använd ett fritt åberopande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att åberopa en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda :ref:`säkerhetsverktyg <Säkerhetsverktyg>` på liknande sätt.
+När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att åberopa den (eller använd ett fritt åberopande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att åberopa en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda `säkerhetsverktyg <#Säkerhetsverktyg>`_ på liknande sätt.
 
 När ditt åberopande av aspekt anses fel har du två valmöjligheter. Du kan ta tillbaka åberopandet och försöka något annat, kanske annan aspekt. Du kan ha en snabb diskussion om varför du anser att aspekter passar in. Om personen inte blir övertygad, ta tillbaka åberopandet och gå vidare. Om du övertygar personen så kan du fortsätta med framallandet som vanligt. Falskregeln är till för att spelupplevelsen ska bli bra. Använd den när något inte låter rätt eller logiskt eller inte passar in. Att kasta en bil med åberopandet av aspekten **Framstående som första intryck** är troligen ett fall för falskregeln. Men kanske har karaktären har en övernaturlig stunt som gör honom eller henne otroligt stark, stark nog för att kunna kasta en bil, och detta är första striden mot ett hemskt monster. I det fallet kanske **Framstående som första intryck** skulle kunna fungera.
 
 När du åberopar en aspekt får du antingen +2 bonus på tärningsslaget, eller möjlighet att slå om alla tärningar, eller lägga till 2 på motståndarens svårighetsnivå om det kan motiveras. Du kan göra multiple åberopanden för samma tärningsslag så länge det görs mot olika aspekter, med ett undantag: Du kan använda så många *fria åberopanden* för en aspekt som du vill på samma tärningsslag.
 
-Vanligtvis åberopar du en av din karaktärs aspekter. Du kan också :ref:`åberopa en situationsaspekt <Åberopanden>` eller göra ett :ref:`fientligt åberopande <Fientliga åberopanden>` av någon annan karaktärs aspekt.
+Vanligtvis åberopar du en av din karaktärs aspekter. Du kan också `åberopa en situationsaspekt <#Åberopanden>`_ eller göra ett `fientligt åberopande <#Fientliga åberopanden>`_ av någon annan karaktärs aspekt.
 
 Använda stunt
 -------------
 
-Stunt kan ge dig en bonus på dina tärningsslag förutsatt att du uppfyller kraven som är skrivna för stunten, till exempel omständighet, handling eller använd färdighet. Du kan vilja :ref:`skapa övertag <Skapa ett övertag>` för att introducera aspekter som ger de rätta omständigheterna. Tänk på stuntens omständigheter när du beskriver dina handlingar också, och förbered dig på framgång.
+Stunt kan ge dig en bonus på dina tärningsslag förutsatt att du uppfyller kraven som är skrivna för stunten, till exempel omständighet, handling eller använd färdighet. Du kan vilja `skapa övertag <#Skapa ett övertag>`_ för att introducera aspekter som ger de rätta omständigheterna. Tänk på stuntens omständigheter när du beskriver dina handlingar också, och förbered dig på framgång.
 
 Normalt ger stunt +2 bonus inom ett snäv omständighet utan kostnad; du kan använda dem närhelst de är tillämpbara. Vissa sällsynta och kraftfulle stunt kan kräva ödespoäng för att använda dem.
 
@@ -327,7 +327,7 @@ Skillnaden mellan ansträngningen (tärningsslaget plus modifikationer) och svå
 - Om din ansträngning är ett eller två steg över svårighetsnivån eller motståndet, lyckas du.
 - Om din ansträngning är tre eller fler steg över svårighetsnivån eller motståndet, lyckas du med stil.
 
-En del resultat är uppenbarligen bättre för dig än andra, men alla bör föra fram historien på ett intressant sätt. Du började med :ref:`historien först <Utföra handling, rulla tärning>`; se till att du slutar med det också, för att bibehålla fokus på historien, och för att säkerställa att du tolkar resultatet på ett sätt som passar handlingen.
+En del resultat är uppenbarligen bättre för dig än andra, men alla bör föra fram historien på ett intressant sätt. Du började med `historien först <#Utföra handling, rulla tärning>`_; se till att du slutar med det också, för att bibehålla fokus på historien, och för att säkerställa att du tolkar resultatet på ett sätt som passar handlingen.
 
 Ethan är inte så bra på att knäcka kassaskåp (även om han har verktygen), och ändå är han i en lömsk sekts vaktade högkvarter, med en ståldörr mellan sig och en rituell bok som han är i desperat behov av. Kan han komma in?
 
@@ -426,8 +426,8 @@ En karaktär med nivån god på Sport kan klättra över murar och rusa genom fo
 
 Dina alternativ för övervinna är:
 
-- **Om du misslyckas**, diskutera med spelledaren (och försvarande spelare, om någon) huruvida det är ett misslyckande eller :ref:`lyckande till stor kostnad <Lyckas till stor kostnad>`.
-- **Om det är oavgjort**, så är det :ref:`lyckas till mindre kostnad <Lyckas till mindre kostnad>` - du är i en svår sits, fienden får en :ref:`bonus <Bonus>`, eller du tar skada. Alternativt så fallerar du, men får en bonus.
+- **Om du misslyckas**, diskutera med spelledaren (och försvarande spelare, om någon) huruvida det är ett misslyckande eller `lyckande till stor kostnad <#Lyckas till stor kostnad>`_.
+- **Om det är oavgjort**, så är det `lyckas till mindre kostnad <#Lyckas till mindre kostnad>`_ - du är i en svår sits, fienden får en `bonus <#Bonus>`_, eller du tar skada. Alternativt så fallerar du, men får en bonus.
 - **Om du lyckas**, så uppnår du ditt mål och berättelsen går vidare utan fler störningar.
 - **Om du lyckas med stil**, så uppnår du ditt mål och får också en bonus.
 
@@ -442,14 +442,14 @@ Skapa en situationsaspekt eller få en fördel av en existerande aspekt.
 
 Du kan använda **skapa ett övertag** handling för att ändra berättelsens gång. Genom att använda dina färdigheter för att skapa nya aspekter eller lägga tilll åberopanden till befintliga aspekter kan du manipulera situationen till din och dina lagkamraters fördel. Du kan ändra på omständigheterna (barrikadera en dörr eller skapa en plan), upptäcka ny information (få reda på ett monsters svaghet genom efterforskning) eller ta fördel av något som redan är känt (som VD:ns smak för whiskey).
 
-En aspekt skapad (eller upptäckt) genom skapandet av en fördel fungerar som vilken annan aspekt som helst: Den styr berättelsens omständigheter och kan tillåta, förhindra eller försvåra handling - till exempel, du kan inte läsa besvärjelsen om rummet blev becksvart. Det kan också bli :ref:`åberopad <Åberopanden>` eller :ref:`betvingad <Betvinganden>`. När du skapar ett övertag får du en eller flera fria åberopanden utöver den skapade aspekten. Ett fritt åberopande, som namnet antyder, låter dig åberopa en aspekt utan att behöva spendera ett ödespoäng. Du kan till och med låta dina allierade använda fria åberopanden som du har skapat.
+En aspekt skapad (eller upptäckt) genom skapandet av en fördel fungerar som vilken annan aspekt som helst: Den styr berättelsens omständigheter och kan tillåta, förhindra eller försvåra handling - till exempel, du kan inte läsa besvärjelsen om rummet blev becksvart. Det kan också bli `åberopad <#Åberopanden>`_ eller `betvingad <#Betvinganden>`_. När du skapar ett övertag får du en eller flera fria åberopanden utöver den skapade aspekten. Ett fritt åberopande, som namnet antyder, låter dig åberopa en aspekt utan att behöva spendera ett ödespoäng. Du kan till och med låta dina allierade använda fria åberopanden som du har skapat.
 
 När du slår tärning för att skapa ett övertag, ange om du skapar en ny aspekt eller drar fördel av en existerande. Om det är det förstnämnda, lägger du det på en allierad, moståndare eller miljön? Om du lägger den på din motståndare kan de välja en försvrshandling för att göra motstånd. Annars kommer du att möta en svårighetsnivå, men spelledaren kan välja om något eller någon motverkar dina ansträngningar med ett försvarsslag istället.
 
 Dina alternativ för skapa ny aspekt är:
 
-- **Om du misslyckas**, antingen skapar du ingen ny aspekt (fallerar) eller så skapar du den men fienden får fri åberopande (lyckas till en kostnad). Om du lyckas till en kostnad så kan detaljerna kring aspekten behöva skrivas om för att passa fienden. Det kan ändå vara värt det för :ref:`aspekter är alltid sanna <Aspekter är sanna>`.
-- **Om det blir oavgjort**, så skapar du ingen ny aspekt men du får en :ref:`bonus <Bonus>`.
+- **Om du misslyckas**, antingen skapar du ingen ny aspekt (fallerar) eller så skapar du den men fienden får fri åberopande (lyckas till en kostnad). Om du lyckas till en kostnad så kan detaljerna kring aspekten behöva skrivas om för att passa fienden. Det kan ändå vara värt det för `aspekter är alltid sanna <#Aspekter är sanna>`_.
+- **Om det blir oavgjort**, så skapar du ingen ny aspekt men du får en `bonus <#Bonus>`_.
 - **Om du lyckas**, så skapar du en situationsaspekt med ett fritt åberopande för det.
 - **Om du lyckas med stil**, så skapar du en situationsaspekt med *två* fria åberopanden för det.
 
@@ -478,8 +478,8 @@ Tänk på huruvida du överhuvudtaget kan göra någon skada på motståndaren. 
 Dina alternativ för attacker är:
 
 - **Du misslyckas**, du når inte fram - motståndaren parerar, duckar eller skadan absorberas av rustning.
-- **Det blir oavgjort**, kanske når du fram nätt och jämt, eller du fick motståndaren att rycka till. Oavsett så får du en :ref:`bonus <Bonus>`.
-- **Om du lyckas**, du utdelar skada som är skillnaden attackens total och försvarets ansträngning. Försvararen måste ta skadan som stress eller konsekvens, eller :ref:`bli utslagen <Att bli utslagen>`.
+- **Det blir oavgjort**, kanske når du fram nätt och jämt, eller du fick motståndaren att rycka till. Oavsett så får du en `bonus <#Bonus>`_.
+- **Om du lyckas**, du utdelar skada som är skillnaden attackens total och försvarets ansträngning. Försvararen måste ta skadan som stress eller konsekvens, eller `bli utslagen <#Att bli utslagen>`_.
 - **Om du lyckas med stil**, du utdelar skada i likhet med vanligt lyckat slag, men du har möjlighet att minska skadan med en nivå för att få en bonus.
 
 Ruth snubblar över ett lik som väckts till liv av mystiska krafter för att fullfölja något mörkt syfte. Hon bestämmer sig för att slå till det. Hon har Utmärkt (+4) Slåss men slår [-][-][ ][ ], vilket ger Hyffsat (+2) i ansträngning.
@@ -495,7 +495,7 @@ Försvar är den enda reaktiva handlingen i *Öde - Kortfattad version*. Du anv�
 
 Alternativen för försvar är:
 
-- **Du misslyckas** försvara dig mot en attack, du tar skada, vilket måste tas av :ref:`stress <Stress>` eller :ref:`konsekvenser <Konsekvenser>`. Oavsett så lyckas fienden med sin handling så som de beskrev den.
+- **Du misslyckas** försvara dig mot en attack, du tar skada, vilket måste tas av `stress <#Stress>`_ eller `konsekvenser <#Konsekvenser>`_. Oavsett så lyckas fienden med sin handling så som de beskrev den.
 - **Om det blir oavgjort**, följ vad som står för oavgjort på attackens beskrivning.
 - **Om du lyckas**, så tar du ingen skada eller du förhindrar fiendens handling.
 - **Om du lyckas med stil**, så tar du ingen skada, förhindrar fiendens handling, och får till och med en bnonus eftersom du får ett övertag just nu.
@@ -528,9 +528,9 @@ En person kan ha rykte om sig att vara den **Bästa prickskytten i ödemarkerna*
 Aspekter är alltid sanna
 ========================
 
-Du kan :ref:`åberopa aspekter <Åberopanden>` för att få bonus på ditt tärningsslag och :ref:`betvinga dem <Betvinganden>` för att skapa komplikationer. Men även när de inte är i spel kan aspekter fortfarande påverka berättelsen. När en köttigt monster är **Fast i en hydralpress**, så är det *sant*. Den kan inte göra så mycket när den är fast där, och den kommer inte loss i första taget.
+Du kan `åberopa aspekter <#Åberopanden>`_ för att få bonus på ditt tärningsslag och `betvinga dem <#Betvinganden>`_ för att skapa komplikationer. Men även när de inte är i spel kan aspekter fortfarande påverka berättelsen. När en köttigt monster är **Fast i en hydralpress**, så är det *sant*. Den kan inte göra så mycket när den är fast där, och den kommer inte loss i första taget.
 
-I princip "aspekter är alltid sanna" betyder att **aspekter kan ge eller dra tillbaka tillåtelsen för vad som kan hända i berättelsen** (de kan också :ref:`påverka svårighetsnivån <Sätta svårighetsnivån och motstånd>`. Om den tidigare nämnda monstret är `Fastnålad` så måste spelledaren (och alla andra) respektera det. Kreaturet har förlorat tillåtelsen att röra på sig tills något händer som tar bort aspekten, antingen genom att framgångsrikt övervinna (vilket i sig kan kräva en aspekt såsom `Övermänsklig styrka` eller att någon får för sig att lyfta pressen igen. På liknande sätt om du har `Cybernetiskt förstärkta ben` så kan du argumentera för tillåtelse att hoppa över murar på ett hopp utan att ens behöva slå tärning för det.
+I princip "aspekter är alltid sanna" betyder att **aspekter kan ge eller dra tillbaka tillåtelsen för vad som kan hända i berättelsen** (de kan också `påverka svårighetsnivån <#Sätta svårighetsnivån och motstånd>`_. Om den tidigare nämnda monstret är `Fastnålad` så måste spelledaren (och alla andra) respektera det. Kreaturet har förlorat tillåtelsen att röra på sig tills något händer som tar bort aspekten, antingen genom att framgångsrikt övervinna (vilket i sig kan kräva en aspekt såsom `Övermänsklig styrka` eller att någon får för sig att lyfta pressen igen. På liknande sätt om du har `Cybernetiskt förstärkta ben` så kan du argumentera för tillåtelse att hoppa över murar på ett hopp utan att ens behöva slå tärning för det.
 
 Det betyder inte att du kan skapa vilken aspekt du vill och använda dess sanning som en klubba. Aspekter ger stor makt över att forma berättelsen, och med makt kommer ansvar att spela inom berättelsens ramar. Aspekter behöver ligga i linje med vad alla runt bordet känner passar in.
 
@@ -539,12 +539,12 @@ Visst, du kan kanske *vill* skapa ett övertag genom att åsamka aspekten `Sönd
 Vilka typer av aspekter finns det?
 ==================================
 
-Det finns en :ref:`ändlös lista av aspekter <Andra aspekter>`, men oavsett vad de kallas fungerar de på liknande sätt. Den största skillnaden ligger i hur länge de finns kvar innan de försvinner.
+Det finns en `ändlös lista av aspekter <#Andra aspekter>`_, men oavsett vad de kallas fungerar de på liknande sätt. Den största skillnaden ligger i hur länge de finns kvar innan de försvinner.
 
 Karaktärsaspekter
 -----------------
 
-Det är aspekterna du hittar på ditt karaktärsblad, exempelvis din övergripande aspekt och problemaspekten. De beskriver dina personlighetsdrag, viktiga detaljer om ditt förflutna, relationer du har med andra, viktiga föremål eller titlar du har, problem som du behöver hantera eller mål du jobbar mot, eller rykte eller förpliktelser som du har. Dessa aspekter ändras främst vid :ref:`milstenar <Mindre milstenar>`.
+Det är aspekterna du hittar på ditt karaktärsblad, exempelvis din övergripande aspekt och problemaspekten. De beskriver dina personlighetsdrag, viktiga detaljer om ditt förflutna, relationer du har med andra, viktiga föremål eller titlar du har, problem som du behöver hantera eller mål du jobbar mot, eller rykte eller förpliktelser som du har. Dessa aspekter ändras främst vid `milstenar <#Mindre milstenar>`_.
 
 Exempel: `Ledare över en grupp överlevare`, `Sinne för detaljer`, `Jag måste skydda min bror`.
 
@@ -575,16 +575,16 @@ Vad kan jag göra med aspekterna?
 Tjäna ödespoäng
 ---------------
 
-Ett sätt att förtjäna ett ödepoäng är att låta din karaktärs aspekter bli betvingade för att göra din situation mer komplicerad eller livet hårdare. Du kan också få ödespoäng om någon använder din aspekt mot dig med ett :ref:`fientligt åberopande <Fientliga åberopanden>` eller när du :ref:`medger det <Medgivande>`.
+Ett sätt att förtjäna ett ödepoäng är att låta din karaktärs aspekter bli betvingade för att göra din situation mer komplicerad eller livet hårdare. Du kan också få ödespoäng om någon använder din aspekt mot dig med ett `fientligt åberopande <#Fientliga åberopanden>`_ eller när du `medger det <#Medgivande>`_.
 
-Kom att du inför varje spelsession börjar med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har blivit betvingad mer än åberopat i förra spelsessionen så :ref:`kan du ha fler ödespoäng nästa spelsession <Återhämtning>`.
+Kom att du inför varje spelsession börjar med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har blivit betvingad mer än åberopat i förra spelsessionen så `kan du ha fler ödespoäng nästa spelsession <#Återhämtning>`_.
 
 Åberopanden
 ----------
 
-För att utnyttja den fulla potentialen av aspekter och låta dem jobba för dig så behöver du spendera ödespoäng för att :ref:`åberopa dem under tärningsslaget <Åberopa aspekter>`. Håller reda på ödespoängen med hjälp av mynt, glaskulor, pokerpengar eller andra marker.
+För att utnyttja den fulla potentialen av aspekter och låta dem jobba för dig så behöver du spendera ödespoäng för att `åberopa dem under tärningsslaget <#Åberopa aspekter>`_. Håller reda på ödespoängen med hjälp av mynt, glaskulor, pokerpengar eller andra marker.
 
-Du kan också fritt åberopa en aspekt om du har ett fritt åberopande eller om en allierad :ref:`skapar ett övertag du kan utnyttja <Skapa ett övertag>`.
+Du kan också fritt åberopa en aspekt om du har ett fritt åberopande eller om en allierad `skapar ett övertag du kan utnyttja <#Skapa ett övertag>`_.
 
 Ellipstricket
 -------------
