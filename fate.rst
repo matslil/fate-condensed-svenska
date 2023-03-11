@@ -530,6 +530,73 @@ Aspekter är alltid sanna
 
 Du kan :ref:`åberopa aspekter <Åberopanden>` för att få bonus på ditt tärningsslag och :ref:`betvinga dem <Betvinganden>` för att skapa komplikationer. Men även när de inte är i spel kan aspekter fortfarande påverka berättelsen. När en köttigt monster är **Fast i en hydralpress**, så är det *sant*. Den kan inte göra så mycket när den är fast där, och den kommer inte loss i första taget.
 
+I princip "aspekter är alltid sanna" betyder att **aspekter kan ge eller dra tillbaka tillåtelsen för vad som kan hända i berättelsen** (de kan också :ref:`påverka svårighetsnivån <Sätta svårighetsnivån och motstånd>`. Om den tidigare nämnda monstret är `Fastnålad` så måste spelledaren (och alla andra) respektera det. Kreaturet har förlorat tillåtelsen att röra på sig tills något händer som tar bort aspekten, antingen genom att framgångsrikt övervinna (vilket i sig kan kräva en aspekt såsom `Övermänsklig styrka` eller att någon får för sig att lyfta pressen igen. På liknande sätt om du har `Cybernetiskt förstärkta ben` så kan du argumentera för tillåtelse att hoppa över murar på ett hopp utan att ens behöva slå tärning för det.
+
+Det betyder inte att du kan skapa vilken aspekt du vill och använda dess sanning som en klubba. Aspekter ger stor makt över att forma berättelsen, och med makt kommer ansvar att spela inom berättelsens ramar. Aspekter behöver ligga i linje med vad alla runt bordet känner passar in.
+
+Visst, du kan kanske *vill* skapa ett övertag genom att åsamka aspekten `Söndersliten` på den där supersoldaten, men det är ett tydligt övertramp på attackhandlingen, och dessutom, det kräver en hel del mer arbete att slita av hennes arm (kan dock fungera som konsekvens - se nästa sida). Du kan *säga* att du är `Världens bästa skytt`, men du behöver backa upp det med dina färdigheter. Hur mycket du än skulle vilja att du själv är `Skottsäker`, ta bort tillåtelsen för någon att använda handeldvapen för att skada dig lär inte fungera om inte spelet tillåter aspekter-som-superkrafter.
+
+Vilka typer av aspekter finns det?
+==================================
+
+Det finns en :ref:`ändlös lista av aspekter <Andra aspekter>`, men oavsett vad de kallas fungerar de på liknande sätt. Den största skillnaden ligger i hur länge de finns kvar innan de försvinner.
+
+Karaktärsaspekter
+-----------------
+
+Det är aspekterna du hittar på ditt karaktärsblad, exempelvis din övergripande aspekt och problemaspekten. De beskriver dina personlighetsdrag, viktiga detaljer om ditt förflutna, relationer du har med andra, viktiga föremål eller titlar du har, problem som du behöver hantera eller mål du jobbar mot, eller rykte eller förpliktelser som du har. Dessa aspekter ändras främst vid :ref:`milstenar <Mindre milstenar>`.
+
+Exempel: `Ledare över en grupp överlevare`, `Sinne för detaljer`, `Jag måste skydda min bror`.
+
+Situationsaspekter
+------------------
+
+Dessa aspekter beskriver omgivningen eller scenario där handlingen äger rum. Situationsaspekten upphör oftast när scenen där den uppstod upphör, eller när någon utför en handling som ändrar eller tar bort den. I princip så varar de så länge situationen de representerar varar.
+
+Exmpel: `Brinner`, `Skarpt solljus`, `Arg folkmassa`, `Slagen till marken`, `Jagad av polisen`.
+
+Konsekvenser
+------------
+
+Dessa aspekter representerar skador eller uthållig trauma på grund av skada, oftast på grund av en attack.
+
+Exempel: `Stukad vrist`, `Hjärnskakning`, `Handikappande självtvivel`.
+
+Bonus
+-----
+
+En bonus är en speciell aspekt som representerar en väldigt tillfällig eller obetydlig situation. Du kan inte betvinga en bonus eller lägga ett ödespoäng på att åberopa det. Du kan fritt åberopa det en gång, sedan försvinner det. En oanvänd bonus försvinner när övertaget som den representerar inte längre finns, vilket kan vara några sekunder eller under en enskild handling. De varar aldrig längre än till slutet av scenen, och du kan vänta med att namnge den tills du faktiskt använder den. Om du innehar en bonus kan du överlämna den till en allierad, om det är rimligt.
+
+Exempel: `I mitt sikte`, `Distraherad`, `Ostadig under fötterna`.
+
+Vad kan jag göra med aspekterna?
+================================
+
+Tjäna ödespoäng
+---------------
+
+Ett sätt att förtjäna ett ödepoäng är att låta din karaktärs aspekter bli betvingade för att göra din situation mer komplicerad eller livet hårdare. Du kan också få ödespoäng om någon använder din aspekt mot dig med ett :ref:`fientligt åberopande <Fientliga åberopanden>` eller när du :ref:`medger det <Medgivande>`.
+
+Kom att du inför varje spelsession börjar med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har blivit betvingad mer än åberopat i förra spelsessionen så :ref:`kan du ha fler ödespoäng nästa spelsession <Återhämtning>`.
+
+Åberopanden
+----------
+
+För att utnyttja den fulla potentialen av aspekter och låta dem jobba för dig så behöver du spendera ödespoäng för att :ref:`åberopa dem under tärningsslaget <Åberopa aspekter>`. Håller reda på ödespoängen med hjälp av mynt, glaskulor, pokerpengar eller andra marker.
+
+Du kan också fritt åberopa en aspekt om du har ett fritt åberopande eller om en allierad :ref:`skapar ett övertag du kan utnyttja <Skapa ett övertag>`.
+
+Ellipstricket
+-------------
+
+Om du vill ha ett enkelt sätt att få in aspekter i tärningsslag, pröva med att berätta din handling med en ellips på slutet ("..."), och avsluta handlingen med den aspekt som du vill åberopa. Såhär:
+
+Ryan säger "Jag försöker dechiffrera runorna och ..." (slår tärningen, hatar vad de visar) "... och `Om jag inte har varit där, så har jag läst om det...`" (spenderar ett ödespoäng) "... så jag börjar berätta om deras ursprung.".
+
+Fientligt åberopande
+--------------------
+
+I allmänhet när en aspekt blir åberopad så är det en karaktärsaspekt eller situationsaspekt. Ibland kan du åberopa en fientlig karaktär *mot* dem. Det kallas ett **fientligt åberopande**, och fungerar på liknande sätt som med andra aspekter - spendera ett ödespoäng och få +2 på ditt tärningsslag eller slå om tärningarna. Det finns en liten skillnad - **när du gör ett fientligt åberopande så ger du ödespoängen till fienden**. Men de kan inte använda detta ödespoäng förräns nuvarande scen är över. Denna överlämning av ödespoäng inträffar bara när man faktiskt spenderar ett ödespoäng på ett fientligt åberopande. Det händer inte vid fria åberopanden.
 
 
 Invoke::
