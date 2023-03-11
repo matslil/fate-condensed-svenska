@@ -176,7 +176,7 @@ Kontakt::
    Bygga förtroende och samförstånd, övertala folk att vilja hjälpa till. Stunt på kontakt låter dig att påverka en folksamling, improvisera relationer eller få nya kontakter.
 
 Resurser::
-   Ger dig tillgång till materiella ting, inte bara pengar eller direkt ägarskap. Det kan vara att låna från vänner eller organisationer. Stunt på resurser ger dig möjilgheten att använda resurser istället för kontakt eller kontakter eller extra fria framkallanden när du betalar för det bästa.
+   Ger dig tillgång till materiella ting, inte bara pengar eller direkt ägarskap. Det kan vara att låna från vänner eller organisationer. Stunt på resurser ger dig möjilgheten att använda resurser istället för kontakt eller kontakter eller extra fria åberopanden när du betalar för det bästa.
 
 Skjuta::
    All form av avståndsvapen, kastvapen, bågar, armborst. Stunt på skjuta ger dig möjlighet att dra fram vapnet snabbt eller att alltid ha vapnet tillhands.
@@ -210,7 +210,7 @@ Regeländrande stunt::
 
    - Byta ut vilken färdighet du använder i en given situation. Till exempel, en forskare kan använda Akademi när han utför en ritual, när man normalt skulle ha använt Mysticism.
    - Använda en handling som färdigheten normalt inte används för. Till exempel att låta karaktären använda Smyga för att anfalla i ryggen från skuggorna, istället för att använda Slåss.
-   - Ge karaktären någon annan form av bonus som är ungefär likvärdigt med +2 bonus. Till exempel när en tränad talare får en fördel med hjälp av Kontakt, så ger det en extra fri framkallande.
+   - Ge karaktären någon annan form av bonus som är ungefär likvärdigt med +2 bonus. Till exempel när en tränad talare får en fördel med hjälp av Kontakt, så ger det en extra fri åberopande.
    - Ge karaktären möjlighet att deklarera em faktadetalj som alltid är sann. Till exempel, en överlevare har alltid överlevnadsutrustning som tändstickor på sig, även under osannolika förhållanden. Den här stunten gör att du inte behöver förklara i historien hur det gick till.
    - Tillåt karaktären att göra ett specifikt regelundantag. Till exempel, en karaktär kan ha två till stressrutor eller en extra konsekvensruta.
 
@@ -281,7 +281,7 @@ När du utför en handling, följ dessa steg:
 3. Summera symbolerna på tärningarna: `+` betyder +1, `-` betyder -1, och blank betyder 0. Det ger ett spann från -4 till +4.
 4. Addera ihop tärningsresultatet med färdighetsvärdet.
 5. Modifiera tärningen genom att påkalla aspekter och utföra stunt.
-6. Tala om vad slutresultatet blir, benämnd ditt bidrag.
+6. Tala om vad slutresultatet blir, benämnd din ansträngning.
 
 Svårighet och motstånd
 ======================
@@ -295,20 +295,20 @@ Motstånd kan anta många former. Kämpa mot en medlem av en kult över en ritue
 Modifiera Tärningen
 ===================
 
-Du kan modifiera tärningen genom att framkalla en aspekt för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också framkalla en aspekt för att :ref:`hjälpa en allierad <Samarbete>` eller öka svårighetsnivån för en fiende.
+Du kan modifiera tärningen genom att åberopa en aspekt för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också åberopa en aspekt för att :ref:`hjälpa en allierad <Samarbete>` eller öka svårighetsnivån för en fiende.
 
-Framkalla en aspekt
+Åberopa en aspekt
 -------------------
 
 När du utför en handling men tärningsslaget inte räcker till så behöver du inte bara sitta och acceptera nederlaget. (Fast du kan absolut göra det. Kan bli roligt det med.) Aspekterna som är i spel ger dig valmöjligheter och en väg till framgång.
 
-När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att framkalla den (eller använd ett fritt framkallande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att framkalla en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda :ref:`säkerhetsverktyg <Säkerhetsverktyg>` på liknande sätt.
+När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att åberopa den (eller använd ett fritt åberopande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att åberopa en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda :ref:`säkerhetsverktyg <Säkerhetsverktyg>` på liknande sätt.
 
-När ditt framkallande av aspekt anses fel har du två valmöjligheter. Du kan ta tillbaka framkallandet och försöka något annat, kanske annan aspekt. Du kan ha en snabb diskussion om varför du anser att aspekter passar in. Om personen inte blir övertygad, ta tillbaka framkallandet och gå vidare. Om du övertygar personen så kan du fortsätta med framallandet som vanligt. Falskregeln är till för att spelupplevelsen ska bli bra. Använd den när något inte låter rätt eller logiskt eller inte passar in. Att kasta en bil med framkallandet av aspekten **Framstående som första intryck** är troligen ett fall för falskregeln. Men kanske har karaktären har en övernaturlig stunt som gör honom eller henne otroligt stark, stark nog för att kunna kasta en bil, och detta är första striden mot ett hemskt monster. I det fallet kanske **Framstående som första intryck** skulle kunna fungera.
+När ditt åberopande av aspekt anses fel har du två valmöjligheter. Du kan ta tillbaka åberopandet och försöka något annat, kanske annan aspekt. Du kan ha en snabb diskussion om varför du anser att aspekter passar in. Om personen inte blir övertygad, ta tillbaka åberopandet och gå vidare. Om du övertygar personen så kan du fortsätta med framallandet som vanligt. Falskregeln är till för att spelupplevelsen ska bli bra. Använd den när något inte låter rätt eller logiskt eller inte passar in. Att kasta en bil med åberopandet av aspekten **Framstående som första intryck** är troligen ett fall för falskregeln. Men kanske har karaktären har en övernaturlig stunt som gör honom eller henne otroligt stark, stark nog för att kunna kasta en bil, och detta är första striden mot ett hemskt monster. I det fallet kanske **Framstående som första intryck** skulle kunna fungera.
 
-När du framkallar en aspekt får du antingen +2 bonus på tärningsslaget, eller möjlighet att slå om alla tärningar, eller lägga till 2 på motståndarens svårighetsnivå om det kan motiveras. Du kan göra multiple framkallanden för samma tärningsslag så länge det görs mot olika aspekter, med ett undantag: Du kan använda så många *fria framkallanden* för en aspekt som du vill på samma tärningsslag.
+När du åberopar en aspekt får du antingen +2 bonus på tärningsslaget, eller möjlighet att slå om alla tärningar, eller lägga till 2 på motståndarens svårighetsnivå om det kan motiveras. Du kan göra multiple åberopanden för samma tärningsslag så länge det görs mot olika aspekter, med ett undantag: Du kan använda så många *fria åberopanden* för en aspekt som du vill på samma tärningsslag.
 
-Vanligtvis framkallar du en av din karaktärs aspekter. Du kan också :ref:`framkalla en situationsaspekt <Framkallanden>` eller göra ett :ref:`fientligt framkallande <Fientliga framkallanden>` av någon annan karaktärs aspekt.
+Vanligtvis åberopar du en av din karaktärs aspekter. Du kan också :ref:`åberopa en situationsaspekt <Åberopanden>` eller göra ett :ref:`fientligt åberopande <Fientliga åberopanden>` av någon annan karaktärs aspekt.
 
 Använda stunt
 -------------
@@ -440,31 +440,31 @@ Skapa ett övertag
 
 Skapa en situationsaspekt eller få en fördel av en existerande aspekt.
 
-Du kan använda **skapa ett övertag** handling för att ändra berättelsens gång. Genom att använda dina färdigheter för att skapa nya aspekter eller lägga tilll framkallanden till befintliga aspekter kan du manipulera situationen till din och dina lagkamraters fördel. Du kan ändra på omständigheterna (barrikadera en dörr eller skapa en plan), upptäcka ny information (få reda på ett monsters svaghet genom efterforskning) eller ta fördel av något som redan är känt (som VD:ns smak för whiskey).
+Du kan använda **skapa ett övertag** handling för att ändra berättelsens gång. Genom att använda dina färdigheter för att skapa nya aspekter eller lägga tilll åberopanden till befintliga aspekter kan du manipulera situationen till din och dina lagkamraters fördel. Du kan ändra på omständigheterna (barrikadera en dörr eller skapa en plan), upptäcka ny information (få reda på ett monsters svaghet genom efterforskning) eller ta fördel av något som redan är känt (som VD:ns smak för whiskey).
 
-En aspekt skapad (eller upptäckt) genom skapandet av en fördel fungerar som vilken annan aspekt som helst: Den styr berättelsens omständigheter och kan tillåta, förhindra eller försvåra handling - till exempel, du kan inte läsa besvärjelsen om rummet blev becksvart. Det kan också bli :ref:`framkallad <Framkallanden>` eller :ref:`betvingad <Betvinganden>`. När du skapar ett övertag får du en eller flera fria framkallanden utöver den skapade aspekten. Ett fritt framkallande, som namnet antyder, låter dig framkalla en aspekt utan att behöva spendera ett ödespoäng. Du kan till och med låta dina allierade använda fria framkallanden som du har skapat.
+En aspekt skapad (eller upptäckt) genom skapandet av en fördel fungerar som vilken annan aspekt som helst: Den styr berättelsens omständigheter och kan tillåta, förhindra eller försvåra handling - till exempel, du kan inte läsa besvärjelsen om rummet blev becksvart. Det kan också bli :ref:`åberopad <Åberopanden>` eller :ref:`betvingad <Betvinganden>`. När du skapar ett övertag får du en eller flera fria åberopanden utöver den skapade aspekten. Ett fritt åberopande, som namnet antyder, låter dig åberopa en aspekt utan att behöva spendera ett ödespoäng. Du kan till och med låta dina allierade använda fria åberopanden som du har skapat.
 
 När du slår tärning för att skapa ett övertag, ange om du skapar en ny aspekt eller drar fördel av en existerande. Om det är det förstnämnda, lägger du det på en allierad, moståndare eller miljön? Om du lägger den på din motståndare kan de välja en försvrshandling för att göra motstånd. Annars kommer du att möta en svårighetsnivå, men spelledaren kan välja om något eller någon motverkar dina ansträngningar med ett försvarsslag istället.
 
 Dina alternativ för skapa ny aspekt är:
 
-- **Om du misslyckas**, antingen skapar du ingen ny aspekt (fallerar) eller så skapar du den men fienden får fri framkallande (lyckas till en kostnad). Om du lyckas till en kostnad så kan detaljerna kring aspekten behöva skrivas om för att passa fienden. Det kan ändå vara värt det för :ref:`aspekter är alltid sanna <Aspekter är sanna>`.
+- **Om du misslyckas**, antingen skapar du ingen ny aspekt (fallerar) eller så skapar du den men fienden får fri åberopande (lyckas till en kostnad). Om du lyckas till en kostnad så kan detaljerna kring aspekten behöva skrivas om för att passa fienden. Det kan ändå vara värt det för :ref:`aspekter är alltid sanna <Aspekter är sanna>`.
 - **Om det blir oavgjort**, så skapar du ingen ny aspekt men du får en :ref:`bonus <Bonus>`.
-- **Om du lyckas**, så skapar du en situationsaspekt med ett fritt framkallande för det.
-- **Om du lyckas med stil**, så skapar du en situationsaspekt med *två* fria framkallanden för det.
+- **Om du lyckas**, så skapar du en situationsaspekt med ett fritt åberopande för det.
+- **Om du lyckas med stil**, så skapar du en situationsaspekt med *två* fria åberopanden för det.
 
 Med existerande eller okänd aspekt är alternativen:
 
-- **Om du misslyckas**, och aspekten var känd, så får fienden ett fritt framkallande. Om aspekten var okänd så kan fienden välja att avslöja aspekten för att få ett fritt framkallande.
-- **Om det blir oavgjort**, så får du en bonus om aspekten är okänd, aspekten förblir okänd. Om aspekten är känd så får du ett fritt framkallande istället.
-- **Om du lyckas**, så får du ett fritt framkallande och avslöjar aspekten om den är okänd.
-- **Om du lyckas med stil**, så får du två fria framkallanden, och avsläjar aspekten om den är okänd.
+- **Om du misslyckas**, och aspekten var känd, så får fienden ett fritt åberopande. Om aspekten var okänd så kan fienden välja att avslöja aspekten för att få ett fritt åberopande.
+- **Om det blir oavgjort**, så får du en bonus om aspekten är okänd, aspekten förblir okänd. Om aspekten är känd så får du ett fritt åberopande istället.
+- **Om du lyckas**, så får du ett fritt åberopande och avslöjar aspekten om den är okänd.
+- **Om du lyckas med stil**, så får du två fria åberopanden, och avsläjar aspekten om den är okänd.
 
 Ethan möter en shoggoth, en massiv och uthållig köttig best. Han vet att den är alltför mäktig för att attackera den rakt på, så han bestämmer sig för att bästa taktiken är att distrahera den: "Jag vill göra en Molotov-coctail och sätta eld på saker!" deklarerar han.
 
 Spelledaren bestämmer sig för att faktiskt träffa shoggoth är trivialt, så detta är ett Hantverks-slag - hur snabbt kan han finna och göra något till ett brinnande vapen? Svårighetsnivån sätts till God (+3). Ethan har Ordinär (+1) Hantverk men slår [ ][+][+][+], vilket ger honom Utmärkt (+4) i ansträngning.
 
-Ethan samlar ihop till en Molotov-coctail och kastar den på besten. Shoggoth är nu *brinnande* nu och Ethan får ett fritt framkallande för denna nya aspekt. Shoggoth är definitivt distraherad och om den försöker jaga honom, kan han använda detta framkallande för att hjälpa honom att undkomma.
+Ethan samlar ihop till en Molotov-coctail och kastar den på besten. Shoggoth är nu *brinnande* nu och Ethan får ett fritt åberopande för denna nya aspekt. Shoggoth är definitivt distraherad och om den försöker jaga honom, kan han använda detta åberopande för att hjälpa honom att undkomma.
 
 Attackera
 ---------
@@ -500,11 +500,39 @@ Alternativen för försvar är:
 - **Om du lyckas**, så tar du ingen skada eller du förhindrar fiendens handling.
 - **Om du lyckas med stil**, så tar du ingen skada, förhindrar fiendens handling, och får till och med en bnonus eftersom du får ett övertag just nu.
 
-Fortsättning från föregående exempel: Liket försvarar sig mot Ruth. Spelledaren slår [-][ ][ ][+], vilket inte förändrar varelsens Medikoer (+0) Sport.
+Fortsättning från föregående exempel: Liket försvarar sig mot Ruth. Spelledaren slår [-][ ][ ][+], vilket inte förändrar varelsens Medioker (+0) Sport.
+
+Eftersom Ruths ansträngning är högre, hennes attack lyckades med två steg, och liket är lite närmare att vara nere för gott. Hade liket fått ett bättre tärningsslag skulle dess försvar ha lyckats och därmed undkommit skada.
+
+Vilka färdigheter kan användas för attack eller försvar?
+--------------------------------------------------------
+
+Den normala listan på färdigheter följer följande riktlinjer:
+
+- Slåss och Skjuta kan användas för att göra fysiska attacker.
+- Sport kan användas för att försvara sig mot alla fysiska attacker.
+- Slåss kan användas för att försvara sig mot fysiska närstridsattacker.
+- Provocera kan användas som mental attack.
+- Vilja kan användas för att försvara sig mot mentala attacker.
+
+Andra färdigheter kan få tillåtelse att attackera eller försvara under speciella omständigheter, om spelledaren och övriga spelare tillåter detta. Vissa stunt kan ge mer generella tillämpningar när omständigheterna normalt sett inte hade tillåtit det. När en färdighet inte kan användas direkt för attack eller försvar, men skulle kunna hjälpa till, förbered attacken eller försvaret med hjälp av denna färdighet genom att använda handlingen skapa ett övertag, och använda de fria åberopanden som skapades i nästa attack eller försvar.
+
+======================
+Aspekter och ödespoäng
+======================
+
+En aspekt är ett ord eller fras som beskriver något utmärkande om en person, plats, ting, situation eller grupp. Samligen av alla aspekter beskriver vad som för tillfället är intressant för berättelsen här och nu, det vill säga allt sådant som har god chans att påverka fortsättningen på berättelsen. De är till för att sätta fokus på vad som är viktigt just nu.
+
+En person kan ha rykte om sig att vara den **Bästa prickskytten i ödemarkerna** (se nedan för mer om denna typ av aspekter). Ett rum kan vara **Brinnande** efter att du slagit omkull en oljelykta. Efter att ha träffat på ett monster så kan du ha blivit **Förskräckt**. Aspekter låter dig ändra historiens gång på sätt som är i linje med karaktärernas personlighet, färdigheter eller problem.
+
+Aspekter är alltid sanna
+========================
+
+Du kan :ref:`åberopa aspekter <Åberopanden>` för att få bonus på ditt tärningsslag och :ref:`betvinga dem <Betvinganden>` för att skapa komplikationer. Men även när de inte är i spel kan aspekter fortfarande påverka berättelsen. När en köttigt monster är **Fast i en hydralpress**, så är det *sant*. Den kan inte göra så mycket när den är fast där, och den kommer inte loss i första taget.
 
 
 
 Invoke::
-   Framkallande
+   Åberopande
 
 
