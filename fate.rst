@@ -580,23 +580,102 @@ Ett sätt att förtjäna ett ödepoäng är att låta din karaktärs aspekter bl
 Kom att du inför varje spelsession börjar med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har blivit betvingad mer än åberopat i förra spelsessionen så `kan du ha fler ödespoäng nästa spelsession <#Återhämtning>`_.
 
 Åberopanden
-----------
+-----------
 
 För att utnyttja den fulla potentialen av aspekter och låta dem jobba för dig så behöver du spendera ödespoäng för att `åberopa dem under tärningsslaget <#Åberopa aspekter>`_. Håller reda på ödespoängen med hjälp av mynt, glaskulor, pokerpengar eller andra marker.
 
 Du kan också fritt åberopa en aspekt om du har ett fritt åberopande eller om en allierad `skapar ett övertag du kan utnyttja <#Skapa ett övertag>`_.
 
 Ellipstricket
--------------
+~~~~~~~~~~~~~
 
 Om du vill ha ett enkelt sätt att få in aspekter i tärningsslag, pröva med att berätta din handling med en ellips på slutet ("..."), och avsluta handlingen med den aspekt som du vill åberopa. Såhär:
 
 Ryan säger "Jag försöker dechiffrera runorna och ..." (slår tärningen, hatar vad de visar) "... och **Om jag inte har varit där, så har jag läst om det...**" (spenderar ett ödespoäng) "... så jag börjar berätta om deras ursprung.".
 
 Fientligt åberopande
---------------------
+~~~~~~~~~~~~~~~~~~~~
 
 I allmänhet när en aspekt blir åberopad så är det en karaktärsaspekt eller situationsaspekt. Ibland kan du åberopa en fientlig karaktär *mot* dem. Det kallas ett **fientligt åberopande**, och fungerar på liknande sätt som med andra aspekter - spendera ett ödespoäng och få +2 på ditt tärningsslag eller slå om tärningarna. Det finns en liten skillnad - **när du gör ett fientligt åberopande så ger du ödespoängen till fienden**. Men de kan inte använda detta ödespoäng förräns nuvarande scen är över. Denna överlämning av ödespoäng inträffar bara när man faktiskt spenderar ett ödespoäng på ett fientligt åberopande. Det händer inte vid fria åberopanden.
+
+Åberopa för att deklarera detaljer i berättelsen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Du kan lägga till en viktig eller osannolik detalj i berättelsen baserat på en aspekt som är i spel. Spendera inte ett ödespoäng när "`aspekter är alltid sanna <#Aspekter är alltid sanna>`_" gäller. Gör det istället när det inte är självklart om aspekten är tillämpbar eller, om alla runt bordet går med på det, när det inte finns någon tillämpbar aspekt.
+
+Betvinganden
+------------
+
+Aspekter kan bli betvingade för att göra situationen mer komplicerad eller för att få ödespoäng. Spelledare eller spelare kan erbjuda ett ödespoäng i utbyte för att betvinga en aspekt så att livet blir svårare för karaktären, och berätta varför en aspekten gör livet svårare för karaktären. Om du vägrar gå med på det behöver du spendera ett ödespoäng själv istället och beskriv hur din karaktär lyckas undvika komplikationen. Och ja, om du inte har något ödespoäng kvar så kan du inte vägra ett betvingande.
+
+**Alla aspekter kan bli betvingade** - oavsett om det är en karaktärsaspekt situationsaspekt eller konsekvens - men det måste vara något som påverkar karaktären som blir betvingad.
+
+**Alla kan föreslå ett betvingande**. Spelaren som föreslår ett betvingande måste själv spendera ett ödespoäng. Spelledaren tar sedan över betvingandet. Spelledaren förlorar inga ödespoäng på att erbjuda ett betvingande - de har visserligen en begränsat antal ödespoäng för att åberopa aspekter, men kan betvinga så mycket de känner för.
+
+**Betvinganden kan vara retroaktiva**. Om en spelare konstaterar att han har rollspelat sig själv in i en komplikation som är relaterad till en av sina aspekter eller en situationsaspekt som berör dem, så kan de fråga spelledaren om det räknas som ett **självbetvingande**. Om gruppen är överens så får spelaren ett ödespoäng av spelledaren.
+
+**Det är okej att inse att ett betvingande gjordes felaktigt och dra tillbaka det**. Om gruppen kommer överens om att ett erbjudet betvingande inte var rimlig så bör det tas tillbaka utan kostnad för den betvingade karaktären.
+
+Betvinganden är komplikationer, inte hinder
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+När ett betvingande erbjuds se till att komplikationen är en handling eller större ändring av omständigheter, inte en begränsning av valmöjligheter.
+
+"Du har sand i ögonen så du skjuter mot varelsen och missar" är inte ett betvingande. Det begränsar handlingsmöjligheter snarare än att göra saker mer komplicerade.
+
+"Eftersom du har sand i ögonen ser du ingenting, så dina skott missar shoggoth fullständigt och punkterar istället några fat med bensin istället. Bensinen börjar rinna ut och närmar sig en lägereld." Det är ett mycket bättre betvingande. Den ändrar scenen, höjer spänningen, och ger spelarna något nytt att tänka på.
+
+För att få lite idéer vad som fungerar eller inte fungerar som betvingande se https://fate-srd.com/fate-core/invoking-compelling-aspects#types-of-compels i *Fate Core System*.
+
+Händelser och beslut
+~~~~~~~~~~~~~~~~~~~~
+
+Det finns två typer av betvingande: **händelser** och **beslut**.
+
+Ett händelsebetvingande är något som händer en karaktär på grund av yttre omständigheter. De yttre omständigheterna är på något sätt kopplat till aspekten, och resulterar i en oönskad komplikation.
+
+Ett beslutsbetvingande är personligt, där karaktärens tillkortakommanden eller motstridiga värderingar kommer i vägen för sunt förnuft. Aspekterna guidar karaktären att göra vissa val - och utfallet av dessa val skapar komplikationer för dem.
+
+Oavsett vilket så är nyckeln den resulterande komplikationen! Utan komplikation finns inget betvingande.
+
+Fientligt åberopande eller betvingande?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Blanda inte ihop fientliga åberopanden och betvinganden! Även om de har likheter - båda är ett sätt att ge karaktären problem i utbyde mot ett ödespoäng - så fungerar de olika.
+
+Ett betvingande skapar en *färändring i berättelsen*. Beslutet att betvinga en karaktärs aspekt är inte något som bara händer i univerumet;  det är snarare spelledaren eller spelare som föreslår en ändring av berättelsen. Effekten kan slå brett men den som blir betvingad får ett ödespoäng om han eller hon accepterar det, eller kan välja att vägra betvingandet.
+
+Fientligt åberopande är en *mekanisk effekt*. Den som påverkas får ingen chans att vägra åberopandet - men som alltid vid åberopanden så behöver du förklara vilken aspekt som är rimlig att göra ett åberopande på. Även om de får ett ödespoäng så får de inte använda det under nuvarande scen. Slutresultatet blir dock mer begränsat, +2 på tärningsslaget eller slå om.
+
+Betvingande låter dig, spelare eller spelledare, att ändra vad scenen handlar om. De kastar in grus i maskineriet i berättelsen. Att använda dem på en motståndare är riskabelt - de kan vägra, eller lyckas med sina förehavande trots komplikationen tack vare det ödespoäng du just gav dem.
+
+Fientligt åberopande hjälp dig för stunden. Förutom dina egna aspekter har du också motståndarens aspekter tillgängliga får åberopanden, vilket ger dig mer valmöjligheter och gör scenen mer dynamisk och associerbar.
+
+Hur kan jag lägga till och ta bort aspekter?
+============================================
+
+Du kan skapa eller upptäcka en situationsaspekt med hjälp av handlingen `skapa ett övertag <#Skapa ett övertag>`_. Du kan också skapa en bonus den vägen, eller som ett resultat av oavgjort eller lyckas med stil när du försöker övervinna ett hinder, attack eller försvar.
+
+Du kan ta bort en aspekt förutsatt att du kan komma på ett sätt som din karaktär skulle kunna göra det - använda brandsläckare på **Eldsvåda**, utföra undvikande manövrar vid flykt undan förföljande vakter när du är **Jagad**. Beroende på situation kan det krävas att du `motstår en handling <#Motstå>`_; i detta fall så kan en motståndare använda en försvarshandling för att försöka bevara en aspekt, om de kan beskriva hur de kan göra det.
+
+Om det inte finns något i berättelsen som hindrar att aspekten tas bort, tas den helt enkelt bort. Om du är **Bunden** och en vän hjälper dig loss, så tas aspekten bort. Om inget hindrar det, finns det ingen anledning att slå tärning för det.
+
+Andra typer av aspekter
+=======================
+
+Vi har gått igenom `vanliga typer av aspekter <#Vilka typer av aspekter finns det?>`_. Dessa ytterligare typer är valfria, men kan ge spelet en extra krydda. I viss grad är dessa varianter av karaktärsaspekter (om du vidgar definitionen av karaktär) eller situationsaspekter (om du ändrar hur länge dessa varar).
+
+Orginisationsaspekter::
+   Ibland kan du möta en hel organisation som opererar under vissa principer. Överväg att ge organisationen aspekter som alla medlemmar kan använda som om det vore deras egna.
+
+Scenarioaspekter::
+   Vissa berättelser kan introducera ett nytt "tillägg" som återkommer gång på gång under berättelsens gång. Överväg att definiera en aspekt som är tillgänglig för alla karaktärer i berättelsen tills berättelsen avslutas.
+
+Uppsättningsaspekter::
+   I likhet med scenarioaspekter, uppsättningen av kampanjen kan i sig ha återkommande teman. I motsats till scenarioaspekten så försvinner inte uppsättningsaspekter.
+
+Områdesaspekter::
+   Du kan koppla situationsaspekter till en viss plats på kartan `som är inom ett område <#Områden>`_. Det kan lägga till extra dynamik till spelargruppens interaktion med kartan. Spelledaren uppmuntras att skapa "fritt tillgängliga" fria åberopanden tillgängliga för områdesaspekter vid början av scenen, för att locka karaktärerna (spelare eller spelledarpersoner) att utnyttja aspekten som del av deras tidiga strategier.
 
 
 Invoke::
