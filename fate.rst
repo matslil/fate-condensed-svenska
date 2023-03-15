@@ -677,6 +677,68 @@ Uppsättningsaspekter::
 Områdesaspekter::
    Du kan koppla situationsaspekter till en viss plats på kartan `som är inom ett område <#Områden>`_. Det kan lägga till extra dynamik till spelargruppens interaktion med kartan. Spelledaren uppmuntras att skapa "fritt tillgängliga" fria åberopanden tillgängliga för områdesaspekter vid början av scenen, för att locka karaktärerna (spelare eller spelledarpersoner) att utnyttja aspekten som del av deras tidiga strategier.
 
+===============================
+Utmaningar, konflikter och kamp
+===============================
+
+I allmänhet avgör ett enkelt tärningsslag om du lyckas med en handling eller inte - lyckas du dyrka upp säkerhetsskåpet, undvika larm eller övertyga journalisten om att ge dig deras anteckningar? Andra gånger möter du mer omfattande handlingar som kräver flera tärningsslag för att avgöra utgången av. För dessa fall finns tre verktyg för att avgöra resultatet: **Utmaningar**, **konflikter** och **kamp**. Var och en av dem fungerar lite olika beroende på målet med handlingarna och vilket motståndet är.
+
+- **En utmaning är en komplex eller dynamisk situation.** Du blir utmanad av någon eller något men det finns ingen dominerande "annan part". Det är såhär du spelar en forskargrupp som letar efter ledtrådar i en antik bok,  gruppens förhandlare som distraherar bibliotekarien och slagkämpen som håller stånd mot oräkneliga hemskheter så att de inte kan komma in i biblioteket samtidigt.
+
+- **En konflikt är en situation där två eller fler parter jagar ett ömsesidigt uteslutande mål, men försöker inte skada varandra.** Konflikt är perfekt för jakter, debatter och tävlingar av alla de slag. (Och bara för att de inte försöker skada varandra betyder inte att ingen kommer till skada!)
+
+- **Kamp är när karaktärer kan och vill skada varandra.** Brottas med en kultmedlen i gyttjan medan knivar hugger mot magar, pepprar en hord med gastar med kulor medan de klöser i ditt kött, och elakt utbyte av taggar med din rival under drottningens övervakande öga - dessa är alla kamper.
+
+Sätta upp scener
+================
+
+Oavsett vilken typ av scen så börjar spelledaren med sätta de viktigaste bitarna på sina rätta ställen, så spelarna vet vilka resurser som är tillgängliga och vilka komplikationer som är i spel.
+
+Områden
+-------
+
+**Områden** är en representation av fysiskt utrymme - en snabb karta uppdelad i ett fåtal diskreta delar. En konflikt i en avsides bondgård kan ha fyra områden: första våningen, andra våningen, framsidan och skogen på baksidan. Två till fyra områden räcker för att hantera de flesta konflikter. Stora eller komplicerade scener kan kräva fler. Försök hålla områdeskartan till en enkel skiss, något som får plats på ett kort eller som kan ritas upp lite snabbt på en whiteboard.
+
+Områden hjälper till att guida berättelsen genom att forma vad som är möjligt. Vem kan attackera och var man kan gå beror på vilket område man är i.
+
+**Alla i ett område kan interagera med allt och alla inom området.** Det betyder att du kan träffa, hugga eller annars fysiskt påverka folk och ting inom området. Behöver öppna väggkassaskåpet i sovrummet? Då behöver du vara i det området. Allt utanför området är i allmänhet utanför räckhåll - du behöver förflytta dig för att komma dit, eller använda något som utökar din räckvidd (telekinesi, skjutvapen, etc).
+
+Förutsatt att inget hindrar dig är det lätt att ta sig mellan områden. **Du kan `förflytta sig till ett angränsande område <#Turordning>`_ utöver din handling så länge inget står ivägen för det.** Om det finns hinder för din förflyttning så krävs en handling för att utföra den. Slå ett tärningsslag för att klättra över väggen, rusa förbi en grupp kultmedlemmar eller hoppa mellan hustaken. Om du misslyckas är du kvar i ursprungsområdet, eller också förflyttade du dig till en kostnad. Du kan använda din handling till att förflytta dig var som helst på kartan - även om spelledaren har rätt att sätta en hög svårighetsnivå om förflyttningen är episk.
+
+Om något inte är riskfyllt eller intressant nog för att kräva ett tärningsslag så är det inget hinder för förflyttningen. Du behöver inte använda en handling för att öppna en olåst därr - det är bara en del av förflyttningen.
+
+Skjuta låter dig attackera från avstånd. Avståndsattackerar kan sikta på fiender i angränsande områden eller kanske längre bort, om områdena har fri sikt. Om det är någon som rotar runt i ett sovrum på övervåningen och runt ett hörn, så kan du inte skjuta det från nedervåningen. Var uppmärksam på hur områdena och situationsaspekterna förhåller sig till varandra när du avgör vad som är möjligt eller inte.
+
+Sitationsaspekter
+-----------------
+
+När spelledaren sätter upp scenen så tänk på intressanta och varierande egenskaper i miljön som kan begränsa handlingsutrymmet eller erbjuda möjligheter att ändra på situationen genom att använda dessa miljöegenskaper. Tre till fem sådana egenskaper är fullt tillräckligt. Använd följande kategorier som hjälp:
+
+- **Tonen, stämningen eller väder** - mörker, åska och tjutande vind
+- **Hinder för förflyttning** - via stege, indränkt i slem och fylld med rök
+- **Skydd och hinder** - fordon, pelare och lårar
+- **Faror** - låda med TNT, tunna med olja ohyggliga artefakter som sprakar av elektricitet
+- **Användbara saker** - improviserade vapen, statyer eller bokhyllor som kan vältas, dörrar som kan reglas
+
+Alla kan åberopa och betvinga dessa aspekter så kom ihåg dem när du brottar ner den där kultmedlemmen till marken täckt med **Basiskt slem som täcker allt**.
+
+Fler situationsaspekter kan skrivas ner när scenen spelas upp. Om det verkar rimligt att det är **Mörka skuggor** i djupet av katakomberna, skriv ner den när spelare frågor om det finns några skuggor de kan gömma sig i. Andra aspekter kan komma i spel för att karaktärer utför handlingen skapa övertag. Saker som **Eld överallt!** händer inte utan att någon karaktär har utfört någon handling. Vanligtvis.
+
+Fria åberopanden på scenens aspekter?
+-------------------------------------
+
+Det är upp till spelledaren om en situationsaspekt som uppstår när en scen sätts upp ger spelarna fria åberopanden (eller till och med för spelledarpersoner). En del av scenens aspekter kan ge en klurig spelare just det övertag som de behöver redan från start - och fria åberopanden kan vara ett starkt incitament för att locka spelarna till att interagera med miljön. Fria åberopanden på scenens aspekter kan också vara en konsekvens på förberedelser gjorda i förväg.
+
+Områdesaspekter
+---------------
+
+Vissa `situationsaspekter kan gälla inom specifika områden på kartan <#Andra typer av aspekter>`_, andra inte. Det är helt okej - det kan ge extra krydda, möjligheter och utmaningar i kartan som inte skulle finnas där annars.
+
+Turordning
+----------
+
+Vanligtvis är turordningen inte viktig, men vid konflikter och kamp kan det bli viktigt. 
+
 
 Invoke::
    Åberopande
