@@ -737,7 +737,67 @@ Vissa `situationsaspekter kan gälla inom specifika områden på kartan <#Andra 
 Turordning
 ----------
 
-Vanligtvis är turordningen inte viktig, men vid konflikter och kamp kan det bli viktigt. 
+Vanligtvis är turordningen inte viktig, men vid konflikter och kamp kan det bli viktigt. Dessa scener utspelar sig under en antal **rundor**. Under en runda så kan varje inblandad karaktär göra ett motstånd, skapa ett övertag eller utföra en attack, samt en förflyttning. (`Kamp fungerar annorlunda <#Utmaningar, konflikter och kamp>`_.) Eftersom försvar är en reaktion på någon annans handling så kan karaktärer försvara sig så många gånger som de behöver under andra karaktärers runda, så länge de kan motivera hur de kan blanda sig in i det baserat på vad de redan har bidragit till berättelsen.
+
+I början av scenen så behöver spelledare och spelare komma överens om vem som börjar baserat på hur situationen ser ut, sedan väljer den spelare som är i tur vems tur det är härnäst. Spelledarens karaktärers turordning bestäms på samma sätt som för spelarna, där spelledaren väljer vilken spelledareperson som är i tur när en annan spelledarperson har agerat. När alla har gjort sitt så får den spelare som sist var på tur bestämma vem som är först i tur nästa runda.
+
+Cassandra och Ruth snubblar över en mindre grupp kultmedlemmar ledda av en akolyt i guldmask som utför en mystisk ritual. Då kultmedlemmarna är upptagna med sitt arbete så meddelar spelledaren att spelarna får börja i denna konflikt. Spelarna beslutar att Cassandra får agera först: hon skapar ett övertag mot kultmedlemmarna, **Distraherad**, genom att skrikandes springa rätt emot dem. Det är primitivt men effektivt. För att få ut det mesta möjliga av övertaget så bestämmer Cassandras spelare att det nu blir Ruths tur. Ruth kastar en kniv mot den maskerade akolyten, och åberopar omedelbart **Distraherad** för att förbättra sin attack. Det är inte nog för att slå ut akolyten i en träff, men det får akolyten ur balans.
+
+Eftersom alla spelare nu har gjort sitt under rundan så måste Ruth dessvärre välja någon av kultmedlemmarna som näst på tur. Hon väljer den maskerade akolyten. Spelledaren ler eftersom de vet att när väl akolyten agerar så kan den sista kultmedlemmen på tur välja akolyten som först på tur inför nästa runda. Spelarna må ha fått in första träffen, men nu för kultmedlemmarna slå tillbaka.
+
+Denna metod att skapa turordningen går under flera olika namn i onlinediskussioner: "elective order", och "popcorn", "handorff" eller "Balsera style initiative", där Balsera är efter Fate Core författaren Leonard Balsera, som planerade idén.
+
+Lagsamarbete
+============
+
+Öde erbjuder tre alternativ för lagsamarbete: kombinera samma färdighet från flera karaktärer till ett tärningsslag, lägga ihop fria åberopanden genom att skapa övertag för att hjälpa en lagkamrat samt åberopa en aspekt å en allierads vägnar.
+
+När du kombinerar färdigheter ta reda på vem som har den högsta färdighetsnivån i färdigheten ifråga bland de inblandade. Varje inblandad som har åtminstone Hyffsad (+1) i färdigheten lägger på +1 på färdighetsnivån för den inblandade som hade högst färdighetsnivå. Att hjälpa någon på detta sätt är en handling. Medhjälparna får samma kostnader och konsekvenser som den som slår tärningen. Den maximala totala bonus som ett lag kan bidra med på detta sätt är lika med färdighetsnivån för den med den högsta färdighetsnivån. Du kan alltså aldrig få mer än dubbla färdighetsnivån genom att kombinera färdigheter.
+
+Annars kan du skapa ett övertag under din tur och låta allierade använda fria åberopanden närhelst det är rimligt. När det inte är din tur kan du åberopa en aspekt för att lägga till en bonus på någon annans tärningsslag.
+
+Utmaningar
+==========
+
+Många svårigheter som karaktärerna möter kan hanteras av ett enkelt tärningsslag under loppet av en scen - desarmera bomben, hitta skriften av en ohygglig kunskap, eller dekryptera ett skiffer. Men ibland är saker mer flytande, mer komplicerade och det är helt enkelt inte så enkelt att hitta skriften med den ohyggliga kunskapen eftersom yachten som genomsöks far okontrollerat genom Hong Kongs hamn under ett monsunregn och båtens bibliotek brinner - absolut inte ditt fel.
+
+Under komplicerade förhållanden utan några motståndare så vill du använda **utmaning**: en serie av handlingar för att övervinna ett antal hinder för att övervinna ett större problem. Utmaningar låter hela gruppen jobba tillsammans under en scen och låta scenen vara dynamisk.
+
+För att sätta upp utmaningen får spelledaren ta hänsyn till situationen och välja ut ett antal färdigheter som kan bidra till gruppens framgång. Behandla varje handling som ett eget slag mot övervinna. Handlingarna tillåter lagsamarbete, men kan ge kostnader eller komplikationer såsom tidsbrist eller annan ineffektivitet.
+
+Spelledare, gör ditt bästa för att låta varje karaktär i scenen få en chans att bidra - sikta på att ha lika många färdigheter som inblandade karaktärer. Dra ner antalet om du förväntar dig att några karaktärer kommer att dras iväg eller bli distraherad av andra prioriteter, eller om du vill skapa utrymme för lagsamarbete. För svårare utmaningar kräv fler handlingar än antalet karaktärer, utöver att justera svårigheten för handlingarna.
+
+Efter att alla tärningsslag är gjorda så kommer spelledaren att utreda framgång, misslyckanden och kostnader för varje handling allteftersom scenen fortgår. Det kan bli så att ett resultat leder till en ny utmaning, konflikt eller till och med kamp. En mix av framgångar och misslyckanden bör låta karaktärerna komma framåt med delvis lyckande när de möter nya komplikationer.
+
+Konflikter
+==========
+
+Skapa utmaning under en konflikt
+--------------------------------
+
+Kamp
+====
+
+Ta skada
+--------
+
+Stress
+~~~~~~
+
+Konsekvenser
+~~~~~~~~~~~~
+
+Bli utslagen
+~~~~~~~~~~~~
+
+Ge upp
+~~~~~~
+
+Avsluta en konflikt
+-------------------
+
+Återhämta sig från en konflikt
+------------------------------
 
 
 Invoke::
