@@ -677,17 +677,17 @@ Uppsättningsaspekter::
 Områdesaspekter::
    Du kan koppla situationsaspekter till en viss plats på kartan `som är inom ett område <#Områden>`_. Det kan lägga till extra dynamik till spelargruppens interaktion med kartan. Spelledaren uppmuntras att skapa "fritt tillgängliga" fria åberopanden tillgängliga för områdesaspekter vid början av scenen, för att locka karaktärerna (spelare eller spelledarpersoner) att utnyttja aspekten som del av deras tidiga strategier.
 
-===============================
-Utmaningar, konflikter och kamp
-===============================
+================================
+Utmaningar, konflikter och strid
+================================
 
-I allmänhet avgör ett enkelt tärningsslag om du lyckas med en handling eller inte - lyckas du dyrka upp säkerhetsskåpet, undvika larm eller övertyga journalisten om att ge dig deras anteckningar? Andra gånger möter du mer omfattande handlingar som kräver flera tärningsslag för att avgöra utgången av. För dessa fall finns tre verktyg för att avgöra resultatet: **Utmaningar**, **konflikter** och **kamp**. Var och en av dem fungerar lite olika beroende på målet med handlingarna och vilket motståndet är.
+I allmänhet avgör ett enkelt tärningsslag om du lyckas med en handling eller inte - lyckas du dyrka upp säkerhetsskåpet, undvika larm eller övertyga journalisten om att ge dig deras anteckningar? Andra gånger möter du mer omfattande handlingar som kräver flera tärningsslag för att avgöra utgången av. För dessa fall finns tre verktyg för att avgöra resultatet: **Utmaningar**, **konflikter** och **strid**. Var och en av dem fungerar lite olika beroende på målet med handlingarna och vilket motståndet är.
 
 - **En utmaning är en komplex eller dynamisk situation.** Du blir utmanad av någon eller något men det finns ingen dominerande "annan part". Det är såhär du spelar en forskargrupp som letar efter ledtrådar i en antik bok,  gruppens förhandlare som distraherar bibliotekarien och slagkämpen som håller stånd mot oräkneliga hemskheter så att de inte kan komma in i biblioteket samtidigt.
 
 - **En konflikt är en situation där två eller fler parter jagar ett ömsesidigt uteslutande mål, men försöker inte skada varandra.** Konflikt är perfekt för jakter, debatter och tävlingar av alla de slag. (Och bara för att de inte försöker skada varandra betyder inte att ingen kommer till skada!)
 
-- **Kamp är när karaktärer kan och vill skada varandra.** Brottas med en kultmedlen i gyttjan medan knivar hugger mot magar, pepprar en hord med gastar med kulor medan de klöser i ditt kött, och elakt utbyte av taggar med din rival under drottningens övervakande öga - dessa är alla kamper.
+- **Kamp är när karaktärer kan och vill skada varandra.** Brottas med en kultmedlen i gyttjan medan knivar hugger mot magar, pepprar en hord med gastar med kulor medan de klöser i ditt kött, och elakt utbyte av taggar med din rival under drottningens övervakande öga - dessa är alla strid.
 
 Sätta upp scener
 ================
@@ -737,7 +737,7 @@ Vissa `situationsaspekter kan gälla inom specifika områden på kartan <#Andra 
 Turordning
 ----------
 
-Vanligtvis är turordningen inte viktig, men vid konflikter och kamp kan det bli viktigt. Dessa scener utspelar sig under en antal **rundor**. Under en runda så kan varje inblandad karaktär göra ett motstånd, skapa ett övertag eller utföra en attack, samt en förflyttning. (`Kamp fungerar annorlunda <#Utmaningar, konflikter och kamp>`_.) Eftersom försvar är en reaktion på någon annans handling så kan karaktärer försvara sig så många gånger som de behöver under andra karaktärers runda, så länge de kan motivera hur de kan blanda sig in i det baserat på vad de redan har bidragit till berättelsen.
+Vanligtvis är turordningen inte viktig, men vid konflikter och strid kan det bli viktigt. Dessa scener utspelar sig under en antal **rundor**. Under en runda så kan varje inblandad karaktär göra ett motstånd, skapa ett övertag eller utföra en attack, samt en förflyttning. (`Kamp fungerar annorlunda <#Utmaningar, konflikter och strid>`_.) Eftersom försvar är en reaktion på någon annans handling så kan karaktärer försvara sig så många gånger som de behöver under andra karaktärers runda, så länge de kan motivera hur de kan blanda sig in i det baserat på vad de redan har bidragit till berättelsen.
 
 I början av scenen så behöver spelledare och spelare komma överens om vem som börjar baserat på hur situationen ser ut, sedan väljer den spelare som är i tur vems tur det är härnäst. Spelledarens karaktärers turordning bestäms på samma sätt som för spelarna, där spelledaren väljer vilken spelledareperson som är i tur när en annan spelledarperson har agerat. När alla har gjort sitt så får den spelare som sist var på tur bestämma vem som är först i tur nästa runda.
 
@@ -767,38 +767,123 @@ För att sätta upp utmaningen får spelledaren ta hänsyn till situationen och 
 
 Spelledare, gör ditt bästa för att låta varje karaktär i scenen få en chans att bidra - sikta på att ha lika många färdigheter som inblandade karaktärer. Dra ner antalet om du förväntar dig att några karaktärer kommer att dras iväg eller bli distraherad av andra prioriteter, eller om du vill skapa utrymme för lagsamarbete. För svårare utmaningar kräv fler handlingar än antalet karaktärer, utöver att justera svårigheten för handlingarna.
 
-Efter att alla tärningsslag är gjorda så kommer spelledaren att utreda framgång, misslyckanden och kostnader för varje handling allteftersom scenen fortgår. Det kan bli så att ett resultat leder till en ny utmaning, konflikt eller till och med kamp. En mix av framgångar och misslyckanden bör låta karaktärerna komma framåt med delvis lyckande när de möter nya komplikationer.
+Efter att alla tärningsslag är gjorda så kommer spelledaren att utreda framgång, misslyckanden och kostnader för varje handling allteftersom scenen fortgår. Det kan bli så att ett resultat leder till en ny utmaning, konflikt eller till och med strid. En mix av framgångar och misslyckanden bör låta karaktärerna komma framåt med delvis lyckande när de möter nya komplikationer.
 
 Konflikter
 ==========
 
-Skapa utmaning under en konflikt
---------------------------------
+En konflikt är när två sidor står i direkt opposition mot varandra, men det är inte en strid. Det betyder inte nödvändigtvis att ena sidan inte *vill* skada den andra. Konflikt kan få gruppen att försöka fly undan ett hot innan det förstör alla chanser till att lyckas.
+
+I början av konflikten deklarerar alla sina avsikter, vad de hoppas få ut av det. Om det är flera spelarpersoner inblandade, de kan vara på samma sida eller olika beroende på deras mål - exempelvis vandringstävling så kan varje karaktär vara på sin egen sida. **I en konflikt försöker eller kan inte spelarpersonerna skada motståndarna. Externa hot (exempelvis vulkanutbrott, arg gud) kan attackera någon eller alla sidor; dessa hot kan också vara en deltagare i konflikten.**
+
+Konflikten utspelar sig under ett antal rundor. Varje sida utför en handling för att övervinna motstånd för att uppnå deras mål under varje runda. Bara en karaktär på varje sida utför handlingen för att övervinna motstånd under varje runda, men allierade kan hjälpa till genom lagsamarbete och försöka skapa övertag för att hjälpa till (vilket innebär en viss risk - se nedan). Handlingen övervinna motstånd kan vara mot en svårighetsnivå - om deltagarna möter utmaningar från miljön - eller mot någon annan om de är i direkt konflikt.
+
+I slutet av varje runda jämförs varje sidas handlande. Den sida som har högst ansträngningsvärde markerar en **vinst**. Om vinnaren lyckas med stil - och ingen annan gjorde det - så markerar de **två** vinster. Den som först uppnår tre vinster vinner konflikten. (Du kan också välja att ha en mer utdragen konflikt som kräver fler vinster, dock rekommenderas maximalt fem.)
+
+När det blir oavgjort blir det ingen vinst till någon, och en **oväntad vändning** inträffar. Spelledaren introducerar en ny situationsaspekt för att återspegla hur scenen, terrängen eller situationen har förändrats.
+
+I en konflikt där ett hot försöker skada någon av deltagarna får alla på samma sida av konflikten skada om deras ansträngningsnivå på deras konfliktslag är lägre än hotets ansträngningsnivå på attacken eller lägre än svårighetsnivån. Skadan är skillnaden mellan värdena. Om en karaktär inte kan ta emot all skada han eller hon får blir karaktären utslagen, precis som vid strid.
+
+Skapa övertag under en konflikt
+-------------------------------
+
+Under en runda kan din sida försöka skapa ett övertag innan slaget mot handlingen övervinna motstånd görs. Målet, eller vem som helst som rimligen kan påverka utfallet, kan stå emot handlingen genom en normal försvarshandling. Varje deltagare kan försöka skapa övertag var och en för sig eller delta i `lagsanarbete för att få bonus <#Lagsamarbete>`_. Om du misslyckas med att skapa ett övertag får du välja mellan att inte få något övertag eller att få ett övertag men mot en kostnad (bibehålla ditt slag eller bonus från lagsamarbete) genom att ge den andra sidan ett fritt åberopande istället. Om du åtminstone fick oavgjort fortsätt sedan som vanligt med ditt slag eller bonus.
 
 Kamp
 ====
 
+När hjältarna går in i en direkt strid - mot myndighetspersoner, kultmedlemmar eller obeskrivliga hemskheter - och kan vinna, så är det en **strid**. Med andra ord, använd strid om våld eller tvång är rimliga handlingar för spelarpersonerna.
+
+Strid kan tyckas vara det mest rättframma - trotsallt så är rollspelets barndom byggd på simulering av krig. Men tänk på ett nyckelbegrepp av beskrivningen: de inblandade har möjlighet att skada *varandra*. Om det är ensidigt - säg att du försöker slå ett levande berg - så finns ingen möjlighet att skada det. Det är ingen strid. Det är en konflikt, där spelarna troligen försöker fly eller inse ett sätt att slå tillbaka.
+
+Strid kan vara fysiskt eller mentalt. Fysiska strider kan vara skjutningar, svärdsfäktningar eller att försöka ramma utomdimensionell best med en lastbil. Mentala konflikter inkluderar gräl med sin älskade, förhör eller ont intrång på sinnet.
+
+När man utför `lagsamarbete <#Lagsamarbete>`_ är timingen viktig. Du kan åberopa en aspekt å en allierads vägnar för att förbättra deras tärningsslag när som helst. Du kan hjälpa en allierad före deras tur genom att skapa ett övertag eller ge +1 i bonus som handling. Om deras tur inträffar innan din under rundan kan du inte hjälpa dem genom att skapa ett övertag, men du kan välja att hoppa över din tur under rundan för att ge dem +1 i bonus för lagsamarbete.
+
 Ta skada
 --------
+
+När en attack är framgångsrik måste försvararen ta emot skadan, vars storlek är skillnaden mellan attackerarens och försvararens ansträng.
+
+Du kan ta skadan genom att kryssa för stressrutor och genom att ta konsekvenser. Om du inte kan eller vill ta all skada så blir du utslagen - du är inte längre med i scenen och attackeraren väljer hur det slutar.
+
+Ett antal dåliga beslut har försatt Charles i en unken källare och möter en ghoul som är mycket sugen på att äta upp honom. Ghoulen attackerar, kastar sig fram med sina vassa klor; denna attack har nivån Hyffsat (+2) på Slåss. Spelledaren slår [ ][ ][+][0], vilket får ansträngningen att bli Umtärkt (+4). Charles försöker hoppa undan och har God (+3) på Sport men slår [ ][ ][ ][-] vilket blir ansträngning Hyffsat (+2). Eftersom ghoulens attackansträngning har två nivåer högre än Charles försvarsansträngning så får Charles två i skada. Han markerar två av sina tre fysiska stressrutor; striden har redan blivit farlig.
 
 Stress
 ~~~~~~
 
+Enkelt uttryckt är stress en rustning som berättelsen erbjuder. Det är en resurs som används för att hålla karaktären i stridbart skick när fienden träffar dem. När du markerar stressrutor för skada du får säger du saker som "Det träffade mig nästan" eller "Oj, det där slog luften ur mig men jag är okej." Med det sagt så är det en begränsad resurs - de flesta karaktärer har bara tre rutor för fysisk och mental stress respektive. Karaktärer med hög nivå av Vilja och Kroppsbyggnad kan ha mer.
+
+Du ser två typer av stressrutor på ditt karaktärsblad, en för fysiska skador och en för mentala. När du blir träffad så kan du markera tomma stressrutor av den typ som attacken är för att absorbera skadan och kunna fortsätta strida. Du markerar  en ruta för varje nivå av skada du vill absorbera.
+
+Rutorna är binära - antingen är de tomma och kan användas eller också är de ikryssade och då kan de inte användas. Det är okej. Du tar bort alla kryssen i rutorna när scenen är över - förutsatt att monstrena inte äter upp dig först.
+
 Konsekvenser
 ~~~~~~~~~~~~
+
+**Konsekvenser** är nya aspekter som du skriver upp på ditt karaktärsblad när din karaktär får skada, och utgör de skador och lyten som karaktären lider av.
+
+När du får en konsekvens för att absorbera en träff, skriv en aspekt i en tom konsekvensruta som beskriver vilken skada som karaktären lider av. Använd allvarlighetsgraden för konsekvensen som guide: Om du blir biten av en stjärnavkomma, så skulle en mild konsekvens kunna vara **Otäckt bett**, en medelsvår konsekvens skulle kunna vara **Bett som vägrar sluta blöda** och en svår konsekvens skulle kunna vara **Förlamat ben**.
+
+Medan stress innebär att du får en träff till att bli en nära miss så innebär konsekvens att du blev allvarligt träffad. Varför skulle du ta en konsekvens? För att du stressrutorna ibland inte räcker till. Kom ihåg att du måste absorbera *all* skada för att vara kvar i strid. Du har ett begränsat antal stressrutor. Den goda nyheten är att konsekvenser kan ta ganska stor del av skadan.
+
+Alla karaktärer börjar med tree konsekvensrutor - Mild, medelsvår och svår. Att ta en mild konsekvens absorberar två i skada, en medelsvår konsekvens absorberar fyra och en svår sex.
+
+Om du får fem i skada så kan du absorbera hela skadan med en stressruta och en medelsvår konsekvens. Det är betydligt mer effektivt än att använda fem stressrutor.
+
+Nackdelen med konsekvenser är att de är aspekter - och `aspekter är alltid sanna <#Aspekter är alltid sanna>`_. Som om du fått **Skjuten i magen**, så har din karaktär blivit skjuten i magen! Det betyder att du inte kan göra saker som någon som är skjuten i magen inte kan göra (som att springa fort). Om det blir komplikationer av det så kan du dessutom drabbas av betvinganden mot din konsekvens också. Och i likhet med när du skapar ett övertag, personen som skapade konsekvensen - i det här fallet han eller hon som sköt dig - får ett fritt åberopande mot denna konsekvens. Aj!
+
+Charles slåss fortfarande mot ghoulen. Den klöser honom, denna gång slår den [ ][ ][+][+], vilket tillsammans med dess färdighetsvärde på Strid som är Hyffsad (+2), och dessutom åberopar sin aspekt **Hungrig efter kött** för ytterligre +2, blir summan hela Fantastisk (+6) i skada. Charles slår [-][-][ ][ ] vilket tillsammans med God (+3) i Sport ger honom ynka Ordinär (+1) i försvar; det blir fem i skada som han behöver absorbera. Han väljer att ta en medelsvår konsekvens. Spelaren och spelledaren kommer överens om att ghoulen gav honom **Gapande sår i bröstkorgen**. Denna konsekvens absorberar fyra i skada, ett återstår, och Charles använder sin sista stressruta för att absorbera den.
 
 Bli utslagen
 ~~~~~~~~~~~~
 
+Om du inte kan absorbera all skada med stress och konsekvenser så blir du **utslagen**.
+
+Att bli utslagen är en dålig idé. Den som slog ut dig bestämmer vad som händer. Givet en farlig situation och mäktiga fiender så kan det betyda att karaktären dör, men det är inte enda möjligheten. Utgången måste vara inom ramen och nivån för striden - du dör inte av skam om du förlorar ett gräl - men ändringar i ditt karaktärsblad (och mer därtill) är fullt möjliga. Utgången behöver också vara inom ramen som gruppen har kommit överens om - om gruppen tycker att karaktärer aldrig dör utan att spelaren sagt att det är okej, så är det fullt giltigt.
+
+Men även om döden är ett alternativ (det är bäst om detta är klargjort innan tärningsslaget) bör spelledaren tänka på att det är ett tråkigt resultat. En spelarperson som är utslagen skulle kunna vara försvunnen, kidnappad, hotad, bli tvingad att ta konsekvenser... listan kan göras lång. En karaktärs död innebär att någon behöver göra en ny karaktär och få in den i berättelsen, men ett öde värre än döden är bara begränsad av din fantasi.
+
+Följ händelsernas gång när du beskriver hur någon - eller något - blir utslagen. Var kultmedlemmen utslagen av en kulsprutesvärm? Luften fylls av skvättande blod när de faller till marken med en blöt duns. Kastades du ut från lastbilen när den dundrade över en bro? Du försvinner över kanten och lämnas kvar när striden går vidare längs gatan. Döden är ett alternativ när villkoren för att bli utslagen diskuteras, men det är ofta lika intressant att lura döden.
+
+Ghoulen får in en turträff och ger Legendarisk (+8) i skada på sin attack mot Charles Dålig (-1) i försvar. Vid det här laget i striden är alla av Charles stressrutor ikryssade och hans medelsvåra konsekvens är tagen. Även om han skulle använda mild och svår konsekvens skulle det bara absorbera 8 i skada, vilket inte är tillräckligt. Därför blir Charles utslagen. Ghoulen bestämmer hans öde. Spelledaren skulle ha all rätt att bestämma att ghoulen dödar Charles på plats... men att bli dödad är inte det mest spännande resultatet.
+
+Istället deklarerar spelledaren att Charles överlever, blir knockad och släpas in i ghoulens håla, med konsekvenserna intakta. Charles vaknar upp vilse och blåslagen i becksvarta katakomber under staden. Eftersom han blev utslagen har Charles inget annat val än att acceptera sitt öde.
+
 Ge upp
 ~~~~~~
 
-Avsluta en konflikt
--------------------
+Så hur undviker du att dö en hemsk död - eller värre? Du kan avbryta vilken handling som helst i striden för att ge upp så länge tärningarna inte har träffat bordet än. Bara ge upp. Tala om för alla att du är helt färdig, du kan inte fortsätta. Din karaktär förlorar och går ur striden, men **du får ett ödespoäng** plus en extra för varje konsekvens som han eller hon fick under striden.
+
+Att ge upp innebär också att det är *du* som deklarerar villkoren för din förlust och hur du går ur striden. Du kan fly från monstrena och överleva för att strida en annan dag. Det är en förlust, dock. Du behöver ge motståndaren något som de vill ha. Du kan inte ge upp och berätta om din heroiska bragd som räddade dagen - det finns inte som ett alternativ längre.
+
+Att ge upp är ett mäktigt verktyg. Du kan ge upp för att fly med en handlingsplan för nästa strid, ledtrådar var du bör gå, eller några fördelar framöver. Du kan dock inte vinna *denna* strid.
+
+Du måste ge upp innan motståndaren slår sina tärningar. Du kan inte vänta och se vad de fick på sitt tärningsslag och ge upp när du upptäckte att du inte kan vinna - det är dålig stil.
+
+Viss förhandling förväntas här. Eftersträva en lösning som fungerar för alla vid bordet. Om motståndaren inte är överens om din formulering för villkoren kan de kräva omformulering av villkoren, eller kräva att du offrar något annat eller extra. Eftersom att ge upp fortfarande är en förlust för dig så betyder det att den andra sidan bör få åtminstone en del av vad de är ute efter.
+
+Just högre pris du betalar destor större utdelning bör det bli för din sida när du ger upp - om säker död väntar hela gruppen och en i gruppen väljer att ge upp genom att ensam hålla emot heroiskt (och dödligt) bör det betyda att resten av gruppen överlever!
+
+Avsluta en strid
+----------------
+
+En strid avslutas när alla på ena sidan av striden antingen har gett upp eller blivit utslagna. När striden avslutas så får alla spelare som gett upp ödespoäng för att de `gett upp <#Ge upp>`_. Spelledaren delar också ut ödespoäng som är intjänade genom `fientligt åberopande <#Fientligt åberopande>`_ som inträffade under konflikten.
 
 Återhämta sig från en konflikt
 ------------------------------
 
+I slutet av varje scen suddar alla karaktärer sina stressrutor. Konsekvenser tar däremot längre tid och mer ansträngning att återhämta sig från.
+
+För att starta **återhämtningsprocessen** måste den person som behandlar din skada lyckas med handlingen övervinna motstånd med lämplig färdighet. Fysiska skador läks typiskt genom att använda kunskaper inom Akademi, mentala konsekvenser läks med Empati. Svårighetsnivån för handlingen övervinna motstånd avgörs av hur allvarlig konsekvensen är:
+
+==========  ===============  ===============================================
+Konsekvens  Svårighetsnivå   Tid för läkning efter avslutad behandling
+==========  ===============  ===============================================
+mild        Hyffsad (+2)     En scen
+medelsvår   Utmärkt (+4)     En spelomgång
+svår        Fantastisk (+6)  Kräver att man passerat en `milsten <#Milsten>`_
+==========  ===============  ================================================
 
 Invoke::
    Åberopande
