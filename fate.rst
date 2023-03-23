@@ -882,10 +882,69 @@ Konsekvens  Svårighetsnivå   Tid för läkning efter avslutad behandling
 ==========  ===============  ===============================================
 mild        Hyffsad (+2)     En scen
 medelsvår   Utmärkt (+4)     En spelomgång
-svår        Fantastisk (+6)  Kräver att man passerat en `milsten <#Milsten>`_
+svår        Fantastisk (+6)  Kräver att man passerat en `milsten <#Milstenar>`_
 ==========  ===============  ================================================
 
-Invoke::
-   Åberopande
+=======
+Karriär
+=======
 
+Allteftersom berättelsen fortskrider utvecklas karaktärerna. Vid slutet av varje session får man en **milsten**, vilket låter dig flytta runt på karaktärsbladet. Allteftersom du avslutar en vändning i berättelsen får du ett **genombrott**, vilket låter dig lägga till på ditt karaktärsblad. (Lär dig mer om `spelsessioner och vändningar. <#Spelsessioner och vändningar>`_.)
+
+Milsten
+=======
+
+Milstenar inträffar i slutet av varje spelsession som ett delsteg inför en vändning i berättelsen. De fokuserar på att förändra karaktären snarare än att förbättra den. Du behöver inte använda en milsten om du inte vill, det är inte alltid det finns någon anledning till det. Möjligheten finns där om du behöver den.
+
+Under en milsten kan du göra en av följande:
+
+- Byta nivåer på två färdigheter, eller ersätt en färdighet på nivå Ordinär (+1) med en som inte finns på karaktärsbladet.
+- Skriva om en stunt.
+- Köpa en ny stunt genom att spendera en påfyllning. (Kom ihåg att du inte kan ha lägre än 1 i påfyllning.)
+- Skriv om en av dina aspekter, utom huvudaspekten.
+
+Genombrott
+==========
+
+Genombrott är större och låter din karaktär att utvecklas och bli mäktigare. Ett genombrott låter dig välja en sak från milstenslistan. Utöver det får du göra **en eller flera** av nedanstående alternativ:
+
+- Skriva om din karaktärs huvudaspekt.
+- Om du har något medelsvår eller svår konsekvens som inte är behandlad än, får du se dem som behandlade och döpa om dem. Alla konsekvenser som redan var under behandling får tas bort.
+- Öka färdighetsnivån på en färdighet - även från Medioker (+0) till Ordinär (+1).
+
+Om spelledaren tycker att berättelsen har avslutat en viktig handling i berättelsen och det är dags att göra karaktärerna märkbart bättre så kan de bli erbjudna ena eller båda av följande alternativ:
+
+- Få ett poäng påfyllning, som kan användas omedelbart för att köpa en ny stunt med om du vill.
+- Öka en färdighet till med ett steg.
+
+Förbättra färdighetsnivåer
+--------------------------
+
+När du förbättrar en färdighetsnivå måste du behålla "kolumn"-strukturen. Varje färdighetsnivå får inte ha fler färdigheter än nivån under, oräknat nivån Medioker (+0). Det betyder att du kan behöva öka några färdigheter från Medioker (+0) först - eller spara ett antal färdighetsnivåer istället för att använda dem på en gång, och låta dig gå upp många färdighetsnivåer vid ett tillfälle.
+
+Ruth vill öka sin Mysticism från Ordinär (+1) till Hyffsad (+2), men den skulle innebära att hon får fyra färdigheter på nivå Hyffsad (+2) men bara tre på nivån Medioker (+1) ... det duger inte. Lyckligtvis har hon sparat en färdighetsnivå från tidigare så hon ökar också sin färdighet Empati från Medioker (+0) till Hyffsad (+1). Nu får hon on Utmärkt (+4), två God (+3), fyra Hyffad (+2) och fyra Medioker (+1).
+
+Pyramid, giltig:
++4 [ ]
++3 [ ][ ]
++2 [ ][ ][ ]
++1 [ ][ ][ ][ ]
+
+Inte giltig:
++4 [ ]
++3 [ ][ ]
++2 [ ][ ][ ][ ]
++1 [ ][ ][ ]
+
+Giltig:
++4 [ ]
++3 [ ][ ]
++2 [ ][ ][ ][ ]
++1 [ ][ ][ ][ ]
+
+Också giltig:
++4 [ ]
++3 [ ][ ][ ]
++2 [ ][ ][ ]
++1 [ ][ ][ ]
 
