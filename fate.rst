@@ -1,5 +1,31 @@
 .. contents:: Öde - Kortfattad version
 
+============
+Introduktion
+============
+
+Det här är *Fate - Kortfattad version*, en version av *Fate Core System* översatt till svenska och i så kortfattat format som vi klarat av. Det är en komplett regelsamling för rollspel; andra böcker kan bidra till att du får mer ut av det, men du behöver inga andra böcker för att börja spela.
+
+Med det sagt, låt oss komma till det som du faktiskt *behöver*!
+
+Vad behöver jag för att spela?
+==============================
+
+För att spela *Öde - Kortfattad version* behöver du två till sex medspelare där en agerar spelledare, några tärningar, några spelmarker, pennor, papper och något att skriva små notiser på (till exempel Post-Its).
+
+*Öde - Kortfattad version* använder **Fate Dice** (ödestärningar) när karaktärer agerar. Ödestärningar är sexsidiga tärningar med två [ ] sidor, twå [+] sidor och två [-] sidor. En uppsättning med fyra tärningar fungerar fint, men en uppsättning per spelare är idealt. Andra alternativ finns, till exempel vanliga sexsidiga tärningar (1-2 = [-], 3-4 = [ ], 5-6 = [+]), eller `Deck of Fate <https://www.drivethrurpg.com/product/111835/Deck-of-Fate?affiliate_id=144937>`_, som använder spelkort istället för tärningar. Vi använder uttrycket "kasta tärning" genom hela texten för enkelhets skull.
+
+För veteraner: Ändringar från Fate Core
+=======================================
+
+Att summera nästan 300 sidor ner till ungefär 50 sidor text leder till några ändringar. När det här ursprungligen skrevs hade det också gått åtta år sedan *Fate Core System* skapades, så lite ändringar i utformningen är bara att förvänta. I synnerhet skulle vi vilja lyfta fram följande:
+
+- Vi har bytt till `enpoängs stressrutor <#Stress>`_ för att minska förvirringen.
+- `"Balsera style initiative <#Turordning>`_ (även känt som "elective action order" eller "popcorn initiative" är det normala istället för att använda färdigheter för att utröna turordning.
+- `Karriär <#Karriär>`_ fungerar lite annorlunda; vi har tagit bort signifikanta milstenar och lagt till genombrott för att kompensera.
+- Vi har tagit bort aktivt motstånd som något separat från handlingen `försvara sig <#Försvara sig>`_. Det har några mindre konsekvenser, i synnerhet `övervinna motstånds resultat oavgjort <#Övervinna motstånd>`_.
+- `Skapa övertag <#Skapa övertag>`_ har ändrats för att skapa mer klarhet och möjlighet att upptäcka befintliga okända aspekter.
+- `Fullt försvar <#Fullt försvar>`_ presenteras som valbara regler och har ändrats något för att anpassas till den utökade användningen av handlingen försvar. Andra `valbara standardregler <#Valbara regler>`_ presenteras också.
 
 ==============
 Skapa karaktär
@@ -745,7 +771,7 @@ Cassandra och Ruth snubblar över en mindre grupp kultmedlemmar ledda av en akol
 
 Eftersom alla spelare nu har gjort sitt under rundan så måste Ruth dessvärre välja någon av kultmedlemmarna som näst på tur. Hon väljer den maskerade akolyten. Spelledaren ler eftersom de vet att när väl akolyten agerar så kan den sista kultmedlemmen på tur välja akolyten som först på tur inför nästa runda. Spelarna må ha fått in första träffen, men nu för kultmedlemmarna slå tillbaka.
 
-Denna metod att skapa turordningen går under flera olika namn i onlinediskussioner: "elective order", och "popcorn", "handorff" eller "Balsera style initiative", där Balsera är efter Fate Core författaren Leonard Balsera, som planerade idén.
+Denna metod att skapa turordningen går under flera olika namn i onlinediskussioner: "elective order", och "popcorn", "handoff" eller "Balsera style initiative", där Balsera är efter Fate Core författaren Leonard Balsera, som planterade idén.
 
 Lagsamarbete
 ============
@@ -947,4 +973,15 @@ Också giltig:
 +3 [ ][ ][ ]
 +2 [ ][ ][ ]
 +1 [ ][ ][ ]
+
+Spelsessioner och vändningar
+============================
+
+Det finns några antaganden när vi pratar om spelsessioner och vändningar. Vi skulle vilja belysa dessa antaganden så att du kan göra anpassningar baserat på hur ditt spel skiljer sig från dem.
+
+En **spelsession** består av ett antal scener och några timmars spel. Jämför med en episod av en TV-serie. Det brukar landa på tre till fyra timmarsintervallet.
+
+En **vändning** är en serie spelsessioner som har en röd tråd som löper mellan spelsessionerna. Denna röda tråd behöver inte vara färdig inom en vändning, men berättelsen brukar ha gjort en signifikant utveckling och ändrat riktning. Jämför med tredjedel eller halvsäsong för TV-serien. Det brukar spänna över fyra spelsessioner.
+
+Om ditt spel faller utanför dessa "brukar"-intervaller så kan du tänkas vilja ändra på hur milstenar fungerar. Om dina vändningar tar mer än fyra till sex spelsessioner att spela så kan du tänkas vilja låta svåra konsekvenser läka efter fyra spelsessioner istället för att vänta på en vändning. Om du vill att utvecklingen ska gå långsammare kan du ge färdighetsnivåer och påfyllnad mer sällan. Om din grupp tenderar att ha korta spelsessioner kanske inte varje spelsessioner avslutas med milsten. Spelet är ditt att forma så som du vill ha det!
 
