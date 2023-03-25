@@ -5,6 +5,7 @@
 ************************
 
 .. image:: powered-by-fate-final-light-bg.eps
+   :alt: Power by Fate
 
 .. contents:: Innehåll
 
@@ -109,37 +110,23 @@ När du skapar karaktären väljs färdighetsnivåer med följande pyramid:
 - Fyra färdigheter på nivå Ordinär (+1)
 - Alla andra färdigheter på Medioker (0)
 
-.. list-table:: Färdighetsnivåer
-   :header-rows: 1
-
-   * - Nivå
-     - Adjektiv
-   * - +8
-     - Legendarisk
-   * - +7
-     - Episk
-   * - +6
-     - Fantastisk
-   * - +5
-     - Superb
-   * - +4
-     - Utmärkt
-   * - +3
-     - God
-   * - +2
-     - Hyffsad
-   * - +1
-     - Ordinär
-   * - 0
-     - Medioker
-   * - -1
-     - Dålig
-   * - -2
-     - Hemsk
-   * - -3
-     - Katastrofisk
-   * - -4
-     - Skrämmande
+====  ========
+Nivå  Adjektiv
+====  ========
++8    Legendarisk
++7    Episk
++6    Fantastisk
++5    Superb
++4    Utmärkt
++3    God
++2    Hyffsad
++1    Ordinär
+ 0    Medioker
+-1    Dålig
+-2    Hemsk
+-3    Katastrofisk
+-4    Skrämmande
+====  ========
 
 Färdigheterna
 -------------
@@ -959,28 +946,48 @@ När du förbättrar en färdighetsnivå måste du behålla "kolumn"-strukturen.
 Ruth vill öka sin Mysticism från Ordinär (+1) till Hyffsad (+2), men den skulle innebära att hon får fyra färdigheter på nivå Hyffsad (+2) men bara tre på nivån Medioker (+1) ... det duger inte. Lyckligtvis har hon sparat en färdighetsnivå från tidigare så hon ökar också sin färdighet Empati från Medioker (+0) till Hyffsad (+1). Nu får hon on Utmärkt (+4), två God (+3), fyra Hyffad (+2) och fyra Medioker (+1).
 
 Pyramid, giltig:
-+4 [ ]
-+3 [ ][ ]
-+2 [ ][ ][ ]
-+1 [ ][ ][ ][ ]
+
+====  =================
+Nivå  Antal färdigheter
+====  =================
++4    [ ]
++3    [ ][ ]
++2    [ ][ ][ ]
++1    [ ][ ][ ][ ]
+====  =================
 
 Inte giltig:
-+4 [ ]
-+3 [ ][ ]
-+2 [ ][ ][ ][ ]
-+1 [ ][ ][ ]
+
+====  =================
+Nivå  Antal färdigheter
+====  =================
++4    [ ]
++3    [ ][ ]
++2    [ ][ ][ ][ ]
++1    [ ][ ][ ]
+====  =================
 
 Giltig:
-+4 [ ]
-+3 [ ][ ]
-+2 [ ][ ][ ][ ]
-+1 [ ][ ][ ][ ]
+
+====  =================
+Nivå  Antal färdigheter
+====  =================
++4    [ ]
++3    [ ][ ]
++2    [ ][ ][ ][ ]
++1    [ ][ ][ ][ ]
+====  =================
 
 Också giltig:
-+4 [ ]
-+3 [ ][ ][ ]
-+2 [ ][ ][ ]
-+1 [ ][ ][ ]
+
+====  =================
+Nivå  Antal färdigheter
+====  =================
++4    [ ]
++3    [ ][ ][ ]
++2    [ ][ ][ ]
++1    [ ][ ][ ]
+====  =================
 
 Spelsessioner och vändningar
 ============================
