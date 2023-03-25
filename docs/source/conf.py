@@ -16,6 +16,7 @@ release = '0.1'
 
 extensions = [
         "sphinx.ext.autosectionlabel",
+        "sphinx.ext.imgconverter",
         ]
 
 # Make sure the target is unique
