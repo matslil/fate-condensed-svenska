@@ -1,13 +1,6 @@
-.. footer:: Fate Condensed är Copyright (C) Evil Hat Productions, LLC, översättning av Mats G. Liljegren, licens: `Creative Commons Attribution (CC-BY) <https://creativecommons.org/licenses/by/3.0/>`_
-
 ************************
 Öde - Kortfattad version
 ************************
-
-.. image:: powered-by-fate-final-light-bg.svg
-   :alt: Power by Fate
-
-.. contents:: Innehåll
 
 ============
 Introduktion
@@ -516,7 +509,7 @@ Försvar är den enda reaktiva handlingen i *Öde - Kortfattad version*. Du anv�
 
 Alternativen för försvar är:
 
-- **Du misslyckas** försvara dig mot en attack, du tar skada, vilket måste tas av `stress <#stress>`_ eller `konsekvenser <#konsekvenser>`_. Oavsett så lyckas fienden med sin handling så som de beskrev den.
+- **Du misslyckas** försvara dig mot en attack, du tar skada, vilket måste tas av `stress <#stress>`_ eller `konsekvenser <#konsekvenser-som-skada>`_. Oavsett så lyckas fienden med sin handling så som de beskrev den.
 - **Om det blir oavgjort**, följ vad som står för oavgjort på attackens beskrivning.
 - **Om du lyckas**, så tar du ingen skada eller du förhindrar fiendens handling.
 - **Om du lyckas med stil**, så tar du ingen skada, förhindrar fiendens handling, och får till och med en bnonus eftersom du får ett övertag just nu.
@@ -839,8 +832,8 @@ Du ser två typer av stressrutor på ditt karaktärsblad, en för fysiska skador
 
 Rutorna är binära - antingen är de tomma och kan användas eller också är de ikryssade och då kan de inte användas. Det är okej. Du tar bort alla kryssen i rutorna när scenen är över - förutsatt att monstrena inte äter upp dig först.
 
-Konsekvenser
-~~~~~~~~~~~~
+Konsekvenser som skada
+~~~~~~~~~~~~~~~~~~~~~~
 
 **Konsekvenser** är nya aspekter som du skriver upp på ditt karaktärsblad när din karaktär får skada, och utgör de skador och lyten som karaktären lider av.
 

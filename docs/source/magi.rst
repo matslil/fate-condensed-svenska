@@ -1,15 +1,8 @@
-.. footer:: Copyright (C) Mats G. Liljegren, licens: `Creative Commons Attribution (CC-BY) <https://creativecommons.org/licenses/by/3.0/>`_
-
 =================================
 Magi för Öde - Kortfattad version
 =================================
 
-.. image:: powered-by-fate-final-light-bg.svg
-   :alt: Powered by Fate
-
 Denna regelsamling beskriver ett magisystem som är generellt, det kan användas både för klassiska fantasykampanjer såväl som i Star Wars kampanjer för att beskriva Jedi. Dessa regler är tillägg till reglerna **Öde - Kortfattad version**.
-
-.. contents:: Innehåll
 
 Vad är magi?
 ============
