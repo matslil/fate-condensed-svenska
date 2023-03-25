@@ -1,4 +1,12 @@
-.. contents:: Öde - Kortfattad version
+.. footer:: Fate Condensed är Copyright (C) Evil Hat Productions, LLC, översättning av Mats G. Liljegren, licens: `Creative Commons Attribution (CC-BY) <https://creativecommons.org/licenses/by/3.0/>`_
+
+************************
+Öde - Kortfattad version
+************************
+
+.. image:: powered-by-fate-final-light-bg.eps
+
+.. contents:: Innehåll
 
 ============
 Introduktion
