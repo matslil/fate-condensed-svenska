@@ -4,7 +4,7 @@
 Öde - Kortfattad version
 ************************
 
-.. image:: powered-by-fate-final-light-bg.eps
+.. image:: powered-by-fate-final-light-bg.svg
    :alt: Power by Fate
 
 .. contents:: Innehåll
@@ -29,12 +29,12 @@ För veteraner: Ändringar från Fate Core
 
 Att summera nästan 300 sidor ner till ungefär 50 sidor text leder till några ändringar. När det här ursprungligen skrevs hade det också gått åtta år sedan *Fate Core System* skapades, så lite ändringar i utformningen är bara att förvänta. I synnerhet skulle vi vilja lyfta fram följande:
 
-- Vi har bytt till `enpoängs stressrutor <#Stress>`_ för att minska förvirringen.
-- `"Balsera style initiative <#Turordning>`_ (även känt som "elective action order" eller "popcorn initiative" är det normala istället för att använda färdigheter för att utröna turordning.
-- `Karriär <#Karriär>`_ fungerar lite annorlunda; vi har tagit bort signifikanta milstenar och lagt till genombrott för att kompensera.
-- Vi har tagit bort aktivt motstånd som något separat från handlingen `försvara sig <#Försvara sig>`_. Det har några mindre konsekvenser, i synnerhet `övervinna motstånds resultat oavgjort <#Övervinna motstånd>`_.
-- `Skapa övertag <#Skapa övertag>`_ har ändrats för att skapa mer klarhet och möjlighet att upptäcka befintliga okända aspekter.
-- `Fullt försvar <#Fullt försvar>`_ presenteras som valbara regler och har ändrats något för att anpassas till den utökade användningen av handlingen försvar. Andra `valbara standardregler <#Valbara regler>`_ presenteras också.
+- Vi har bytt till `enpoängs stressrutor <#stress>`_ för att minska förvirringen.
+- `"Balsera style initiative <#turordning>`_ (även känt som "elective action order" eller "popcorn initiative" är det normala istället för att använda färdigheter för att utröna turordning.
+- `Karriär <#karriar>`_ fungerar lite annorlunda; vi har tagit bort signifikanta milstenar och lagt till genombrott för att kompensera.
+- Vi har tagit bort aktivt motstånd som något separat från handlingen `försvara sig <#forsvara-sig>`_. Det har några mindre konsekvenser, i synnerhet `övervinna motstånds resultat oavgjort <#overvinna-motstand>`_.
+- `Skapa övertag <#skapa-ett-overtag>`_ har ändrats för att skapa mer klarhet och möjlighet att upptäcka befintliga okända aspekter.
+- `Fullt försvar <#fullt-forsvar>`_ presenteras som valbara regler och har ändrats något för att anpassas till den utökade användningen av handlingen försvar. Andra `valbara standardregler <#valbara-regler>`_ presenteras också.
 
 ==============
 Skapa karaktär
@@ -259,7 +259,7 @@ Din nivå i färdigheten Sport påverkar hur många fysiska stressrutor din kara
    Superb (5) eller högre            [1][1][1] [1][1][1] och en andra mild konsekvensruta speciellt för fysisk eller mental skada
    ================================  =====================
 
-Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i `Att ta skada<#Att ta skada>`_.
+Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i att `ta skada<#ta-skada>`_.
 
 Påfyllning
 ==========
@@ -309,32 +309,32 @@ Svårighet och motstånd
 
 Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast **svårighetsnivå**. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa aspekter (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
 
-Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom `försvarshandling <#Försvar>`_. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, aspekter och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
+Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom `försvarshandling <#forsvar>`_. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, aspekter och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
 
 Motstånd kan anta många former. Kämpa mot en medlem av en kult över en rituell dolk har en uppenbar motståndare. Eller du kanske kämpar mot kraften från en mystisk ritual som måste övervinnas för att rädda världen. Bryta sig in i kassavalvet  på Stadsbanken för att komma åt bankfacken är en utmaning med risk för att bli upptäckt, men det är upp till spelledaren om du slår mot *motståndet* från de patrullerande vakterna eller mot bankvalvets *svårighetsnivån*.
 
 Modifiera Tärningen
 ===================
 
-Du kan modifiera tärningen genom att åberopa en aspekt för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också åberopa en aspekt för att `hjälpa en allierad <#Samarbete>`_ eller öka svårighetsnivån för en fiende.
+Du kan modifiera tärningen genom att åberopa en aspekt för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också åberopa en aspekt för att `hjälpa en allierad <#samarbete>`_ eller öka svårighetsnivån för en fiende.
 
 Åberopa en aspekt
 -------------------
 
 När du utför en handling men tärningsslaget inte räcker till så behöver du inte bara sitta och acceptera nederlaget. (Fast du kan absolut göra det. Kan bli roligt det med.) Aspekterna som är i spel ger dig valmöjligheter och en väg till framgång.
 
-När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att åberopa den (eller använd ett fritt åberopande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att åberopa en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda `säkerhetsverktyg <#Säkerhetsverktyg>`_ på liknande sätt.
+När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att åberopa den (eller använd ett fritt åberopande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att åberopa en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda `säkerhetsverktyg <#sakerhetsverktyg>`_ på liknande sätt.
 
 När ditt åberopande av aspekt anses fel har du två valmöjligheter. Du kan ta tillbaka åberopandet och försöka något annat, kanske annan aspekt. Du kan ha en snabb diskussion om varför du anser att aspekter passar in. Om personen inte blir övertygad, ta tillbaka åberopandet och gå vidare. Om du övertygar personen så kan du fortsätta med framallandet som vanligt. Falskregeln är till för att spelupplevelsen ska bli bra. Använd den när något inte låter rätt eller logiskt eller inte passar in. Att kasta en bil med åberopandet av aspekten **Framstående som första intryck** är troligen ett fall för falskregeln. Men kanske har karaktären har en övernaturlig stunt som gör honom eller henne otroligt stark, stark nog för att kunna kasta en bil, och detta är första striden mot ett hemskt monster. I det fallet kanske **Framstående som första intryck** skulle kunna fungera.
 
 När du åberopar en aspekt får du antingen +2 bonus på tärningsslaget, eller möjlighet att slå om alla tärningar, eller lägga till 2 på motståndarens svårighetsnivå om det kan motiveras. Du kan göra multiple åberopanden för samma tärningsslag så länge det görs mot olika aspekter, med ett undantag: Du kan använda så många *fria åberopanden* för en aspekt som du vill på samma tärningsslag.
 
-Vanligtvis åberopar du en av din karaktärs aspekter. Du kan också `åberopa en situationsaspekt <#Åberopanden>`_ eller göra ett `fientligt åberopande <#Fientliga åberopanden>`_ av någon annan karaktärs aspekt.
+Vanligtvis åberopar du en av din karaktärs aspekter. Du kan också `åberopa en situationsaspekt <#aberopanden>`_ eller göra ett `fientligt åberopande <#fientliga-aberopanden>`_ av någon annan karaktärs aspekt.
 
 Använda stunt
 -------------
 
-Stunt kan ge dig en bonus på dina tärningsslag förutsatt att du uppfyller kraven som är skrivna för stunten, till exempel omständighet, handling eller använd färdighet. Du kan vilja `skapa övertag <#Skapa ett övertag>`_ för att introducera aspekter som ger de rätta omständigheterna. Tänk på stuntens omständigheter när du beskriver dina handlingar också, och förbered dig på framgång.
+Stunt kan ge dig en bonus på dina tärningsslag förutsatt att du uppfyller kraven som är skrivna för stunten, till exempel omständighet, handling eller använd färdighet. Du kan vilja `skapa övertag <#skapa-ett-overtag>`_ för att introducera aspekter som ger de rätta omständigheterna. Tänk på stuntens omständigheter när du beskriver dina handlingar också, och förbered dig på framgång.
 
 Normalt ger stunt +2 bonus inom ett snäv omständighet utan kostnad; du kan använda dem närhelst de är tillämpbara. Vissa sällsynta och kraftfulle stunt kan kräva ödespoäng för att använda dem.
 
@@ -348,7 +348,7 @@ Skillnaden mellan ansträngningen (tärningsslaget plus modifikationer) och svå
 - Om din ansträngning är ett eller två steg över svårighetsnivån eller motståndet, lyckas du.
 - Om din ansträngning är tre eller fler steg över svårighetsnivån eller motståndet, lyckas du med stil.
 
-En del resultat är uppenbarligen bättre för dig än andra, men alla bör föra fram berättelsen på ett intressant sätt. Du började med `berättelsen först <#Utföra handling, rulla tärning>`_; se till att du slutar med det också, för att bibehålla fokus på berättelsen, och för att säkerställa att du tolkar resultatet på ett sätt som passar handlingen.
+En del resultat är uppenbarligen bättre för dig än andra, men alla bör föra fram berättelsen på ett intressant sätt. Du började med `berättelsen först <#utfora-handling,-rulla tarning>`_; se till att du slutar med det också, för att bibehålla fokus på berättelsen, och för att säkerställa att du tolkar resultatet på ett sätt som passar handlingen.
 
 Ethan är inte så bra på att knäcka kassaskåp (även om han har verktygen), och ändå är han i en lömsk sekts vaktade högkvarter, med en ståldörr mellan sig och en rituell bok som han är i desperat behov av. Kan han komma in?
 
@@ -447,8 +447,8 @@ En karaktär med nivån god på Sport kan klättra över murar och rusa genom fo
 
 Dina alternativ för övervinna är:
 
-- **Om du misslyckas**, diskutera med spelledaren (och försvarande spelare, om någon) huruvida det är ett misslyckande eller `lyckande till stor kostnad <#Lyckas till stor kostnad>`_.
-- **Om det är oavgjort**, så är det `lyckas till mindre kostnad <#Lyckas till mindre kostnad>`_ - du är i en svår sits, fienden får en `bonus <#Bonus>`_, eller du tar skada. Alternativt så fallerar du, men får en bonus.
+- **Om du misslyckas**, diskutera med spelledaren (och försvarande spelare, om någon) huruvida det är ett misslyckande eller `lyckande till stor kostnad <#lyckas-till-stor-kostnad>`_.
+- **Om det är oavgjort**, så är det `lyckas till mindre kostnad <#lyckas-till-mindre-kostnad>`_ - du är i en svår sits, fienden får en `bonus <#bonus>`_, eller du tar skada. Alternativt så fallerar du, men får en bonus.
 - **Om du lyckas**, så uppnår du ditt mål och berättelsen går vidare utan fler störningar.
 - **Om du lyckas med stil**, så uppnår du ditt mål och får också en bonus.
 
@@ -463,14 +463,14 @@ Skapa en situationsaspekt eller få en fördel av en existerande aspekt.
 
 Du kan använda **skapa ett övertag** handling för att ändra berättelsens gång. Genom att använda dina färdigheter för att skapa nya aspekter eller lägga tilll åberopanden till befintliga aspekter kan du manipulera situationen till din och dina lagkamraters fördel. Du kan ändra på omständigheterna (barrikadera en dörr eller skapa en plan), upptäcka ny information (få reda på ett monsters svaghet genom efterforskning) eller ta fördel av något som redan är känt (som VD:ns smak för whiskey).
 
-En aspekt skapad (eller upptäckt) genom skapandet av en fördel fungerar som vilken annan aspekt som helst: Den styr berättelsens omständigheter och kan tillåta, förhindra eller försvåra handling - till exempel, du kan inte läsa besvärjelsen om rummet blev becksvart. Det kan också bli `åberopad <#Åberopanden>`_ eller `betvingad <#Betvinganden>`_. När du skapar ett övertag får du en eller flera fria åberopanden utöver den skapade aspekten. Ett fritt åberopande, som namnet antyder, låter dig åberopa en aspekt utan att behöva spendera ett ödespoäng. Du kan till och med låta dina allierade använda fria åberopanden som du har skapat.
+En aspekt skapad (eller upptäckt) genom skapandet av en fördel fungerar som vilken annan aspekt som helst: Den styr berättelsens omständigheter och kan tillåta, förhindra eller försvåra handling - till exempel, du kan inte läsa besvärjelsen om rummet blev becksvart. Det kan också bli `åberopad <#aberopanden>`_ eller `betvingad <#betvinganden>`_. När du skapar ett övertag får du en eller flera fria åberopanden utöver den skapade aspekten. Ett fritt åberopande, som namnet antyder, låter dig åberopa en aspekt utan att behöva spendera ett ödespoäng. Du kan till och med låta dina allierade använda fria åberopanden som du har skapat.
 
 När du slår tärning för att skapa ett övertag, ange om du skapar en ny aspekt eller drar fördel av en existerande. Om det är det förstnämnda, lägger du det på en allierad, moståndare eller miljön? Om du lägger den på din motståndare kan de välja en försvrshandling för att göra motstånd. Annars kommer du att möta en svårighetsnivå, men spelledaren kan välja om något eller någon motverkar dina ansträngningar med ett försvarsslag istället.
 
 Dina alternativ för skapa ny aspekt är:
 
-- **Om du misslyckas**, antingen skapar du ingen ny aspekt (fallerar) eller så skapar du den men fienden får fri åberopande (lyckas till en kostnad). Om du lyckas till en kostnad så kan detaljerna kring aspekten behöva skrivas om för att passa fienden. Det kan ändå vara värt det för `aspekter är alltid sanna <#Aspekter är sanna>`_.
-- **Om det blir oavgjort**, så skapar du ingen ny aspekt men du får en `bonus <#Bonus>`_.
+- **Om du misslyckas**, antingen skapar du ingen ny aspekt (fallerar) eller så skapar du den men fienden får fri åberopande (lyckas till en kostnad). Om du lyckas till en kostnad så kan detaljerna kring aspekten behöva skrivas om för att passa fienden. Det kan ändå vara värt det för `aspekter är alltid sanna <#aspekter-ar-alltid-sanna>`_.
+- **Om det blir oavgjort**, så skapar du ingen ny aspekt men du får en `bonus <#bonus>`_.
 - **Om du lyckas**, så skapar du en situationsaspekt med ett fritt åberopande för det.
 - **Om du lyckas med stil**, så skapar du en situationsaspekt med *två* fria åberopanden för det.
 
@@ -499,8 +499,8 @@ Tänk på huruvida du överhuvudtaget kan göra någon skada på motståndaren. 
 Dina alternativ för attacker är:
 
 - **Du misslyckas**, du når inte fram - motståndaren parerar, duckar eller skadan absorberas av rustning.
-- **Det blir oavgjort**, kanske når du fram nätt och jämt, eller du fick motståndaren att rycka till. Oavsett så får du en `bonus <#Bonus>`_.
-- **Om du lyckas**, du utdelar skada som är skillnaden attackens total och försvarets ansträngning. Försvararen måste ta skadan som stress eller konsekvens, eller `bli utslagen <#Att bli utslagen>`_.
+- **Det blir oavgjort**, kanske når du fram nätt och jämt, eller du fick motståndaren att rycka till. Oavsett så får du en `bonus <#bonus>`_.
+- **Om du lyckas**, du utdelar skada som är skillnaden attackens total och försvarets ansträngning. Försvararen måste ta skadan som stress eller konsekvens, eller `bli utslagen <#att-bli-utslagen>`_.
 - **Om du lyckas med stil**, du utdelar skada i likhet med vanligt lyckat slag, men du har möjlighet att minska skadan med en nivå för att få en bonus.
 
 Ruth snubblar över ett lik som väckts till liv av mystiska krafter för att fullfölja något mörkt syfte. Hon bestämmer sig för att slå till det. Hon har Utmärkt (+4) Slåss men slår [-][-][ ][ ], vilket ger Hyffsat (+2) i ansträngning.
@@ -516,7 +516,7 @@ Försvar är den enda reaktiva handlingen i *Öde - Kortfattad version*. Du anv�
 
 Alternativen för försvar är:
 
-- **Du misslyckas** försvara dig mot en attack, du tar skada, vilket måste tas av `stress <#Stress>`_ eller `konsekvenser <#Konsekvenser>`_. Oavsett så lyckas fienden med sin handling så som de beskrev den.
+- **Du misslyckas** försvara dig mot en attack, du tar skada, vilket måste tas av `stress <#stress>`_ eller `konsekvenser <#konsekvenser>`_. Oavsett så lyckas fienden med sin handling så som de beskrev den.
 - **Om det blir oavgjort**, följ vad som står för oavgjort på attackens beskrivning.
 - **Om du lyckas**, så tar du ingen skada eller du förhindrar fiendens handling.
 - **Om du lyckas med stil**, så tar du ingen skada, förhindrar fiendens handling, och får till och med en bnonus eftersom du får ett övertag just nu.
@@ -549,9 +549,9 @@ En person kan ha rykte om sig att vara den **Bästa prickskytten i ödemarkerna*
 Aspekter är alltid sanna
 ========================
 
-Du kan `åberopa aspekter <#Åberopanden>`_ för att få bonus på ditt tärningsslag och `betvinga dem <#Betvinganden>`_ för att skapa komplikationer. Men även när de inte är i spel kan aspekter fortfarande påverka berättelsen. När en köttigt monster är **Fast i en hydralpress**, så är det *sant*. Den kan inte göra så mycket när den är fast där, och den kommer inte loss i första taget.
+Du kan `åberopa aspekter <#aberopanden>`_ för att få bonus på ditt tärningsslag och `betvinga dem <#betvinganden>`_ för att skapa komplikationer. Men även när de inte är i spel kan aspekter fortfarande påverka berättelsen. När en köttigt monster är **Fast i en hydralpress**, så är det *sant*. Den kan inte göra så mycket när den är fast där, och den kommer inte loss i första taget.
 
-I princip "aspekter är alltid sanna" betyder att **aspekter kan ge eller dra tillbaka tillåtelsen för vad som kan hända i berättelsen** (de kan också `påverka svårighetsnivån <#Sätta svårighetsnivån och motstånd>`_. Om den tidigare nämnda monstret är **Fastnålad** så måste spelledaren (och alla andra) respektera det. Kreaturet har förlorat tillåtelsen att röra på sig tills något händer som tar bort aspekten, antingen genom att framgångsrikt övervinna (vilket i sig kan kräva en aspekt såsom **Övermänsklig styrka** eller att någon får för sig att lyfta pressen igen. På liknande sätt om du har **Cybernetiskt förstärkta ben** så kan du argumentera för tillåtelse att hoppa över murar på ett hopp utan att ens behöva slå tärning för det.
+I princip "aspekter är alltid sanna" betyder att **aspekter kan ge eller dra tillbaka tillåtelsen för vad som kan hända i berättelsen** (de kan också `påverka svårighetsnivån <#satta-svarighetsnivan-och-motstand>`_. Om den tidigare nämnda monstret är **Fastnålad** så måste spelledaren (och alla andra) respektera det. Kreaturet har förlorat tillåtelsen att röra på sig tills något händer som tar bort aspekten, antingen genom att framgångsrikt övervinna (vilket i sig kan kräva en aspekt såsom **Övermänsklig styrka** eller att någon får för sig att lyfta pressen igen. På liknande sätt om du har **Cybernetiskt förstärkta ben** så kan du argumentera för tillåtelse att hoppa över murar på ett hopp utan att ens behöva slå tärning för det.
 
 Det betyder inte att du kan skapa vilken aspekt du vill och använda dess sanning som en klubba. Aspekter ger stor makt över att forma berättelsen, och med makt kommer ansvar att spela inom berättelsens ramar. Aspekter behöver ligga i linje med vad alla runt bordet känner passar in.
 
@@ -560,12 +560,12 @@ Visst, du kan kanske *vill* skapa ett övertag genom att åsamka aspekten **Sön
 Vilka typer av aspekter finns det?
 ==================================
 
-Det finns en `ändlös lista av aspekter <#Andra aspekter>`_, men oavsett vad de kallas fungerar de på liknande sätt. Den största skillnaden ligger i hur länge de finns kvar innan de försvinner.
+Det finns en `ändlös lista av aspekter <#andra-aspekter>`_, men oavsett vad de kallas fungerar de på liknande sätt. Den största skillnaden ligger i hur länge de finns kvar innan de försvinner.
 
 Karaktärsaspekter
 -----------------
 
-Det är aspekterna du hittar på ditt karaktärsblad, exempelvis din övergripande aspekt och problemaspekten. De beskriver dina personlighetsdrag, viktiga detaljer om ditt förflutna, relationer du har med andra, viktiga föremål eller titlar du har, problem som du behöver hantera eller mål du jobbar mot, eller rykte eller förpliktelser som du har. Dessa aspekter ändras främst vid `milstenar <#Mindre milstenar>`_.
+Det är aspekterna du hittar på ditt karaktärsblad, exempelvis din övergripande aspekt och problemaspekten. De beskriver dina personlighetsdrag, viktiga detaljer om ditt förflutna, relationer du har med andra, viktiga föremål eller titlar du har, problem som du behöver hantera eller mål du jobbar mot, eller rykte eller förpliktelser som du har. Dessa aspekter ändras främst vid `milstenar <#mindre-milstenar>`_.
 
 Exempel: **Ledare över en grupp överlevare**, **Sinne för detaljer**, **Jag måste skydda min bror**.
 
@@ -596,16 +596,16 @@ Vad kan jag göra med aspekterna?
 Tjäna ödespoäng
 ---------------
 
-Ett sätt att förtjäna ett ödepoäng är att låta din karaktärs aspekter bli betvingade för att göra din situation mer komplicerad eller livet hårdare. Du kan också få ödespoäng om någon använder din aspekt mot dig med ett `fientligt åberopande <#Fientliga åberopanden>`_ eller när du `medger det <#Medgivande>`_.
+Ett sätt att förtjäna ett ödepoäng är att låta din karaktärs aspekter bli betvingade för att göra din situation mer komplicerad eller livet hårdare. Du kan också få ödespoäng om någon använder din aspekt mot dig med ett `fientligt åberopande <#fientliga-aberopanden>`_ eller när du `medger-det <#medgivande>`_.
 
-Kom att du inför varje spelsession börjar med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har blivit betvingad mer än åberopat i förra spelsessionen så `kan du ha fler ödespoäng nästa spelsession <#Återhämtning>`_.
+Kom att du inför varje spelsession börjar med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har blivit betvingad mer än åberopat i förra spelsessionen så `kan du ha fler ödespoäng nästa spelsession <#aterhamtning>`_.
 
 Åberopanden
 -----------
 
-För att utnyttja den fulla potentialen av aspekter och låta dem jobba för dig så behöver du spendera ödespoäng för att `åberopa dem under tärningsslaget <#Åberopa aspekter>`_. Håller reda på ödespoängen med hjälp av mynt, glaskulor, pokerpengar eller andra marker.
+För att utnyttja den fulla potentialen av aspekter och låta dem jobba för dig så behöver du spendera ödespoäng för att `åberopa dem under tärningsslaget <#aberopa-aspekter>`_. Håller reda på ödespoängen med hjälp av mynt, glaskulor, pokerpengar eller andra marker.
 
-Du kan också fritt åberopa en aspekt om du har ett fritt åberopande eller om en allierad `skapar ett övertag du kan utnyttja <#Skapa ett övertag>`_.
+Du kan också fritt åberopa en aspekt om du har ett fritt åberopande eller om en allierad `skapar ett övertag du kan utnyttja <#skapa-ett-overtag>`_.
 
 Ellipstricket
 ~~~~~~~~~~~~~
@@ -622,7 +622,7 @@ I allmänhet när en aspekt blir åberopad så är det en karaktärsaspekt eller
 Åberopa för att deklarera detaljer i berättelsen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Du kan lägga till en viktig eller osannolik detalj i berättelsen baserat på en aspekt som är i spel. Spendera inte ett ödespoäng när "`aspekter är alltid sanna <#Aspekter är alltid sanna>`_" gäller. Gör det istället när det inte är självklart om aspekten är tillämpbar eller, om alla runt bordet går med på det, när det inte finns någon tillämpbar aspekt.
+Du kan lägga till en viktig eller osannolik detalj i berättelsen baserat på en aspekt som är i spel. Spendera inte ett ödespoäng när "`aspekter är alltid sanna <#aspekter-ar-alltid-sanna>`_" gäller. Gör det istället när det inte är självklart om aspekten är tillämpbar eller, om alla runt bordet går med på det, när det inte finns någon tillämpbar aspekt.
 
 Betvinganden
 ------------
@@ -675,16 +675,16 @@ Fientligt åberopande hjälp dig för stunden. Förutom dina egna aspekter har d
 Hur kan jag lägga till och ta bort aspekter?
 ============================================
 
-Du kan skapa eller upptäcka en situationsaspekt med hjälp av handlingen `skapa ett övertag <#Skapa ett övertag>`_. Du kan också skapa en bonus den vägen, eller som ett resultat av oavgjort eller lyckas med stil när du försöker övervinna ett hinder, attack eller försvar.
+Du kan skapa eller upptäcka en situationsaspekt med hjälp av handlingen `skapa ett övertag <#skapa-ett-overtag>`_. Du kan också skapa en bonus den vägen, eller som ett resultat av oavgjort eller lyckas med stil när du försöker övervinna ett hinder, attack eller försvar.
 
-Du kan ta bort en aspekt förutsatt att du kan komma på ett sätt som din karaktär skulle kunna göra det - använda brandsläckare på **Eldsvåda**, utföra undvikande manövrar vid flykt undan förföljande vakter när du är **Jagad**. Beroende på situation kan det krävas att du `motstår en handling <#Motstå>`_; i detta fall så kan en motståndare använda en försvarshandling för att försöka bevara en aspekt, om de kan beskriva hur de kan göra det.
+Du kan ta bort en aspekt förutsatt att du kan komma på ett sätt som din karaktär skulle kunna göra det - använda brandsläckare på **Eldsvåda**, utföra undvikande manövrar vid flykt undan förföljande vakter när du är **Jagad**. Beroende på situation kan det krävas att du `motstår en handling <#motsta>`_; i detta fall så kan en motståndare använda en försvarshandling för att försöka bevara en aspekt, om de kan beskriva hur de kan göra det.
 
 Om det inte finns något i berättelsen som hindrar att aspekten tas bort, tas den helt enkelt bort. Om du är **Bunden** och en vän hjälper dig loss, så tas aspekten bort. Om inget hindrar det, finns det ingen anledning att slå tärning för det.
 
 Andra typer av aspekter
 =======================
 
-Vi har gått igenom `vanliga typer av aspekter <#Vilka typer av aspekter finns det?>`_. Dessa ytterligare typer är valfria, men kan ge spelet en extra krydda. I viss grad är dessa varianter av karaktärsaspekter (om du vidgar definitionen av karaktär) eller situationsaspekter (om du ändrar hur länge dessa varar).
+Vi har gått igenom `vanliga typer av aspekter <#vilka-typer-av-aspekter-finns-det?>`_. Dessa ytterligare typer är valfria, men kan ge spelet en extra krydda. I viss grad är dessa varianter av karaktärsaspekter (om du vidgar definitionen av karaktär) eller situationsaspekter (om du ändrar hur länge dessa varar).
 
 Orginisationsaspekter::
    Ibland kan du möta en hel organisation som opererar under vissa principer. Överväg att ge organisationen aspekter som alla medlemmar kan använda som om det vore deras egna.
@@ -696,7 +696,7 @@ Uppsättningsaspekter::
    I likhet med scenarioaspekter, uppsättningen av kampanjen kan i sig ha återkommande teman. I motsats till scenarioaspekten så försvinner inte uppsättningsaspekter.
 
 Områdesaspekter::
-   Du kan koppla situationsaspekter till en viss plats på kartan `som är inom ett område <#Områden>`_. Det kan lägga till extra dynamik till spelargruppens interaktion med kartan. Spelledaren uppmuntras att skapa "fritt tillgängliga" fria åberopanden tillgängliga för områdesaspekter vid början av scenen, för att locka karaktärerna (spelare eller spelledarpersoner) att utnyttja aspekten som del av deras tidiga strategier.
+   Du kan koppla situationsaspekter till en viss plats på kartan `som är inom ett område <#omraden>`_. Det kan lägga till extra dynamik till spelargruppens interaktion med kartan. Spelledaren uppmuntras att skapa "fritt tillgängliga" fria åberopanden tillgängliga för områdesaspekter vid början av scenen, för att locka karaktärerna (spelare eller spelledarpersoner) att utnyttja aspekten som del av deras tidiga strategier.
 
 ================================
 Utmaningar, konflikter och strid
@@ -724,7 +724,7 @@ Områden hjälper till att guida berättelsen genom att forma vad som är möjli
 
 **Alla i ett område kan interagera med allt och alla inom området.** Det betyder att du kan träffa, hugga eller annars fysiskt påverka folk och ting inom området. Behöver öppna väggkassaskåpet i sovrummet? Då behöver du vara i det området. Allt utanför området är i allmänhet utanför räckhåll - du behöver förflytta dig för att komma dit, eller använda något som utökar din räckvidd (telekinesi, skjutvapen, etc).
 
-Förutsatt att inget hindrar dig är det lätt att ta sig mellan områden. **Du kan `förflytta sig till ett angränsande område <#Turordning>`_ utöver din handling så länge inget står ivägen för det.** Om det finns hinder för din förflyttning så krävs en handling för att utföra den. Slå ett tärningsslag för att klättra över väggen, rusa förbi en grupp kultmedlemmar eller hoppa mellan hustaken. Om du misslyckas är du kvar i ursprungsområdet, eller också förflyttade du dig till en kostnad. Du kan använda din handling till att förflytta dig var som helst på kartan - även om spelledaren har rätt att sätta en hög svårighetsnivå om förflyttningen är episk.
+Förutsatt att inget hindrar dig är det lätt att ta sig mellan områden. **Du kan `förflytta sig till ett angränsande område <#turordning>`_ utöver din handling så länge inget står ivägen för det.** Om det finns hinder för din förflyttning så krävs en handling för att utföra den. Slå ett tärningsslag för att klättra över väggen, rusa förbi en grupp kultmedlemmar eller hoppa mellan hustaken. Om du misslyckas är du kvar i ursprungsområdet, eller också förflyttade du dig till en kostnad. Du kan använda din handling till att förflytta dig var som helst på kartan - även om spelledaren har rätt att sätta en hög svårighetsnivå om förflyttningen är episk.
 
 Om något inte är riskfyllt eller intressant nog för att kräva ett tärningsslag så är det inget hinder för förflyttningen. Du behöver inte använda en handling för att öppna en olåst därr - det är bara en del av förflyttningen.
 
@@ -753,12 +753,12 @@ Det är upp till spelledaren om en situationsaspekt som uppstår när en scen s�
 Områdesaspekter
 ---------------
 
-Vissa `situationsaspekter kan gälla inom specifika områden på kartan <#Andra typer av aspekter>`_, andra inte. Det är helt okej - det kan ge extra krydda, möjligheter och utmaningar i kartan som inte skulle finnas där annars.
+Vissa `situationsaspekter kan gälla inom specifika områden på kartan <#andra-typer-av-aspekter>`_, andra inte. Det är helt okej - det kan ge extra krydda, möjligheter och utmaningar i kartan som inte skulle finnas där annars.
 
 Turordning
 ----------
 
-Vanligtvis är turordningen inte viktig, men vid konflikter och strid kan det bli viktigt. Dessa scener utspelar sig under en antal **rundor**. Under en runda så kan varje inblandad karaktär göra ett motstånd, skapa ett övertag eller utföra en attack, samt en förflyttning. (`Kamp fungerar annorlunda <#Utmaningar, konflikter och strid>`_.) Eftersom försvar är en reaktion på någon annans handling så kan karaktärer försvara sig så många gånger som de behöver under andra karaktärers runda, så länge de kan motivera hur de kan blanda sig in i det baserat på vad de redan har bidragit till berättelsen.
+Vanligtvis är turordningen inte viktig, men vid konflikter och strid kan det bli viktigt. Dessa scener utspelar sig under en antal **rundor**. Under en runda så kan varje inblandad karaktär göra ett motstånd, skapa ett övertag eller utföra en attack, samt en förflyttning. (`Kamp fungerar annorlunda <#utmaningar,-konflikter-och-strid>`_.) Eftersom försvar är en reaktion på någon annans handling så kan karaktärer försvara sig så många gånger som de behöver under andra karaktärers runda, så länge de kan motivera hur de kan blanda sig in i det baserat på vad de redan har bidragit till berättelsen.
 
 I början av scenen så behöver spelledare och spelare komma överens om vem som börjar baserat på hur situationen ser ut, sedan väljer den spelare som är i tur vems tur det är härnäst. Spelledarens karaktärers turordning bestäms på samma sätt som för spelarna, där spelledaren väljer vilken spelledareperson som är i tur när en annan spelledarperson har agerat. När alla har gjort sitt så får den spelare som sist var på tur bestämma vem som är först i tur nästa runda.
 
@@ -768,10 +768,10 @@ Eftersom alla spelare nu har gjort sitt under rundan så måste Ruth dessvärre 
 
 Denna metod att skapa turordningen går under flera olika namn i onlinediskussioner: "elective order", och "popcorn", "handoff" eller "Balsera style initiative", där Balsera är efter Fate Core författaren Leonard Balsera, som planterade idén.
 
-Lagsamarbete
-============
+Samarbete
+=========
 
-Öde erbjuder tre alternativ för lagsamarbete: kombinera samma färdighet från flera karaktärer till ett tärningsslag, lägga ihop fria åberopanden genom att skapa övertag för att hjälpa en lagkamrat samt åberopa en aspekt å en allierads vägnar.
+Öde erbjuder tre alternativ för samarbete: kombinera samma färdighet från flera karaktärer till ett tärningsslag, lägga ihop fria åberopanden genom att skapa övertag för att hjälpa en lagkamrat samt åberopa en aspekt å en allierads vägnar.
 
 När du kombinerar färdigheter ta reda på vem som har den högsta färdighetsnivån i färdigheten ifråga bland de inblandade. Varje inblandad som har åtminstone Hyffsad (+1) i färdigheten lägger på +1 på färdighetsnivån för den inblandade som hade högst färdighetsnivå. Att hjälpa någon på detta sätt är en handling. Medhjälparna får samma kostnader och konsekvenser som den som slår tärningen. Den maximala totala bonus som ett lag kan bidra med på detta sätt är lika med färdighetsnivån för den med den högsta färdighetsnivån. Du kan alltså aldrig få mer än dubbla färdighetsnivån genom att kombinera färdigheter.
 
@@ -784,9 +784,9 @@ Många svårigheter som karaktärerna möter kan hanteras av ett enkelt tärning
 
 Under komplicerade förhållanden utan några motståndare så vill du använda **utmaning**: en serie av handlingar för att övervinna ett antal hinder för att övervinna ett större problem. Utmaningar låter hela gruppen jobba tillsammans under en scen och låta scenen vara dynamisk.
 
-För att sätta upp utmaningen får spelledaren ta hänsyn till situationen och välja ut ett antal färdigheter som kan bidra till gruppens framgång. Behandla varje handling som ett eget slag mot övervinna. Handlingarna tillåter lagsamarbete, men kan ge kostnader eller komplikationer såsom tidsbrist eller annan ineffektivitet.
+För att sätta upp utmaningen får spelledaren ta hänsyn till situationen och välja ut ett antal färdigheter som kan bidra till gruppens framgång. Behandla varje handling som ett eget slag mot övervinna. Handlingarna tillåter samarbete, men kan ge kostnader eller komplikationer såsom tidsbrist eller annan ineffektivitet.
 
-Spelledare, gör ditt bästa för att låta varje karaktär i scenen få en chans att bidra - sikta på att ha lika många färdigheter som inblandade karaktärer. Dra ner antalet om du förväntar dig att några karaktärer kommer att dras iväg eller bli distraherad av andra prioriteter, eller om du vill skapa utrymme för lagsamarbete. För svårare utmaningar kräv fler handlingar än antalet karaktärer, utöver att justera svårigheten för handlingarna.
+Spelledare, gör ditt bästa för att låta varje karaktär i scenen få en chans att bidra - sikta på att ha lika många färdigheter som inblandade karaktärer. Dra ner antalet om du förväntar dig att några karaktärer kommer att dras iväg eller bli distraherad av andra prioriteter, eller om du vill skapa utrymme för samarbete. För svårare utmaningar kräv fler handlingar än antalet karaktärer, utöver att justera svårigheten för handlingarna.
 
 Efter att alla tärningsslag är gjorda så kommer spelledaren att utreda framgång, misslyckanden och kostnader för varje handling allteftersom scenen fortgår. Det kan bli så att ett resultat leder till en ny utmaning, konflikt eller till och med strid. En mix av framgångar och misslyckanden bör låta karaktärerna komma framåt med delvis lyckande när de möter nya komplikationer.
 
@@ -797,7 +797,7 @@ En konflikt är när två sidor står i direkt opposition mot varandra, men det 
 
 I början av konflikten deklarerar alla sina avsikter, vad de hoppas få ut av det. Om det är flera spelarpersoner inblandade, de kan vara på samma sida eller olika beroende på deras mål - exempelvis vandringstävling så kan varje karaktär vara på sin egen sida. **I en konflikt försöker eller kan inte spelarpersonerna skada motståndarna. Externa hot (exempelvis vulkanutbrott, arg gud) kan attackera någon eller alla sidor; dessa hot kan också vara en deltagare i konflikten.**
 
-Konflikten utspelar sig under ett antal rundor. Varje sida utför en handling för att övervinna motstånd för att uppnå deras mål under varje runda. Bara en karaktär på varje sida utför handlingen för att övervinna motstånd under varje runda, men allierade kan hjälpa till genom lagsamarbete och försöka skapa övertag för att hjälpa till (vilket innebär en viss risk - se nedan). Handlingen övervinna motstånd kan vara mot en svårighetsnivå - om deltagarna möter utmaningar från miljön - eller mot någon annan om de är i direkt konflikt.
+Konflikten utspelar sig under ett antal rundor. Varje sida utför en handling för att övervinna motstånd för att uppnå deras mål under varje runda. Bara en karaktär på varje sida utför handlingen för att övervinna motstånd under varje runda, men allierade kan hjälpa till genom samarbete och försöka skapa övertag för att hjälpa till (vilket innebär en viss risk - se nedan). Handlingen övervinna motstånd kan vara mot en svårighetsnivå - om deltagarna möter utmaningar från miljön - eller mot någon annan om de är i direkt konflikt.
 
 I slutet av varje runda jämförs varje sidas handlande. Den sida som har högst ansträngningsvärde markerar en **vinst**. Om vinnaren lyckas med stil - och ingen annan gjorde det - så markerar de **två** vinster. Den som först uppnår tre vinster vinner konflikten. (Du kan också välja att ha en mer utdragen konflikt som kräver fler vinster, dock rekommenderas maximalt fem.)
 
@@ -808,7 +808,7 @@ I en konflikt där ett hot försöker skada någon av deltagarna får alla på s
 Skapa övertag under en konflikt
 -------------------------------
 
-Under en runda kan din sida försöka skapa ett övertag innan slaget mot handlingen övervinna motstånd görs. Målet, eller vem som helst som rimligen kan påverka utfallet, kan stå emot handlingen genom en normal försvarshandling. Varje deltagare kan försöka skapa övertag var och en för sig eller delta i `lagsanarbete för att få bonus <#Lagsamarbete>`_. Om du misslyckas med att skapa ett övertag får du välja mellan att inte få något övertag eller att få ett övertag men mot en kostnad (bibehålla ditt slag eller bonus från lagsamarbete) genom att ge den andra sidan ett fritt åberopande istället. Om du åtminstone fick oavgjort fortsätt sedan som vanligt med ditt slag eller bonus.
+Under en runda kan din sida försöka skapa ett övertag innan slaget mot handlingen övervinna motstånd görs. Målet, eller vem som helst som rimligen kan påverka utfallet, kan stå emot handlingen genom en normal försvarshandling. Varje deltagare kan försöka skapa övertag var och en för sig eller delta i `lagsanarbete för att få bonus <#samarbete>`_. Om du misslyckas med att skapa ett övertag får du välja mellan att inte få något övertag eller att få ett övertag men mot en kostnad (bibehålla ditt slag eller bonus från samarbete) genom att ge den andra sidan ett fritt åberopande istället. Om du åtminstone fick oavgjort fortsätt sedan som vanligt med ditt slag eller bonus.
 
 Kamp
 ====
@@ -819,7 +819,7 @@ Strid kan tyckas vara det mest rättframma - trotsallt så är rollspelets barnd
 
 Strid kan vara fysiskt eller mentalt. Fysiska strider kan vara skjutningar, svärdsfäktningar eller att försöka ramma utomdimensionell best med en lastbil. Mentala konflikter inkluderar gräl med sin älskade, förhör eller ont intrång på sinnet.
 
-När man utför `lagsamarbete <#Lagsamarbete>`_ är timingen viktig. Du kan åberopa en aspekt å en allierads vägnar för att förbättra deras tärningsslag när som helst. Du kan hjälpa en allierad före deras tur genom att skapa ett övertag eller ge +1 i bonus som handling. Om deras tur inträffar innan din under rundan kan du inte hjälpa dem genom att skapa ett övertag, men du kan välja att hoppa över din tur under rundan för att ge dem +1 i bonus för lagsamarbete.
+När man utför `samarbete <#samarbete>`_ är timingen viktig. Du kan åberopa en aspekt å en allierads vägnar för att förbättra deras tärningsslag när som helst. Du kan hjälpa en allierad före deras tur genom att skapa ett övertag eller ge +1 i bonus som handling. Om deras tur inträffar innan din under rundan kan du inte hjälpa dem genom att skapa ett övertag, men du kan välja att hoppa över din tur under rundan för att ge dem +1 i bonus för samarbete.
 
 Ta skada
 --------
@@ -852,7 +852,7 @@ Alla karaktärer börjar med tree konsekvensrutor - Mild, medelsvår och svår. 
 
 Om du får fem i skada så kan du absorbera hela skadan med en stressruta och en medelsvår konsekvens. Det är betydligt mer effektivt än att använda fem stressrutor.
 
-Nackdelen med konsekvenser är att de är aspekter - och `aspekter är alltid sanna <#Aspekter är alltid sanna>`_. Som om du fått **Skjuten i magen**, så har din karaktär blivit skjuten i magen! Det betyder att du inte kan göra saker som någon som är skjuten i magen inte kan göra (som att springa fort). Om det blir komplikationer av det så kan du dessutom drabbas av betvinganden mot din konsekvens också. Och i likhet med när du skapar ett övertag, personen som skapade konsekvensen - i det här fallet han eller hon som sköt dig - får ett fritt åberopande mot denna konsekvens. Aj!
+Nackdelen med konsekvenser är att de är aspekter - och `aspekter är alltid sanna <#aspekter-ar-alltid-sanna>`_. Som om du fått **Skjuten i magen**, så har din karaktär blivit skjuten i magen! Det betyder att du inte kan göra saker som någon som är skjuten i magen inte kan göra (som att springa fort). Om det blir komplikationer av det så kan du dessutom drabbas av betvinganden mot din konsekvens också. Och i likhet med när du skapar ett övertag, personen som skapade konsekvensen - i det här fallet han eller hon som sköt dig - får ett fritt åberopande mot denna konsekvens. Aj!
 
 Charles slåss fortfarande mot ghoulen. Den klöser honom, denna gång slår den [ ][ ][+][+], vilket tillsammans med dess färdighetsvärde på Strid som är Hyffsad (+2), och dessutom åberopar sin aspekt **Hungrig efter kött** för ytterligre +2, blir summan hela Fantastisk (+6) i skada. Charles slår [-][-][ ][ ] vilket tillsammans med God (+3) i Sport ger honom ynka Ordinär (+1) i försvar; det blir fem i skada som han behöver absorbera. Han väljer att ta en medelsvår konsekvens. Spelaren och spelledaren kommer överens om att ghoulen gav honom **Gapande sår i bröstkorgen**. Denna konsekvens absorberar fyra i skada, ett återstår, och Charles använder sin sista stressruta för att absorbera den.
 
@@ -889,7 +889,7 @@ Just högre pris du betalar destor större utdelning bör det bli för din sida 
 Avsluta en strid
 ----------------
 
-En strid avslutas när alla på ena sidan av striden antingen har gett upp eller blivit utslagna. När striden avslutas så får alla spelare som gett upp ödespoäng för att de `gett upp <#Ge upp>`_. Spelledaren delar också ut ödespoäng som är intjänade genom `fientligt åberopande <#Fientligt åberopande>`_ som inträffade under konflikten.
+En strid avslutas när alla på ena sidan av striden antingen har gett upp eller blivit utslagna. När striden avslutas så får alla spelare som gett upp ödespoäng för att de `gett upp <#ge-upp>`_. Spelledaren delar också ut ödespoäng som är intjänade genom `fientligt åberopande <#fientliga-aberopanden>`_ som inträffade under konflikten.
 
 Återhämta sig från en konflikt
 ------------------------------
@@ -898,19 +898,19 @@ I slutet av varje scen suddar alla karaktärer sina stressrutor. Konsekvenser ta
 
 För att starta **återhämtningsprocessen** måste den person som behandlar din skada lyckas med handlingen övervinna motstånd med lämplig färdighet. Fysiska skador läks typiskt genom att använda kunskaper inom Akademi, mentala konsekvenser läks med Empati. Svårighetsnivån för handlingen övervinna motstånd avgörs av hur allvarlig konsekvensen är:
 
-==========  ===============  ===============================================
+==========  ===============  ==================================================
 Konsekvens  Svårighetsnivå   Tid för läkning efter avslutad behandling
-==========  ===============  ===============================================
+==========  ===============  ==================================================
 mild        Hyffsad (+2)     En scen
 medelsvår   Utmärkt (+4)     En spelomgång
-svår        Fantastisk (+6)  Kräver att man passerat en `milsten <#Milstenar>`_
-==========  ===============  ================================================
+svår        Fantastisk (+6)  Kräver att man passerat en `milsten <#milstenar>`_
+==========  ===============  ==================================================
 
 =======
 Karriär
 =======
 
-Allteftersom berättelsen fortskrider utvecklas karaktärerna. Vid slutet av varje session får man en **milsten**, vilket låter dig flytta runt på karaktärsbladet. Allteftersom du avslutar en vändning i berättelsen får du ett **genombrott**, vilket låter dig lägga till på ditt karaktärsblad. (Lär dig mer om `spelsessioner och vändningar. <#Spelsessioner och vändningar>`_.)
+Allteftersom berättelsen fortskrider utvecklas karaktärerna. Vid slutet av varje session får man en **milsten**, vilket låter dig flytta runt på karaktärsbladet. Allteftersom du avslutar en vändning i berättelsen får du ett **genombrott**, vilket låter dig lägga till på ditt karaktärsblad. (Lär dig mer om `spelsessioner och vändningar. <#spelsessioner-och-vandningar>`_.)
 
 Milsten
 =======
