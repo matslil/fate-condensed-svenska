@@ -8,7 +8,7 @@ https://fate-srd.com/fate-condensed
 This version is primarily for personal use and has no ambition to be complete or accurate. Having said this, I do not oppose to making it complete and accurate, so any pull requests coming in which makes a contribution in this direction are welcome.
 
 GitHub renderad version:
-:doc:`Öde - Kortfattat version <docs/source/index.rst>`
+:ref:`Öde - Kortfattat version <docs/source/index.rst>`
 
 För att bygga HTML::
    make html
