@@ -29,4 +29,21 @@ För stunt vars effekt är i närheten av att få +2 i bonus krävs ingen kostna
 
 Om karaktären väljer att utföra en stunt med en kostnad som han inte har stressrutor för så får han det som blir över i skada som då får tas av konsekvenser istället. Spelaren kan välja att göra detta även om det finns stressrutor att kryssa för.
 
-Vilken nivå på effekter man väljer att ha beror på vilken typ av kampanjer man bedriver.
+Upprätthålla balansen
+---------------------
+
+Vilken nivå på effekter man väljer att ha beror på vilken typ av kampanjer man bedriver. Om man vill ha en kampanj där magiker är mäktiga och pöbeln inte duger mycket till i jämförelse (tänk Harry Potter) så kan stunt som bygger på en magisk aspekt vara betydligt mäktigare än icke-magiska stunt, utan att kosta något.
+
+För att ända upprätthålla någon slags balans i spelet kan sådana mäktiga stunt ha sidoeffekter som kanske är svårförutsägbara. Man drar en massa energi från omgivningen och stör ordningen, och exakt vilken effekt detta får kan vara svårt att förutse.
+
+Detta kan användas även då man använder stunt som kräver en kostnad som ett sätt att kunna få mäktig magi till låg kostnad.
+
+Notera dock att dessa effekter är tänkta att vara neutrala, det vill säga till lycka förtret för spelarna som deras antagonister. Det är inte tänkt att ersätta effekter som kan inträffa om man misslyckas med god marginal.
+
+Färdighet och magi
+==================
+
+Eftersom magi normalt utgår ifrån en stunt, och en stunt är knuten till en färdighet, så finns också en färdighetsnivå. När man använder en stunt under stress eller försöka göra något riskabelt eller mäktigt, finns all anledning att slå för färdigheten. Stunten ger +2 på färdighetsslaget, och svårighetsnivån sätts som med vilken färdighet som helst. Det vill säga, är det inget motstånd så slås färdigheten mot en svårighetsnivå som spelledaren har bestämt, annars slår man själv fram en ansträngning och motståndaren gör detsamma, och dessa jämförs för att utröna om man lyckades eller inte.
+
+Om man misslyckas med mer än +2 nivåer kan spelledaren bestämma att något oförutsett inträffar som är en effekt av att balansen i omgivningen har störts. Skillnaden mellan denna störning av balansen och den störning som annars kan inträffa när man utför mäktig magi är att denna störning är klart negativ för spelarna. Något inträffar som orsakar dem bekymmer.
+
