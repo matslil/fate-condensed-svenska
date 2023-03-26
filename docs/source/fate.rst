@@ -103,6 +103,8 @@ När du skapar karaktären väljs färdighetsnivåer med följande pyramid:
 - Fyra färdigheter på nivå Ordinär (+1)
 - Alla andra färdigheter på Medioker (0)
 
+.. _adjektivstege:
+
 ====  ========
 Nivå  Adjektiv
 ====  ========
@@ -992,4 +994,76 @@ En **spelsession** består av ett antal scener och några timmars spel. Jämför
 En **vändning** är en serie spelsessioner som har en röd tråd som löper mellan spelsessionerna. Denna röda tråd behöver inte vara färdig inom en vändning, men berättelsen brukar ha gjort en signifikant utveckling och ändrat riktning. Jämför med tredjedel eller halvsäsong för TV-serien. Det brukar spänna över fyra spelsessioner.
 
 Om ditt spel faller utanför dessa "brukar"-intervaller så kan du tänkas vilja ändra på hur milstenar fungerar. Om dina vändningar tar mer än fyra till sex spelsessioner att spela så kan du tänkas vilja låta svåra konsekvenser läka efter fyra spelsessioner istället för att vänta på en vändning. Om du vill att utvecklingen ska gå långsammare kan du ge färdighetsnivåer och påfyllnad mer sällan. Om din grupp tenderar att ha korta spelsessioner kanske inte varje spelsessioner avslutas med milsten. Spelet är ditt att forma så som du vill ha det!
+
+===================
+Att vara spelledare
+===================
+
+Som spelledare är du regissören för spelessionerna. Tänk dock på att du inte är **chef**. **Öde - Kortfattad version** är ett samarbete och spelarna har en talan om vad som händer deras karaktärer. Ditt arbete är att få berättelsen att fortlöpa genom att göra följande saker:
+
+- **Leda scener**: En spelsession består av scener. Bestäm var scenen börjar, vem är där och vad pågår. Bestäm när allt av intresse har ägt rum och scenen är över. Hoppa över onödiga saker; på samma sätt som att du inte kastar tärningarna om resultatet av handlingen inte är intressant, ha ingen scen om inget spännande, dramatiskt, användbart eller roligt kan hända under den.
+- **Avgöra reglerna**: Om det uppkommer regelfrågor kan du diskutera dem med spelarna, men som spelledare har du sista ordet.
+- **Avgöra svårighetsnivån**: Avgör när det är dags att slå tärningar och avgör svårighetsnivån.
+- **Bestäm kostnaden för misslyckande**: När karaktärerna kastar tärningar och misslyckas så är det du som avgör vad kostnaden för att lyckas mot en kostnad blir. Du kan absolut lyssna på förslag från spelaren - de kanske vet hur de vill att deras karaktär ska råka illa ut - men i slutändan så är det du som bestämmer.
+- **Spela spelledarpersonerna**: Varje spelare kontrollerar deras egen karaktär, men du kontrollerar resten, från kultmedlemmarna till monstren till Stora Stygga.
+- **Ge spelarna möljighet till handling**: Om spelarna inte vet vad de ska göra härnäst, så är ditt jobb att ge dem ledtrådar om vad de kan göra. Låt det aldrig bli fastkört i obeslutsamhet eller brist på information - gör något som rör till det hela. När du är osäker tänk då på Stora Styggas taktik och mål för att skapa bekymmer för hjältarna.
+- **Se till att alla får stå i rampljuset**: Ditt mål är inte att besegra spelarna, utan att utmana dem. Se till att alla spelare får chansen att få vara stjärnan någon gång ibland. Sprid betvinganden och utmaningar skräddarsydda för karaktärernas olika förmågor och svagheter.
+- **Gör spelarens liv mer komplicerat**: Utöver att slänga in monster mot karaktärerna så kommer du vara den primära källan till betvinganden. Spelare kan betvinga sig själva eller andra karaktärer förstås men du måste se till att alla får chansen att uppleva den negativa sidan av sina aspekter.
+- **Bygg vidare på spelarnas val**: Titta på vilka val spelarna har gjort under spelet och fundera på hur världen ändras och reagerar på det. Få världen att kännas levande genom att låta spelarna möta dessa konsekvenser - bra och dåliga - i sitt spelande.
+
+Sätta svårighetsnivå och motstånd
+=================================
+
+Ibland kommer en spelares handling möta på motstånd från en annan karaktär i scenen. I dessa fall kommer motståndarkaraktären att slå tärningar och lägga på relevant färdighetsnivå, precis som spelaren. Om motståndarkaraktären har relevanta aspekter så kan de bli åberopade; spelledaren kan åberopa spelledarpersonernas aspekter med hjälp av `ödespoängerna som de har <#Dina ödespoäng>`_.
+
+Med om det inte finns något motstånd så behöver du bestämma en **svårighetsnivå** för handlingen:
+
+- **Låg svårighetsnivå**, under spelarkaraktärens relevant färdighetsnivå, är bäst om du vill ge dem chansen att briljera.
+- **Medelhög svårighetsnivå**, nära spelarkaraktärens relevant färdighetsnivå, är bäst om du vill få spänning utan att överväldiga dem.
+- **Hög svårighetsnivå**, betydligt högre än relevant färdighetsnivå, är bäst om du vill förtydliga hur hemska eller ovanliga omständigheterna är och få dem att backa, eller få dem i en situation där de får känna på konsekvenserna av misslyckande.
+
+Du kan även använda `adjektivstege`_ för hjälp med att välja nivån på svårigheten. Är det superbt svårt? Välj Superb (+5)! Här är några tumregler för att ge dig något att börja med.
+
+Om uppgiften inte är särskilt svår alls, sätt den till Medioker (+0) - eller tala bara om för spelaren att de lyckas utan något tärningsslag, så länge det inte är någon stor tidspress eller om karaktären har en aspekt som antyder att de är bra på det.
+
+Om du kan tänka på åtminstone en anledning varför uppgiften skulle vara svår, välj Hyffsad (+2); för varje extra faktor som är emot dem lägga på +2 på svårighetsnivån.
+
+När du tänker på dessa faktorer tänk på vilka aspekter som är i spel. Om något är viktigt nog för att bli en aspekt så förtjänar det lite uppmärksamhet här. Eftersom `aspekter alltid är sanna <#aspekter-ar-alltid-sanna>`_ så kan de ha ett inflytande på hur lätt eller svårt något borde vara. Det innebär förstås inte att aspekter är den enda faktorn att ta hänsyn till! Mörker är mörker oavsett om du beslutat att det är en aspekt eller inte i scenen.
+
+Om uppgiften blir omöjligt svår sätt den så högt som du anser är rimligt. Spelaren kommer att behöva använda ödespoäng och få en massa hjälp för att kunna lyckas, men det är helt i sin ordning.
+
+För ytterligare idéer för hur du kan skapa varierade och intressanta motståndare och antagonister för dina spelare, titta på `Fate Advesary Toolkit <https://fate-srd.com/fate-adversary-toolkit>`_,  tillgänglig för försäljning som PDF eller med de viktiga beståndsdelarna fritt tillgängliga på Fate SRD.
+
+Spelledarpersoner
+=================
+
+Spelledarpersoner inkluderar åskådare, medhjälpare, allierade, fiender, monster och alla andra som kan komplicera eller försvåra spelarnas ansträngningar. Du vill troligen skapa andra karaktärer som spelarna kan interagera med.
+
+Huvudspelledarpersoner
+----------------------
+
+Om någon är särskilt viktig för berättelsen så kan du beskriva dem precis som för spelarkaraktärer. Det är lämpligt om det är någon som spelarna kommer att möta flera gånger, såsom en allierad, rival, representant för en mäktig grupp, eller Storbossen.
+
+En huvudspelledarperson behöver inte följa samma begränsningar som när man skapar en spelarkaraktär. Om spelledarpersonen ska bli ett återkommande hot på bossnivå, ge honom eller henne högre nivå i de bästa färdigheterna (see `Sätta svårighetsnivå och motstånd`_), mer stunts och vad annat som krävs för att göra dem till en fara.
+
+Bispelledarperson
+-----------------
+
+Spelledarpersoner som inte behöver vara viktiga, återkommande karaktärer behöver inte vara i närheten så väldefinierade som en huvudspelledarperson. För mindre viktiga spelledarpersoner beskriv bara det som är mest nödvändigt.
+
+De flesta bispelledarpersonerna har bara en aspekt som säger precis vad de är: **Vakthund**, **Obstruerande byråkrat** eller **Arg kultmedlem**.
+
+Om det är nödvändigt så ge dem ytterligare en aspekt eller två för att fånga vad som är intressant med dem eller vad de har för svagheter. De kan också ha stunt.
+
+Ge dem en eller två färdigheter som beskriver vad de är bra på. Du kan välja en färdighet från färdighetslistan eller hitta på något mer specifikt, exempelvis Hyffsad (+2) på att Starta krogslagsmål eller Utmärkt (+4) på att Bita folk.
+
+Ge dem noll till tre stressrutor; ju fler de har desto större hot kan de bli. De har vanligen inga konsekvensrutor; om de får större skada än vad de kan absorbera med stress så blir de helt enkelt utslagna. Bispelledarpersoner är inte tänkta att ha kvar.
+
+Monster, storbossen och andra hot
+---------------------------------
+
+Liksom bispelledarpersoner så skrivs monster och andra hot (såsom storm, eld som sprider sig eller en skvadron med hejdukar i rustning) som karaktärer, men enklare än spelarkaraktärer. Du behöver bara beskriva det allra mest nödvändiga. Till skillnad från bispelledarpersoner så kan dessa hot beskrivas på vilket sätt som helst. Bryt mot reglerna. Ge dem vilken kombination av aspekter, färdigheter, stunt, stress och konsekvenser som krävs för att göra dem farliga, och tänk på vilket sorts fara som de ska erbjuda spelarkaraktärerna när du avgöra deras nivåer.
+
+Dina ödespoäng
+==============
 

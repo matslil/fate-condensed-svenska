@@ -16,5 +16,17 @@ En vanlig konsekvens att använda magi är att det är en kostnad. Fördelen fö
 En karaktärs magiska förmågor
 =============================
 
-När en karaktär har tillgång till magi så utgör det från en karaktärsaspekt. På något sätt har karaktären fått en aspekt som berättar vilken form av magi som karaktären har tillgång till. Aspekten kan finnas med när karaktären skapas, kan fås som del av karaktärens karriär eller erhållas av att något speciellt händer under berättelsens gång. Oavsett vilket behöver alla runt bordet vara överens om att aspekten är rimlig och platsar i berättelsen. Exempel på magiska aspekter är **Jediriddare**, **Demonbörd**, **Välsignad av guden Toleth**, **Ett med naturen**.
+När en karaktär har tillgång till magi så utgår det från en karaktärsaspekt. På något sätt har karaktären fått en aspekt som berättar vilken form av magi som karaktären har tillgång till. Aspekten kan finnas med när karaktären skapas, kan fås som del av karaktärens karriär eller erhållas av att något speciellt händer under berättelsens gång. Oavsett vilket behöver alla runt bordet vara överens om att aspekten är rimlig och platsar i berättelsen. Exempel på magiska aspekter är **Jediriddare**, **Demonbörd**, **Välsignad av guden Toleth**, **Ett med naturen**.
 
+Spelaren kan använda ödespoäng för att åberopa sin magiska aspekt, såvida det inte finns något annat som ger karaktären möjlighet att använda aspekten. En karaktär av demonbörd kan åberopa sin aspekt om karaktären möter en annan demon, en som är ett med naturen kan åberopa sin aspekt för att enkelt ta sig fram i snårig natur och så vidare utan att behöva använda ödespoäng, så länge alla runt bordet anser det rimligt.
+
+Stunt
+-----
+
+Genom att sätta en stunt på en färdighet får man något som skulle kunna vara en besvärjelse, bön, magisk förmåga eller ritual. En magisk stunt beskriver vilken effekt den har, hur den aktiveras (mumla besvärjelse, utföra ritual, be en bön eller bara genom tankekraft om det är en magisk förmåga) samt huruvida den har en kostnad (fysisk eller mental stress).
+
+För stunt vars effekt är i närheten av att få +2 i bonus krävs ingen kostnad, men för mäktigare stunt så bör det finnas en kostnad. Kostnaden kan vara antingen fysisk eller mental stressruta, eller både och. Är det en riktigt mäktig stunt så kan det krävas fler rutor.
+
+Om karaktären väljer att utföra en stunt med en kostnad som han inte har stressrutor för så får han det som blir över i skada som då får tas av konsekvenser istället. Spelaren kan välja att göra detta även om det finns stressrutor att kryssa för.
+
+Vilken nivå på effekter man väljer att ha beror på vilken typ av kampanjer man bedriver.
