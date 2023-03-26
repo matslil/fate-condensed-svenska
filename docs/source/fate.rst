@@ -27,7 +27,7 @@ Att summera nästan 300 sidor ner till ungefär 50 sidor text leder till några 
 - `Karriär <#karriar>`_ fungerar lite annorlunda; vi har tagit bort signifikanta milstenar och lagt till genombrott för att kompensera.
 - Vi har tagit bort aktivt motstånd som något separat från handlingen `försvara sig <#forsvara-sig>`_. Det har några mindre konsekvenser, i synnerhet `övervinna motstånds resultat oavgjort <#overvinna-motstand>`_.
 - `Skapa övertag <#skapa-ett-overtag>`_ har ändrats för att skapa mer klarhet och möjlighet att upptäcka befintliga okända aspekter.
-- `Fullt försvar <#fullt-forsvar>`_ presenteras som valbara regler och har ändrats något för att anpassas till den utökade användningen av handlingen försvar. Andra `valbara standardregler <#valbara-regler>`_ presenteras också.
+- `Fullt försvar <#fullt-forsvar>`_ presenteras som valbara regler och har ändrats något för att anpassas till den utökade användningen av handlingen försvar. Andra `valfria regler`_ presenteras också.
 
 ==============
 Skapa karaktär
@@ -318,7 +318,7 @@ Du kan modifiera tärningen genom att åberopa en aspekt för att få +2 på tä
 
 När du utför en handling men tärningsslaget inte räcker till så behöver du inte bara sitta och acceptera nederlaget. (Fast du kan absolut göra det. Kan bli roligt det med.) Aspekterna som är i spel ger dig valmöjligheter och en väg till framgång.
 
-När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att åberopa den (eller använd ett fritt åberopande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att åberopa en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda `säkerhetsverktyg <#sakerhetsverktyg>`_ på liknande sätt.
+När en aspekt kan ge dig berättigad hjälp i dina ansträngningar, beskriv hur den kan hjälpa dig och spendera ett ödespoäng för att åberopa den (eller använd ett fritt åberopande). Vad som är och inte är berättigat är ett ärende för **falskregeln** - man kan säga "det där är fel!" för att åberopa en aspekt. Enkelt uttryckt, falsktregeln är ett kalibreringsverktyg som alla runt bordet kan använda för att hjälpa spelgruppen att se till att spelet håller sig inom dess vision och ramar. Du kan använda `trygghetsverktyg <#trygghetsverktyg>`_ på liknande sätt.
 
 När ditt åberopande av aspekt anses fel har du två valmöjligheter. Du kan ta tillbaka åberopandet och försöka något annat, kanske annan aspekt. Du kan ha en snabb diskussion om varför du anser att aspekter passar in. Om personen inte blir övertygad, ta tillbaka åberopandet och gå vidare. Om du övertygar personen så kan du fortsätta med framallandet som vanligt. Falskregeln är till för att spelupplevelsen ska bli bra. Använd den när något inte låter rätt eller logiskt eller inte passar in. Att kasta en bil med åberopandet av aspekten **Framstående som första intryck** är troligen ett fall för falskregeln. Men kanske har karaktären har en övernaturlig stunt som gör honom eller henne otroligt stark, stark nog för att kunna kasta en bil, och detta är första striden mot ett hemskt monster. I det fallet kanske **Framstående som första intryck** skulle kunna fungera.
 
@@ -1066,4 +1066,32 @@ Liksom bispelledarpersoner så skrivs monster och andra hot (såsom storm, eld s
 
 Dina ödespoäng
 ==============
+
+I början av varje scen börja med en hög med ödepoäng där det är ett ödespoäng per spelare. Om scenen inkluderar en huvudspelledarperson eller monster som gav upp i en tidigare strid, eller fick `fientligt åberopande`_ i en tidigare scen, lägg dessa ödespoäng till högen. Om du fick betvinganden i tidigare scenen som avslutade den scenen så du inte hade chans att använda dessa ödespoäng, så kan du lägga till dem också till högen.
+
+Charles, Rigth, Cassandra och Ethan närmar sig den avslutande striden mot Alice Westforth. Hon undkom hjältarna tidigare genom att ge upp efter att ha tagit en medelsvår konsekvens. Det betyder att spelledaren får fyra ödespoäng för spelarna och två till för de som Alice tar med sig.
+
+Som spelledare kan du spendera ödespoäng från denna hög för att åberopa aspekter, vägra betvinganden som spelare gör mot spelledarpersoner, och använda stunts för spelledarpersoner som kräver det - allt precis så som spelarna gör.
+
+**Däremot behöver du inte spendera ödespoäng för att betvinga någon aspekt.** Du har oändligt antal ödespoäng för detta.
+
+Trygghetsverktyg
+================
+
+Spelledaren (och sannerligen, spelarna också) har ett ansvar att se till att alla run bordet känner sig trygga i spelet och i utrymmet där spelet utspelar sig. Ett sätt som spelledaren kan uppmuntra detta är genom att låta alla vid bordet lyfta oro och protester. När detta händer så måste det få prioritet och hanteras. Här är några verktyg som kan hjälpa spelarna att lättare dryfta närhelst det behövs.
+
+- **X-kortet**: X-kortet är ett valfritt verktyg (skapad av John Stavropoulos) som låter alla i spelet (dig inkluderad) att redigera ut innehåll som du känner dig obekväm med att spela. Du kan lära dig mer om X-kortet på http://tinyurl.com/x-card-rpg.
+- **RPG-verktygslåda ändra manus**: För något mer nyanserat och granulärt kan du titta på ändra manus av Brie Beau Sheldon, som ger möjlighet att pausa, spola tillbaka, hoppa framåt och mer genom familjära begrepp från mediespelare. Lär dig mer om Ändra manus på http://tinyurl.com/nphed7m.
+
+Verktyg som dessa kan också användas som `falskregel <#Åberopa en aspekt>`_ för kalibrering. De erbjuder ett sätt för spelarna att på ett bekvämt sätt propagera för vad de vill få ut av spelet. Ge dessa verktyg den respekt och uppmuntran som de förtjänar!
+
+==============
+Valfria regler
+==============
+
+Dessa är några valfria eller alternativa regler som du kan bestämma dig för att använda i spelet.
+
+Villkor
+=======
+
 
