@@ -25,7 +25,7 @@ Att summera nästan 300 sidor ner till ungefär 50 sidor text leder till några 
 - Vi har bytt till `enpoängs stressrutor <#stress>`_ för att minska förvirringen.
 - `"Balsera style initiative <#turordning>`_ (även känt som "elective action order" eller "popcorn initiative" är det normala istället för att använda färdigheter för att utröna turordning.
 - `Karriär <#karriar>`_ fungerar lite annorlunda; vi har tagit bort signifikanta milstenar och lagt till genombrott för att kompensera.
-- Vi har tagit bort aktivt motstånd som något separat från handlingen `försvara sig <#forsvara-sig>`_. Det har några mindre konsekvenser, i synnerhet `övervinna motstånds resultat oavgjort <#overvinna-motstand>`_.
+- Vi har tagit bort aktivt motstånd som något separat från handlingen `försvara sig <#forsvar>`_. Det har några mindre konsekvenser, i synnerhet `övervinna motstånds resultat oavgjort <#overvinna-motstand>`_.
 - `Skapa övertag <#skapa-ett-overtag>`_ har ändrats för att skapa mer klarhet och möjlighet att upptäcka befintliga okända aspekter.
 - `Fullt försvar <#fullt-forsvar>`_ presenteras som valbara regler och har ändrats något för att anpassas till den utökade användningen av handlingen försvar. Andra `valfria regler`_ presenteras också.
 
@@ -254,7 +254,7 @@ Din nivå i färdigheten Sport påverkar hur många fysiska stressrutor din kara
    Superb (5) eller högre            [1][1][1] [1][1][1] och en andra mild konsekvensruta speciellt för fysisk eller mental skada
    ================================  =====================
 
-Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i att `ta skada<#ta-skada>`_.
+Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i att `ta skada`_.
 
 Påfyllning
 ==========
@@ -1091,7 +1091,32 @@ Valfria regler
 
 Dessa är några valfria eller alternativa regler som du kan bestämma dig för att använda i spelet.
 
-Villkor
-=======
+Kondition
+=========
 
+**Kondition** är en ersättning för konsekvenser, och ersätter dem helt. Kondition har två syften: de förenklar för spelare och spelledare genom att inte snabbt behöva lista ut rätt uttryckt aspekt för en uppkommen konsekvens, och de ger dig en möjlighet att forma spelets natur genom att fördefiniera hur bestående skador drabbar karaktärerna.
+
+Öde - Kortfattad version tar varje konsekvensnivå och delar det i två konditioner med halva värdet var.
+
+**[1] Sårad** (Mild) **[1] Rädd** (Mild)
+**[2] Skadad** (Medelsvår) **[2] Omskakad** (Medelsvår)
+**[3] Svårt skadad** (Svår) **[3] Demoraliserad** (Svår)
+
+Dessa omfattar både fysiskt och mentalt tillstånd - bara för att du får en fysisk skada betyder inte att du inte kan få mental skada också, och vice versa, så länge det är rimligt. Attacker är traumatiserande!
+
+Konditioner läks på samma sätt som med konsekvenser, baserat på deras nivå.
+
+Om du får en extra mild konsekvens, lägg istället till två rutor till på antingen **Sårad** eller **Rädd**, beroende på konsekvens.
+
+Flytta isär konditioner
+-----------------------
+
+Om du föredrar att separarera fysiska och mentala konditioner, dubblera antalet rutor för vardera. Med det sagt så finns det en gräns; om totalt två rutor är markerade för endera kondition för en given rad (nivå), får inga fler rutor kryssas för den raden. Så om du har en ruta (av två) markerad för **Sårad** och ingen på **Rädd**, och sedan kryssar i antingen en andra ruta för **Sårad** eller första rutan för **Rädd** så får du inte kryssa i fler rutor på den raden.
+
+Om du får extra mild konsekvensruta (från hög Sport, Vilja eller från en stunt) lägg istället till två rutor till på **Sårad** eller **Rädd** beroende på typ av konsekvens. Dessa extra rutor ökar gränsen för den raden, ett för ett.
+
+Andra versioner av konditioner
+------------------------------
+
+Flera publiserade Ödesbaserade spel använder kondition istället för konsekvenser. Du kan anamma deras implementation av kondition istället för denna, om de passar dig bättre. De uppfyller alla samma mål i spelet: att försöka lista ut konsekvenser mitt i spelets gång, och guida spelets natur genom att begränsa vilka typer av bestående skador en karaktär kan få.
 
