@@ -203,6 +203,20 @@ Smyga::
 Vilja::
    Mental styrka, kunna motstå frestelser och trauman. Stunt på vilja låter dig ignorera mentala konsekvenser, motstå mental dödsångest från okända krafter och behålla lugnet när andra försöker provocera. Hög vilja ger dig fler rutor på mental stress eller konsekvens.
 
+Alternativ färdighetslista
+--------------------------
+
+En av de första sakerna att besluta sig för när man gör sin egen version av Öde är huruvida du vill behålla färdighetslistan. Oftast kan du använda den givna listan, combinera, ändra eller dela upp några av färdigheterna. Men det är fullt möjligt att granulariteten på exempellistan över färdigheter inte är vad du tänkt dig. Här är några saker att beakta:
+
+- Exempellistan över färdigheter har 19 färdigheter, och spelare väljer 10 av dessa att ha högre än Medioker (+0), som är det värde resten får. Om du ändrar antalet färdigheter i listan så kan du tänkas vilja ändra på antalet färdigheter att höja.
+- Exempellistan fokuserar på att svara på frågan "Vad kan du göra?" - men din lista behöver inte följa samma koncept. Du kan vill fokusera på "Vad tror du på?", frågan "Hur gör du saker?" (som *Fate Accelerated* gör), jobbroller i bemanningen av bedragare och tjuvar, och så vidare.
+- Exempellistan är strukturerad så att den erbjuder möjligheter till specialiserade karaktärer. Det är därför karaktärer börjar med en pyramidformat färdighetsnivå. Se till att specialiserade karaktärer fungerar även med den nya listan som du skapar.
+- Den högsta färdighetsnivån bör ligga runt Utmärkt (+4). Du kan ändra detta uppåt eller nedåt enligt egen smak, men håll ett öga på vad detta innebär för svårighetsnivån och motståndsnivån som spelarkaraktärerna möter.
+
+Fred beslutar sig för att han vill ha ett rymdinriktat Ödespel med en kortare färdighetslista som fokuserar på actionord. Han bestämmer sig för 9 färdigheter: Strida, Kunna, Förflytta, Notera, Köra, Smyga, Tala, Pilla och Vilja. Han gillar också "diamant"-strukturen på färdighetsnivåerna, så spelarna får börja med: 1 Umtärkt (+4), 2 God (+3), 3 Hyffsat (+2), 2 Ordinär (+1) och 1 Medioker (+0). Hans spelare kommer att få en hel del överlapp och kärnkompetenser på grund av den breda mitten av diamanten, samtidigt som specialisering erbjuds genom den spetsiga toppen på diamanten.
+
+Om du funderar på att göra din egen färdighetslista till ditt spel och letar efter idéer för att få inspiration se `Ändra listan över färdigheterna`_.
+
 Stunt
 =====
 
@@ -1119,4 +1133,8 @@ Andra versioner av konditioner
 ------------------------------
 
 Flera publiserade Ödesbaserade spel använder kondition istället för konsekvenser. Du kan anamma deras implementation av kondition istället för denna, om de passar dig bättre. De uppfyller alla samma mål i spelet: att försöka lista ut konsekvenser mitt i spelets gång, och guida spelets natur genom att begränsa vilka typer av bestående skador en karaktär kan få.
+
+Ändra listan över färdigheter
+=============================
+
 
