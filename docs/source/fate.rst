@@ -1137,4 +1137,28 @@ Flera publiserade Ödesbaserade spel använder kondition istället för konsekve
 Ändra listan över färdigheter
 =============================
 
+Som har nämnts tidigare så är `färdighetslistan det första du bör fundera på när du vill ändra <#Alternativ färdighetslista>`_ på Ödes spelregler. Exempellistan har 19 färdigheter som är arrangerade i en pyramid av 10. Listan är strukturerad kring begreppet förmåga och svarar egentligen på frågan "vad kan du göra?". Andra listor på färdigheter behöver inte vara av samma längd, arrangerad på samma sätt eller svara på samma fråga. Med det sagt, här är några korta färdighetslistor som du kan överväga, låna eller modifiera.
+
+- Action: Uthärda, Slåss, Veta, Förflytta, Notera, Köra, Smyga, Tala, Pilla.
+- Tillvägagångsätt: Försiktig, Smart, Elegant, Kraftfull, Snabb, Lömsk.
+- Talanger: Sport, Strid, Ledarskap, Bildning, Förslagenhet.
+- Egenskaper: Styrka, Smidighet, Tålighet, Intelligens, Charm.
+- Relationer: Ledande, Samarbetande, Hjälpsam, Enstöring.
+- Roller: Drivande, Slagkämpe, Hackare, Maskinnörd, Bedragare, Tjuv, Geni.
+- Teman: Luft, Eld, Metall, Sinne, Sten, Tomrum, Vatten, Vind, Trä.
+- Värderingar: Plikt, Ära, Rättvisa, Kärlek, Makt, Trygghet, Sanning, Hämnd.
+
+Om du vill ha en längre lista börja med exempellistan och lägg till, kombinera och ta bort färdigheter efter tycke och smak tills du får det du är ute efter. Du kan också blanda två eller fler av ovanstående listor.
+
+**Karriär**: Ju färre antal färdigheter i din lista jämfört med exempellistan desto mer sällan vill du ge färdighetspoäng som resultat av karriär. Kanske bara tillåta det under `Genombrott`_, eller begränsa på annat sätt.
+
+**Alternativ till pyramiden:**
+
+- **Diamant**: Brett på mitten (ungefär en tredjel av dem) som minskar mot toppen och botten av området, till exempel 1 vid +0, 2 vid +1, 3 vid +2, 2 vid +3 och 1 vid +4.
+- **Kolumn**: Ungefär samma antal färdigheter vid varje nivå. Om din lista är kort nog kan det vara en linje med en färdighet per nivå.
+- **Fri + Begränsad**: Ge spelarna nog med färdighetspoäng för att kunna göra en pyrmaid (eller annan form), men måste inte följa det. De kan köpa vad de vill, så länge de håller sig till de poäng de fått.
+
+**Omfattning**: Fundera på hur många färdigheter som du förväntar dig ska ha en nivå (utöver Medioker +0) av alla i listan. Exempellistan har 53% (10 av 19) med nivå över Medioker. Ju högre procentsats desto mer överlapp kommer karaktärerna att få. Se till att specialiseringar fortfarande är möjliga.
+
+**Kombination**: Du kan tänkas vilja ha två listor, där spelarna lägger ihop en färdighet från varje inför varje tärningsslag. Huvudsaken är att hålla koll på summan inom noll-till-begränsningen-området. Du kan ha nivåer från +0 till +2 på varje lista eller -1 till +1 på ena och +1 till +3 på andra och så vidare.
 
