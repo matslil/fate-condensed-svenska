@@ -1162,3 +1162,31 @@ Om du vill ha en längre lista börja med exempellistan och lägg till, kombiner
 
 **Kombination**: Du kan tänkas vilja ha två listor, där spelarna lägger ihop en färdighet från varje inför varje tärningsslag. Huvudsaken är att hålla koll på summan inom noll-till-begränsningen-området. Du kan ha nivåer från +0 till +2 på varje lista eller -1 till +1 på ena och +1 till +3 på andra och så vidare.
 
+Skapa karaktär under spelets gång
+=================================
+
+Om spelarna är bekväma med att göra snabba kreativa beslut i stunden så kan de tänkas vilja skapa sina karaktärer *medan de spelar* snarare än i förväg. Detta imiterar hur karaktärer avslöjar sig och utvecklas i andra medier. Det är inte för alla men för de som det passar kan det bli riktigt bra.
+
+Med denna metod börjar karaktären bara med namn, övergripande aspekt och bästa färdigheten - om ens det! Allteftersom spelet fortlöper och spelaren blir ombedd att slå mot en färdighet han inte har valt än, kan de välja att fylla en tom ruta för färdigheter med denna färdighet och avslöja sina kunskaper för gruppen. På liknande kan aspekter och stunt fyllas i allteftersom behovet uppstår, precis när ett ödespoäng spenderas eller när karaktären får en bonus.
+
+Nedräkningar
+============
+
+En nedräkning skapar känsla av tidsbrist inför en motståndare eller situation; hantera det nu eller också kommer saker bli ännu värre. Oavsett om du pratar om en tickande bomb, en ritual som håller på att avslutas, buss som vinglar på kanten av en upphängd bro eller en soldat som håller på att kalla in förstärkning via radio så kommer nedräkning att tvinga spelarna att agera snabbt eller möte ett värre öde.
+
+Nedräkning har tre komponenter: nedräkningsspår, en eller fler utlösare och ett utfall.
+
+**Nedräkningsspåret** ser väldigt mycket ut som stress: det är en rad rutor som du markerar från vänster till höger. Varje gång du kryssar i en ruta närmar sig nedräkningen noll. Ju kortare spår desto snabbare närmar sig deras undergång.
+
+**Utlösare** är en händelse som kryssar för en ruta i nedräkningsspåret. Det kan vara så enkelt som "en minut/timme/dag har passerat" eller specifikt såsom "en brottsling får en konsekvens eller blir satt ur spel."
+
+När sista rutan har markerats avslutas nedräkningen och **utfallet** inträffar, vad det nu är.
+
+Spelledaren kan vilja avslöja närvaron av nedräkningsspåret för spelarna utan att berätta vad det representerar, i början, som ett slags förebud och för att skruva upp spänningen i berättelsen.
+
+En nedräkning kan ha mer än en utlösare om du vill; kanske fortlöper nedräkningen med ett förutsägbart tempo till något inträffar som accelererar det. Du kan också ha olika utlösare för varje ruta i nedräkningsspåret om du vill att en specifik serie händelser ska leda till utfallet.
+
+Extrema konsekvenser
+====================
+
+
