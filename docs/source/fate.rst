@@ -1189,4 +1189,24 @@ En nedräkning kan ha mer än en utlösare om du vill; kanske fortlöper nedräk
 Extrema konsekvenser
 ====================
 
+Extrema konsekvenser introducerar en valfri fjärde nivå av konsekvenser till ditt spel: något som permanent och oåterkallelight ändrar en karaktär.
+
+Att ta en extrem konsekvens minskar stress med 8. När du tar den måste du **ersätta** en av din karaktärs existerande aspekter (utom den översiktliga konsekvensen, den är inte tillgänglig) med en aspekt som återspeglar den genomgripande ändring som karaktären genomgår på grund av den skada karaktären fick.
+
+Normalt sett så finns inget sätt att återhämta sig från en extrem konsekvens. Den har nu blivit en del av karaktären nu. Vid nästa genombrott kan du döpa om den för att återspegla hur du förlikat dig med den, men du kan inte återgå till föregående aspekt.
+
+En karaktär kan bara använda denna konsekvens en gång mellan varje genombrott.
+
+Snabbare tävlingar
+==================
+
+En del grupper kan känna att tävlingar har för många försök att skapa ett övertag per runda. För dessa grupper försök med följande metod: I varje runda under tävlingen får varje deltagare bara välja mellan en av följande tre alternativ:
+
+- Slå tärningsslag för `Övervinna`_ för sin sida.
+- Slå får `Skapa övertag`_, men ingen bonus för lagsamarbete.
+- Ge deras samarbetsbonus för sin sidas tärningsslag för övervinna eller skapa övertag. Slå inget tärningsslag.
+
+Fullt försvar
+=============
+
 
