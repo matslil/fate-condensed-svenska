@@ -1209,4 +1209,57 @@ En del grupper kan känna att tävlingar har för många försök att skapa ett 
 Fullt försvar
 =============
 
+Ibland vill spelare (eller spelledare) att deras karaktärer går all-in med försvar till nästa runda, istället för att utföra en handling när det är deras tur. Det kallas **fullt försvar**.
+
+När du deklarerar fullt försvar måste du vara tydlig med vilket **fokus** dina ansträngningar har. Om inget annat sägs så försvarar du dig själv (från attacker och försök att skapa ett övertag över dig), men du kan tänkas vilja försvara någon annan, eller försvara dig från en viss grupp av attackerare, eller från vissa försök eller resultat som du vill motstå.
+
+**När du är i fullt försvar får du +2 på alla tärningsslag för försvar mot det du dekarerat som ditt fokus.**
+
+Om det inte blev något utfall av det och du inte har slagit något tärningsslag för försvar under en hel runda, så får du en `Bonus`_ eftersom du har fått möjligheten att förberera din nästa handling. Detta kompenserar för att du "förlorat en runda" eftersom du fokuserade på försvar mot något som aldrig inträffade.
+
+Hinder
+======
+
+Definitionen av fiende är att de kan bli attackerade och tagna ur stridbart skick. I motsats till fiender kan **hinder** inte det. Hinder gör scenen märkbart svårare för spelarna, men spelarna kan inte bara slåss mot dem. Hinder måste undvikas, uthärdas eller göras irrelevanta.
+
+De flesta hinder är saker i miljön, en del kan vara karaktärer som inte kan besegras med konventionella metoder. Draken skulle kunna vara en huvudfiende, men kan lika enkelt vara ett farligt hinder. Den levande statyn som hindrar dig från att nå den onda trollkarlen kan vara ett hot, men det kan också blockera eller distrahera. Det beror helt på motståndarens funktion i scenen och hur spelarna måste hantera den.
+
+Hinder uppkommer inte i alla scener. De förstärker fienden i scenen för att göra dem mer hotande eller minnesvärda, men en överanvändning av hinder kan vara frustrerande för spelarna, i synnerhet de som är fokuserade på strid. Du *kan* använda dem för att ge mindre stridsdugliga spelare något att göra under en strid, dock.
+
+Det finns tre typer av hinder: faror, blockeringar och distraktioner.
+
+Faror
+-----
+
+Om ett hinder kan attackera en spelarkaraktär så är det en fara. Eldstråle, rullande stenblock eller en krypskytt alltför långt borta för att kunna hanteras direkt - de är alla faror. Alla faror har ett namn, en färdighetsnivå och en `vapennivå <#Vapen-och-rustningsniva>`_ mellan 1 och 4.
+
+Farans namn är både en färdighet och en aspekt; det vill säga namnet berättar vad faran kan göra och dess färdighetsnivå berättar hur bra den är på det, men namnet kan också bli åberopad eller betvingad som med vilken annan aspekt som helst.
+
+Rent generellt bör en faras färdighetsnivå vara åtminstone lika hög som en spelarkaraktärs högsta färdighetsnivå, om inte lite högre. En fara med väldigt hög färdighetsnivå *och* väldigt hög Vapennivå kommer troligen ta en spelarkaraktär eller två ur spel. Du kan också göra en fara med en lägre färdighetsnivå men en högre vapennivå, vilket gör att den träffar mer sällan men slår hårt när den väl gör det. Omvänt får man en fara som träffar ofta men gör liten skada varje gång.
+
+En fara agerar i initiativet precis som spelare och deras fiender gör. Om reglerna föreskriver att alla ska slå för sitt initiativ så slår faror mer deras nivå. Under sin tur varje runda så agerar faran enligt sitt namn och slår enligt sin nivå. Om en attack får oavgjort eller bättre lägg till Vapennivå till skadan. Faror kan attackera eller skapa övertag; de kan inte attackeras och de kan inte övervinna hinder.
+
+Om en spelare vill övervinna eller skapa ett övertag över en fara så slår de ett motståndsslag baserat på farans färdighetsnivå.
+
+Blockeringar
+------------
+
+Medan faror finns för att skada spelarkaraktärerna så hindrar **blockeringar** dem från att göra det de vill göra. Blockeringar *kan* orsaka stress, men inte alltid. Den största skillnaden mellan blockeringar och faror är att blockeringar inte agerar och är svårare att få bort. Blockeringar ger ett passivt motstånd under vissa förutsättningar och kan hota eller skada om man inte är försiktig.
+
+I likhet med faror har blockeringar ett namn och en färdighetsnivå, och namnet är både en färdighet och en aspekt. Olikt faror så bör en blockerings färdighetsnivå inte vara mer än ett steg över spelarkaraktärernas högsta färdighetsnivå; annars kan det snabbt bli väldigt frustrerande. En blockering kan ha en Vapennivå så högt som 4, men behöver inte ha någon.
+
+Blockeringar kommer i spel under vissa förutsättningar. En **En pöl med syra** är bara ett problem om någon försöker komma förbi den eller blir ikastad. **Stängsel** påverkar bara den som försöker komma förbi den. **Levande staty** hindrar bara inpassagen till ett specifikt rum.
+
+Blockeringar attackerar inte och har inte sin tur under rundan. Närhelst blockeringen påverkar någons handling kommer istället dess nivå bli motståndsnivån som man slår mot. Om blockeringen inte kan orsaka skada så hindrar den helt enkelt spelarkaraktären från att göra det de vill göra. Om den kan orsaka skada och spelarkaraktären misslyckas med att övervinna blockeringen så tar spelarkaraktären lika mycket skada som hur långt ifrån de var att lyckas. 
+
+Karaktärer kan försöka tvinga någon in i en blockering som en form av attack. Om du gör det så slår du mot attack som vanligt men lägg på en Vapennivå motsvarande hälften av blockeringens Vapennivå (avrundat nedåt, minst 1).
+
+Slutligen, vissa blockeringar kan användas som skydd eller rustning. Det beror på situationen - för en del blockeringar så är det inte rimligt. Du kan troligen inte gömma dig bakom **En pöl med syra** men **Stängsel** *är* ett effektivt skydd mot ett slagträ, och hindrar troligen attacken helt.
+
+När någon använder blockeringen som skydd avgör då om den minskar eller hindrar attacken. Om den hindrar attacken så kan attacken helt enkelt inte utföras. Om den minskar attacken så lägg på en Rustningsnivå motsvarande hälften av blockeringens färdighetsnivå (avrundat nedåt, minst 1).
+
+Använd blockeringar sparsamt. Blockeringar gör det svårare för spelarkaraktärer att utföra vissa handlingar - så det kan bli frustrerande om du överanvänder dem - men de kan också få spelarna att tänka mer kreativt. De kan se en möjlighet att använda blockeringar till deras fördel. Om de lyckas lista ut hur, låt dem!
+
+Ibland vill spelarna helt enkelt få bort blockeringen. För att göra det måste de övervinna med ett färdighetsslag mot blockeringens nivå plus två.
+
 
