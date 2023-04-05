@@ -1262,4 +1262,72 @@ Använd blockeringar sparsamt. Blockeringar gör det svårare för spelarkarakt�
 
 Ibland vill spelarna helt enkelt få bort blockeringen. För att göra det måste de övervinna med ett färdighetsslag mot blockeringens nivå plus två.
 
+Distraktioner
+-------------
+
+Där faror attackerar spelarkaraktärerna och blockeringar hindrar dem från att utföra vissa handlingar, så tvingar **distraktioner** spelarna att fundera på deras prioriteringar. Av alla hinder så är distraktioner den minst spelmekaniskt väldefinierade. De behöver inte heller nödvändigtvis göra scenen mekaniskt svårare. Snarare så erbjuder de spelarna svåra beslut. Här är distraktionens olika delar:
+
+- En distraktions **namn** är en kortfattad och slagfärdig representation av vad det är. Det kan vara en aspekt, om du behöver eller vill det.
+- En distraktions **val** är en enkel fråga som kodar valmöjligheterna som den ger spelarna.
+- En distraktions **återgäldning** är det som händer spelarkaraktärerna om de inte hanterar distraktionen. En del distraktioner kan ha flera återgäldningar, inklusive återgäldning för att ha *lyckats* hantera distraktionen.
+- En distraktions **motstånd** är ett passivt motstånd mot spelarnas tärningsslag för att hantera den. Inte alla distraktioner behöver erbjuda ett motstånd.
+
+Om du är orolig för att spelarna kommer att alldeles för enkelt hantera en strid du har på lager så kan du lägga på en distraktion eller två för att tvinga dem att välja mellan att klå upp ondingarna eller hantera distraktionen.
+
+Att hantera en distraktion bör alltid ha en uppenbar fördel, eller om det inte var möjligt, att inte hantera den bör alltid ha en uppenbar konsekvens.
+
+Exempel på Hinder
+-----------------
+
+**Faror**
+
+- Utmärkt (+4) **Maskingevärstorn**, Vapen: 3
+- Superb (+5) **Avlägsen krypskytt**, Vapen: 4
+
+**Blockeringar**
+
+- Hyffsad (+2) **Stängsel**, Utmärkt (+4) svårighetsnivå att ta bort
+- God (+3) **Pöl med syra**, Vapen: 4, Superb (+5) svårighetsnivå att ta bort
+
+**Distraktioner**
+
+- **Buss full med civila** - Val: *Kommer bussen att falla över kanten på bron?*. Motstånd: **God (+3)**. Återgäldning (ignorera): **Alla civila på bussen dör**. Återgäldning (rädda dem): Boven kommer undan!
+- **Glittrande ädelstenen** - Val: *Kan du ta ädelstenen från piedelstalen?*. Återgäldning (lämna stenen): **Du får inte den (obetalbara) ädelstenen.** Återgäldning (ta stenen): Du utlöser fällor i templet.
+
+Skala
+=====
+
+**Skala** är ett valfritt tillägg som du kan använda för att representera övernaturliga varelser som verkar på en nivå utöver vad som normalt är inom nåbart område för de flesta karaktärer i ditt spel. Vanligtvis behöver du inte bekymra dig för hur skala kan inverka på ditt spel. Det finns tillfällen dock när det är önskvärt att presentera en karaktär som är ett större hot än de vanligtvis möter - eller en möjlighet för karaktärerna att slåss utanför deras vanliga viktklass.
+
+Som exempel - du kan vill ändra listan till något som passar din kampanj bättre - så presenterar vi fem olika nivåer på skalan: Jordnära, Övernaturligt, Verklighetsfrämmande, Legendariskt och Gudalikt.
+
+- **Jordnära** representerar karaktärer utan tillgång till övernaturliga krafter eller teknologier som skulle förbättra dem bortom vad människor förmår.
+- **Övernaturligt** representerar karaktärer som har tillgång till övernaturliga krafter eller teknologier som når utanför vad människor förmår, men är fortfarande i princip människor i grund och botten.
+- **Verklighetsfrämmande** representerar ovanliga eller unika karaktärer som har krafter som särskiljer dem från människor.
+- **Legendarisk** representerar mäktiga andar, väsen och utomjordingar för vilka människor är mest en intressant detalj än ett hot.
+- **Gudalikt** representerar universum mäktigaste krafter: ärkeänglar, gudar, älvdrottningar, levande planeter och så vidare.
+
+När du applicerar en skala mellan två stridande krafter eller individer, jämför varje sidas nivå och se vilken som är högre och med hur många nivåer. De får *en* av följande fördelar för varje tärningsslag mot den lägre:
+
+- +1 per nivåskillnad på deras handling *före* tärningsslaget
+- +2 per nivåskillnad på resultatet *efter* tärningsslaget, *om* slaget lyckades
+- 1 extra fri åberopande per nivåskillnad på resultatet av ett framgångsrikt skapa övertag
+
+Frekvent och rigid applicering av reglerna för skala kan sätta spelarkaraktärerna i ett avsevärt handikapp. Kompensera genom att generöst erbjuda spelarna möjligheter att överlista skalans nackdelar på smarta sätt. Fungerande möjligheter inkluderar efterforskning efter ett måls svagheter, ändra mötesplatsen till någonstans där skalan inte applicerar, eller ändra målen så att deras motståndare inte kan använda skalan till sin fördel.
+
+Aspekter och skala
+------------------
+
+Aktiva situationsaspekter kan ibland representera övernaturliga effekter. I dessa fall kan spelledaren bestämma att åberopande ger ytterligare fördelar på grund av skalan. Dessutom, aspekter skapade på övernaturlig väg kan ge fördelar på grund av sin skala till vissa handlingar när den blir åberopad. Den kan också ge fördelar på grund av sin skala utan att bli åberopad, som till exempel när en magisk slöja eller högteknologisk kamouflagedräkt; du behöver inte åberopa **Slöja** för att få Övernaturlig skala när du smyger omkring.
+
+Gäller skala för övernaturlig skapa övertag?
+--------------------------------------------
+
+När du skapar ett övertag och *det finns inget motstånd*, så istället för att slå tärning så får man aspekten med ett fritt åberopande. Aspekten får skala såsom beskrivits tidigare.
+
+Om du skapar ett övertag på *någon annan som försätter dem i ett sämre läge*, som till exempel att kasta besvärjelsen **Snärjd av levande vinrankor** på en motståndare, så kan du få skala på ditt försök att skapa övertag.
+
+Om du skapar övertag via övernaturliga vägar och *en motståndargrupp kan direkt förhindra försöket på fysiskt eller övernaturligt sätt*, så kan skala användas mot deras tärningsslag i försvar.
+
+Annars så slår du tärning för att skapa övertag utan skala (troligen mot en fastställd svårighetsnivå), men senare användande av aspekter ge fördelar från skalan närhelst det är rimligt.
 
