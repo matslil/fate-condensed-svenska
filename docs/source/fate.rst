@@ -1073,8 +1073,8 @@ Ge dem en eller två färdigheter som beskriver vad de är bra på. Du kan välj
 
 Ge dem noll till tre stressrutor; ju fler de har desto större hot kan de bli. De har vanligen inga konsekvensrutor; om de får större skada än vad de kan absorbera med stress så blir de helt enkelt utslagna. Bispelledarpersoner är inte tänkta att ha kvar.
 
-Monster, storbossen och andra hot
----------------------------------
+Monster, storskurken och andra hot
+----------------------------------
 
 Liksom bispelledarpersoner så skrivs monster och andra hot (såsom storm, eld som sprider sig eller en skvadron med hejdukar i rustning) som karaktärer, men enklare än spelarkaraktärer. Du behöver bara beskriva det allra mest nödvändiga. Till skillnad från bispelledarpersoner så kan dessa hot beskrivas på vilket sätt som helst. Bryt mot reglerna. Ge dem vilken kombination av aspekter, färdigheter, stunt, stress och konsekvenser som krävs för att göra dem farliga, och tänk på vilket sorts fara som de ska erbjuda spelarkaraktärerna när du avgöra deras nivåer.
 
@@ -1250,7 +1250,7 @@ I likhet med faror har blockeringar ett namn och en färdighetsnivå, och namnet
 
 Blockeringar kommer i spel under vissa förutsättningar. En **En pöl med syra** är bara ett problem om någon försöker komma förbi den eller blir ikastad. **Stängsel** påverkar bara den som försöker komma förbi den. **Levande staty** hindrar bara inpassagen till ett specifikt rum.
 
-Blockeringar attackerar inte och har inte sin tur under rundan. Närhelst blockeringen påverkar någons handling kommer istället dess nivå bli motståndsnivån som man slår mot. Om blockeringen inte kan orsaka skada så hindrar den helt enkelt spelarkaraktären från att göra det de vill göra. Om den kan orsaka skada och spelarkaraktären misslyckas med att övervinna blockeringen så tar spelarkaraktären lika mycket skada som hur långt ifrån de var att lyckas. 
+Blockeringar attackerar inte och har inte sin tur under rundan. Närhelst blockeringen påverkar någons handling kommer istället dess nivå bli motståndsnivån som man slår mot. Om blockeringen inte kan orsaka skada så hindrar den helt enkelt spelarkaraktären från att göra det de vill göra. Om den kan orsaka skada och spelarkaraktären misslyckas med att övervinna blockeringen så tar spelarkaraktären lika mycket skada som hur långt ifrån de var att lyckas.
 
 Karaktärer kan försöka tvinga någon in i en blockering som en form av attack. Om du gör det så slår du mot attack som vanligt men lägg på en Vapennivå motsvarande hälften av blockeringens Vapennivå (avrundat nedåt, minst 1).
 
@@ -1330,4 +1330,43 @@ Om du skapar ett övertag på *någon annan som försätter dem i ett sämre lä
 Om du skapar övertag via övernaturliga vägar och *en motståndargrupp kan direkt förhindra försöket på fysiskt eller övernaturligt sätt*, så kan skala användas mot deras tärningsslag i försvar.
 
 Annars så slår du tärning för att skapa övertag utan skala (troligen mot en fastställd svårighetsnivå), men senare användande av aspekter ge fördelar från skalan närhelst det är rimligt.
+
+Tidsförskjutningar
+==================
+
+När du bestämmer hur lång tid det tar för en karaktär att göra en viss handling så kanske du vill använda ett mer systematiskt tillvågagångsätt för att bestämma effekten av lyckande, misslyckande och "till kostnad". Hur mycket längre eller snabbare? Låt förskjutningarna bestämma med hjälp av dessa riktlinjer.
+
+Bestäm först hur lång tid uppgiften tar när man helt enkelt lyckas. Använt en ungefärlig mängd plus en tidsenhet: "några dagar", "halvminut", "åtskilliga veckor" och så vidare. Ungefärliga mängder inkluderar: halv, ungefär en, några eller åtskilliga av given tidsenhet.
+
+Titta sedan på hur många nivåer ett tärningsslag kommer ifrån motståndsnivån eller svårighetsnivån. Varje nivå är värd en tidsförskjutning från vad startpunkten var.
+
+Om startpunkten var "några timmar", så skulle en mindre tidsförskjutning flytta detta till "ungefär en timme", två mindre blir "halvtimme". När det går under "halv" så ändras enheten till nästa mindre enhet (timmar till minuter, och så vidare) och kvantiteten går upp till "åtskilliga", så tre mindre tidsförskjutningar blir "åtskilliga minuter".
+
+För fallet där det går långsammare är processen densamma bara i motsatt riktning: en nivå långsammare i ovanstående exempel blir då "åtskilliga timmar", två blir "halv dag" och tre blir "ungefär en dag".
+
+Sätt att bryta mot reglerna för storskurken
+===========================================
+
+Genom att kombinera färdigheter och skapa övertag för `lagsamarbete`_ kan en spelargrupp verkligen övermanna en enstaka motståndare. Det är inga problem om du anser att antalet personer ska skapa ett övertag men inte så bra om du vill presentera en "storskurk" som är i paritet med hela spelargruppen.
+
+Men kom ihåg att för monster och andra stora hot är det helt acceptabelt att `bryta mot reglerna <#Monster, storskurken och andra hot>`_ - så gör det genom att hitta väger att uppväga gruppens normala övertag genom antalet, men fortfarande ge dem en chans. Här är några förslag på sätt som du kan göra det på. Du kan använda en eller flera i kombinationer för speciellt svåra eller hemska huvudskurkar.
+
+Immunitet genom utmaning eller tävling
+--------------------------------------
+
+Båda dessa metoder handlar om att få till slutkonfrontationen genom att låta gruppen springa genom klockan-tickar-händelser innan de faktiskt kan nå storskurken direkt.
+
+Med **immutitet genom utmaning** så kan storskurken inte påverkas direkt (mentalt, fysiskt eller båda) tills gruppen har lyckats övervinna utmaningen (till exempel stängt av källan till skurkens kraft, listat ut skurkens svaghet, och så vidare). Storskurken kan under tiden övervinna eller skapa övertag med sina försvarsslag, förhindra deras fria åberopanden med sina egna övervinna, eller förbereda sig för deras eventuella genombrott genom att skapa egna övertag.
+
+Med **immunitet genom tävling** så måste gruppen vinna en tävling för att kunna attackera storskurken direkt - och storskurken har möjlighet att attackera dem medan de försöker. Om storskurken vinner tävlingen så lyckas skurken med det han planerat och kommer undan oskadd.
+
+Underhuggare med rustning som kanonmat
+--------------------------------------
+
+Att omringa sig med underhuggare är ett sätt att försöka balansera storskurkens sida mot spelarsidan, men man kommer inte så långt med det om spelarna kan bestämma sig för att ignorera underhuggarna och jaga storskurken direkt.
+
+Men med **underhuggare med rustning** i spel så kan storskurken alltid lyckas till en kostnad på sitt försvarsslag mot attacker genom att tvinga underhuggarna att stå ivägen för attacken. Underhuggarna slår inga försvarsslag utan tar bara den skada som storskurken skulle ha fått. Det tvingar spelarna att hugga sig igenom storskurkens armé innan slutkonfrontationen.
+
+Och kom ihåg att underhuggare behöver inte vara *bokstavligen* underhuggare. Till exempel så kan du skriva upp en eller flera "sköldgeneratorer", var och en med sin egen rad med stressrutor och kanske färdighet för att skapa försvarsövertag för den skyddade storskurken!
+
 
