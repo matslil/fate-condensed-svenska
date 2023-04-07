@@ -1360,13 +1360,49 @@ Med **immutitet genom utmaning** så kan storskurken inte påverkas direkt (ment
 
 Med **immunitet genom tävling** så måste gruppen vinna en tävling för att kunna attackera storskurken direkt - och storskurken har möjlighet att attackera dem medan de försöker. Om storskurken vinner tävlingen så lyckas skurken med det han planerat och kommer undan oskadd.
 
-Underhuggare med rustning som kanonmat
---------------------------------------
+Underhuggare som rustning
+-------------------------
 
 Att omringa sig med underhuggare är ett sätt att försöka balansera storskurkens sida mot spelarsidan, men man kommer inte så långt med det om spelarna kan bestämma sig för att ignorera underhuggarna och jaga storskurken direkt.
 
-Men med **underhuggare med rustning** i spel så kan storskurken alltid lyckas till en kostnad på sitt försvarsslag mot attacker genom att tvinga underhuggarna att stå ivägen för attacken. Underhuggarna slår inga försvarsslag utan tar bara den skada som storskurken skulle ha fått. Det tvingar spelarna att hugga sig igenom storskurkens armé innan slutkonfrontationen.
+Men med **underhuggare som rustning** i spel så kan storskurken alltid lyckas till en kostnad på sitt försvarsslag mot attacker genom att tvinga underhuggarna att stå ivägen för attacken. Underhuggarna slår inga försvarsslag utan tar bara den skada som storskurken skulle ha fått. Det tvingar spelarna att hugga sig igenom storskurkens armé innan slutkonfrontationen.
 
 Och kom ihåg att underhuggare behöver inte vara *bokstavligen* underhuggare. Till exempel så kan du skriva upp en eller flera "sköldgeneratorer", var och en med sin egen rad med stressrutor och kanske färdighet för att skapa försvarsövertag för den skyddade storskurken!
 
+Avslöja det sanna väsendet
+--------------------------
+
+Okej, gruppen har kastat in allt de har mot storskurken och - *härligt!* - de fick honom. Det är bara ett problem: det befriade honom från sitt köttsliga fängelse och släppte fri det sanna väsendet!
+
+Med **avslöja det sanna väsendet** så är storskurken inte bara en karaktär utan åtminstone *två* karaktärer som måste besegreras i tur och ordning, var och en med egna möjligheter, högre färdighetsnivåer, fräscha stres- och konsekvensrutor och till och med nya "regelundantag".
+
+Om du vill förmildra det hela lite låt den nya formen ärva konsekvenser som storskurken fick när föregående form besegrades, men ta bort milda konsekvenser och nedgradera medelsvåra och svåra med ett steg.
+
+Skala upp
+---------
+
+Du kan **skala upp** för att låta storskurken handla på en högre skala än spelarkaraktärerna med hjälp av `skala`_. Du kan göra det även om skala normalt sett inte används i din kampanj - dessa regler skulle kunna användas endast för storskurkar!
+
+Solobonus
+---------
+
+Spelarna kan få fördelar av bonus från samarbeten, visst - men varför inte ge storskurken en matchande **solobonus** när de är de enda som möter hjältarna?
+
+Det finns ett antal sätt som du skulle kunna implementera solobonus på. Du kan använda en av dessa, men var försiktig med att kombinera dem för de tenderar att multiplicera sig.
+
+- Storskurken får **bonus på färdighetsslag** som är lika stor som gruppens maximala bonus från `lagsamarbete`_ - antalet spelarkaraktärer som är mot storskurken minus ett (så +2 mot en grupp på 3, och så vidare). Denna bonus kan dock inte förbättra färdighetsnivån till mer än det dubbla ursprungliga värdet, precis som för spelarna (eller också bryter du mot *den* regeln också).
+- Storskurken kan få **reducerade stressmarkeringar** när en attack lyckas mot skurken motsvarande antalet attackerande spelarkaraktärer dividerat med två, avrundat nedåt. Om du är orolig att det gör striden alltför långsam så justera inte ned skadan under 1.
+- Storskurken har **förstärkt åberopande**: när skurken gör en *betalt* åberopande av en aspekt så får skurken en bonus motsvarande antalet spelarkaraktärer som skurken möter. Ingen sådan lycka med fria åberopanden men detta gör att varje spenderat ödespoäng blir mycket skrämmande.
+- Storskruken kan **dämpa åberopande**: när skurken möter två eller fler fiender så får motståndarnas åberopanden endast +1 i bonus, eller bara erbjuda omslag av tärningar, när de används direkt mot storskurken. Alternativt så kan storskurken ta bort spelarnas möjligheter att lägga ihop fria åberopanden.
+
+Hotet är en kartan (eller en hög karaktärer)
+--------------------------------------------
+
+I Öde så kan vad som helst vara en karaktär, så varför inte en karta? När **hotet är en karta** så har storskurken `områden`_ som måste tas igenom för att uppnå seger.
+
+Allteftersom du berättar detaljer om kartan hos storskurken så har varje område sina egna färdigheter, aspekter och stresskapacitet. Några områden kan innehålla enkla utmaningar som måste övervinnas för att komma djupare inpå kreaturet. Varje område kan agera som egen karaktär gentemot spelarkaraktärerna som är i området, eller i fallet där området representerar en kroppsdel eller liknande, kan attackera närliggande området också. Om området har besegrats av en av spelarkaraktärernas attacker så kan den passeras och kan inte längre utföra några handlingar på egen hand, men storskurken i sig är inte besegrad förrän hjältarna når dess hjärta och dödar det.
+
+Denna metod fungerar särskilt väl om storskurken är en sannerligen gigantiskt monster, men behöver inte vara begränas till den situationen. Du kan använda idén att betrakta hotet som en samling sammankopplade karaktärer, utan att kräva att spelarna faktiskt navigerar storskurken som en faktisk karta. Använd på detta sätt så får du en hybrid mellan en karta och `underhuggare som rustning`_ - en **hög med karaktärer**, i viss mån. En del av storskurken måste besegras innan spelarkaraktärerna kan slå mot det som egentligen är sårbart, och dessa delar kan utföra egna handlingar under rundan.
+
+Oavsett om du använder kartidén fullt ut eller helt enkelt bygger storskurken som en hög, så kommer du säkerligen få en mer dynamisk strid där storskurken agerar oftare, och spelarna måste lista ut en attackplan för att eliminera hotet del för del innan de slutligen kan besegra det.
 
