@@ -1406,3 +1406,31 @@ Denna metod fungerar särskilt väl om storskurken är en sannerligen gigantiskt
 
 Oavsett om du använder kartidén fullt ut eller helt enkelt bygger storskurken som en hög, så kommer du säkerligen få en mer dynamisk strid där storskurken agerar oftare, och spelarna måste lista ut en attackplan för att eliminera hotet del för del innan de slutligen kan besegra det.
 
+Sätt att hantera flera samtidiga mål
+====================================
+
+Förr eller senare kommer någon vid bordet att vilja påverka flera mål samtidigt. Om det är tillåtet så finns här några metoder som du kan använda.
+
+Om du vill urskilja specifika mål så kan du **dela upp din ansträngning**. Slå får din färdighet och om resultatet är positivt så kan du dela upp det bland målen, varje mål får försvara sig mot den anstränging som tilldelats just det målet. Du måste tilldela åtminstone en nivå av ansträning mot ett mål, annars har du inte siktat mot dem alls.
+
+Sophie möter en trio av hantlangare och vill attackera mot alla tre samtidigt i en virvel av hugg med hennes värja.Tack vare ett åberopande och ett bra tärningsslag så får hon en nivå på Slåss på Episk (+7). Hon tilldelar God (+3) mot den som ser mest refaren ut, och Hyffsad (+2) på vardera av de andra två, totalt sju. Var och en får sedan slå mot sitt försvar.
+
+Under speciella omständigheter, som exempelvis explosioner och liknande, så kan du göra en **attack mot område** mot alla ett område, vänner såväl som fiender. Här delar du inte upp din ansträngning; varje mål måste försvara sig mot ditt totala slag med tärningen. Omständigheterna och metoden måste vara rätt för att få göra detta; många gånger kräver spelledaren att du åberopar en aspekt eller använder en stunt för att få tillstånd till det.
+
+Om du vill skapa ett övertag som påverkar ett område eller grupp, **sikta på scenen** istället: placera en enda aspekt på området eller scenen självt snarare än att placera aspekt på varje enskilt mål. Det har den ytterligare fördelen att minska på all bokföring. Om någon insisterar på att skapa en aspekt på varje enskilt mål så får de hålla sig till metoden att dela upp sin ansträngning.
+
+För alla dessa metoder så måste alla mål befinna sig inom samma område. Spelledaren kan tillåta undantag beroende på metoder och omständigheter.
+
+Endast en typ av handling bör användas - såsom att attackera flera mål i ett slag, lösa två problem samtidigt med en övervinna, eller övertyga några nyckelspelledarpersoner med en skapa övertag. En spelledare kan tillåta två typer av handlingar under speciella omständigheter, men det bör vara rimliga handlingar givet den färdighet som används för båda.
+
+Vapen- och rustningsnivå
+========================
+
+Vill du få in lite av känslan med stridsutrustning som andra spel har? Då kan du överväga att använda vapen- och rustningsnivåer. I korthet så gör ett vapen mer skada medan rustning hindrar det från att inträffa. (Du kan få samma effekt med stunt men att använda stunt kanske inte känns rätt för dig.)
+
+**vVpennivå** lägger till skada vid lyckad träff. Om du har Vapen:2, så betyder det att en träff ger 2 mer i skada än normalt.Detta räknas också in för oavgjort; du ger skada mot stress vid oavgjort *istället* för att få en bonus.
+
+**Rustningsnivå** reducerar skadan vid lyckad träff. Rustning:2 gör att varje skada blir 2 mindre än normalt. Om du träffar men målets Rustning minskar attackens skdada till 0 eller lägre så får du en bonus du kan använda mot det målet men du gör ingen skada.
+
+Välj värdeområdet för nivån omsorgsfullt. Håll ett öga på hur sannolikt det är att de ger en konsekvens (eller värre) vid oavgjort. Vi rekommenderar ett värdeområde mellan 0 och 4 som mest.
+
