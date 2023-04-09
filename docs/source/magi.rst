@@ -38,7 +38,7 @@ För att ända upprätthålla någon slags balans i spelet kan sådana mäktiga 
 
 Detta kan användas även då man använder stunt som kräver en kostnad som ett sätt att kunna få mäktig magi till låg kostnad.
 
-Notera dock att dessa effekter är tänkta att vara neutrala, det vill säga till lycka förtret för spelarna som deras antagonister. Det är inte tänkt att ersätta effekter som kan inträffa om man misslyckas med god marginal.
+Notera dock att dessa effekter är tänkta att vara neutrala, det vill säga till lika mycket förtret för spelarna som deras antagonister.
 
 Färdighet och magi
 ==================
@@ -46,4 +46,10 @@ Färdighet och magi
 Eftersom magi normalt utgår ifrån en stunt, och en stunt är knuten till en färdighet, så finns också en färdighetsnivå. När man använder en stunt under stress eller försöka göra något riskabelt eller mäktigt, finns all anledning att slå för färdigheten. Stunten ger +2 på färdighetsslaget, och svårighetsnivån sätts som med vilken färdighet som helst. Det vill säga, är det inget motstånd så slås färdigheten mot en svårighetsnivå som spelledaren har bestämt, annars slår man själv fram en ansträngning och motståndaren gör detsamma, och dessa jämförs för att utröna om man lyckades eller inte.
 
 Om man misslyckas med mer än +2 nivåer kan spelledaren bestämma att något oförutsett inträffar som är en effekt av att balansen i omgivningen har störts. Skillnaden mellan denna störning av balansen och den störning som annars kan inträffa när man utför mäktig magi är att denna störning är klart negativ för spelarna. Något inträffar som orsakar dem bekymmer.
+
+Kraften av besvärjelse eller ritual
+-----------------------------------
+
+När en besvärjelse eller ritual utförs som stunt på en färdighet görs detta mot en svårighetsnivå som avgörs av hur mäktig besvärjelse karaktären försöka utföra, eller mot en motståndsnivå om besvärjelsen görs mot någon som försöker försvara sig mot den. Dessa kan dessutom läggas ihop ifall man försöker göra extra mäktig besvärjelse mot någon som försöker försvara sig mot den.
+
 
