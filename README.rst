@@ -10,6 +10,9 @@ This version is primarily for personal use and has no ambition to be complete or
 GitHub renderad version:
 :doc:`docs/source/index.rst`
 
+Renderad av ReadTheDocs:
+https://ode-kortfattad-version.readthedocs.io/sv/latest/index.html
+
 För att bygga HTML::
    make html
 
