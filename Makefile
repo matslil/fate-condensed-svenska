@@ -4,7 +4,7 @@ MAKEFLAGS += -Rr
 
 TOP := $(realpath $(dir $(lastword $(MAKEFILE_LIST))))
 
-PVER := "python3.7"
+PVER := "python3"
 SITE := $(TOP)/venv/lib/$(PVER)/site-packages
 
 LOCAL_GOALS := lint
