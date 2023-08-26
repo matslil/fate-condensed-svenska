@@ -220,7 +220,7 @@ En av de första sakerna att besluta sig för när man gör sin egen version av 
 
 Fred beslutar sig för att han vill ha ett rymdinriktat Ödespel med en kortare färdighetslista som fokuserar på actionord. Han bestämmer sig för 9 färdigheter: Strida, Kunna, Förflytta, Notera, Köra, Smyga, Tala, Pilla och Vilja. Han gillar också "diamant"-strukturen på färdighetsnivåerna, så spelarna får börja med: 1 Umtärkt (+4), 2 God (+3), 3 Hyffsat (+2), 2 Ordinär (+1) och 1 Medioker (+0). Hans spelare kommer att få en hel del överlapp och kärnkompetenser på grund av den breda mitten av diamanten, samtidigt som specialisering erbjuds genom den spetsiga toppen på diamanten.
 
-Om du funderar på att göra din egen färdighetslista till ditt spel och letar efter idéer för att få inspiration se `Ändra listan över färdigheterna`_.
+Om du funderar på att göra din egen färdighetslista till ditt spel och letar efter idéer för att få inspiration se `Ändra listan över färdigheter`_.
 
 Stunt
 =====
@@ -1208,7 +1208,7 @@ Snabbare tävlingar
 En del grupper kan känna att tävlingar har för många försök att skapa ett övertag per runda. För dessa grupper försök med följande metod: I varje runda under tävlingen får varje deltagare bara välja mellan en av följande tre alternativ:
 
 - Slå tärningsslag för `Övervinna`_ för sin sida.
-- Slå får `Skapa övertag`_, men ingen bonus för lagsamarbete.
+- Slå får `Skapa övertag`_, men ingen bonus för samarbete.
 - Ge deras samarbetsbonus för sin sidas tärningsslag för övervinna eller skapa övertag. Slå inget tärningsslag.
 
 Fullt försvar
@@ -1352,7 +1352,7 @@ För fallet där det går långsammare är processen densamma bara i motsatt rik
 Sätt att bryta mot reglerna för storskurken
 ===========================================
 
-Genom att kombinera färdigheter och skapa övertag för `lagsamarbete`_ kan en spelargrupp verkligen övermanna en enstaka motståndare. Det är inga problem om du anser att antalet personer ska skapa ett övertag men inte så bra om du vill presentera en "storskurk" som är i paritet med hela spelargruppen.
+Genom att kombinera färdigheter och skapa övertag för `samarbete`_ kan en spelargrupp verkligen övermanna en enstaka motståndare. Det är inga problem om du anser att antalet personer ska skapa ett övertag men inte så bra om du vill presentera en "storskurk" som är i paritet med hela spelargruppen.
 
 Men kom ihåg att för monster och andra stora hot är det helt acceptabelt att `bryta mot reglerna <#Monster, storskurken och andra hot>`_ - så gör det genom att hitta väger att uppväga gruppens normala övertag genom antalet, men fortfarande ge dem en chans. Här är några förslag på sätt som du kan göra det på. Du kan använda en eller flera i kombinationer för speciellt svåra eller hemska huvudskurkar.
 
@@ -1395,7 +1395,7 @@ Spelarna kan få fördelar av bonus från samarbeten, visst - men varför inte g
 
 Det finns ett antal sätt som du skulle kunna implementera solobonus på. Du kan använda en av dessa, men var försiktig med att kombinera dem för de tenderar att multiplicera sig.
 
-- Storskurken får **bonus på färdighetsslag** som är lika stor som gruppens maximala bonus från `lagsamarbete`_ - antalet spelarkaraktärer som är mot storskurken minus ett (så +2 mot en grupp på 3, och så vidare). Denna bonus kan dock inte förbättra färdighetsnivån till mer än det dubbla ursprungliga värdet, precis som för spelarna (eller också bryter du mot *den* regeln också).
+- Storskurken får **bonus på färdighetsslag** som är lika stor som gruppens maximala bonus från `samarbete`_ - antalet spelarkaraktärer som är mot storskurken minus ett (så +2 mot en grupp på 3, och så vidare). Denna bonus kan dock inte förbättra färdighetsnivån till mer än det dubbla ursprungliga värdet, precis som för spelarna (eller också bryter du mot *den* regeln också).
 - Storskurken kan få **reducerade stressmarkeringar** när en attack lyckas mot skurken motsvarande antalet attackerande spelarkaraktärer dividerat med två, avrundat nedåt. Om du är orolig att det gör striden alltför långsam så justera inte ned skadan under 1.
 - Storskurken har **förstärkt åberopande**: när skurken gör en *betalt* åberopande av ett faktum så får skurken en bonus motsvarande antalet spelarkaraktärer som skurken möter. Ingen sådan lycka med fria åberopanden men detta gör att varje spenderat ödespoäng blir mycket skrämmande.
 - Storskruken kan **dämpa åberopande**: när skurken möter två eller fler fiender så får motståndarnas åberopanden endast +1 i bonus, eller bara erbjuda omslag av tärningar, när de används direkt mot storskurken. Alternativt så kan storskurken ta bort spelarnas möjligheter att lägga ihop fria åberopanden.
