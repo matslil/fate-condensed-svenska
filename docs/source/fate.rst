@@ -321,9 +321,9 @@ När du utför en handling, följ dessa steg:
 Svårighet och motstånd
 ======================
 
-Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast **:index:`svårighetsnivå`**. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa fakta (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
+Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast :index:`svårighetsnivå <pair: tärningsslag; svårighetsnivå>`. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa fakta (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
 
-Vid andra tillfällen kommer en fiende att erbjuda **:index:`motstånd`** mot karaktärens handlande genom `försvarshandling <#forsvar>`_. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, fakta och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
+Vid andra tillfällen kommer en fiende att erbjuda :index:`motstånd` mot karaktärens handlande genom `försvarshandling <#forsvar>`_. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, fakta och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
 
 Motstånd kan anta många former. Kämpa mot en medlem av en kult över en rituell dolk har en uppenbar motståndare. Eller du kanske kämpar mot kraften från en mystisk ritual som måste övervinnas för att rädda världen. Bryta sig in i kassavalvet  på Stadsbanken för att komma åt bankfacken är en utmaning med risk för att bli upptäckt, men det är upp till spelledaren om du slår mot *motståndet* från de patrullerande vakterna eller mot bankvalvets *svårighetsnivån*.
 
@@ -1008,9 +1008,9 @@ Spelsessioner och vändningar
 
 Det finns några antaganden när vi pratar om spelsessioner och vändningar. Vi skulle vilja belysa dessa antaganden så att du kan göra anpassningar baserat på hur ditt spel skiljer sig från dem.
 
-En **spelsession** består av ett antal scener och några timmars spel. Jämför med en episod av en TV-serie. Det brukar landa på tre till fyra timmarsintervallet.
+En :index:`spelsession <pair: kampanj; spelsession>` består av ett antal scener och några timmars spel. Jämför med en episod av en TV-serie. Det brukar landa på tre till fyra timmarsintervallet.
 
-En **vändning** är en serie spelsessioner som har en röd tråd som löper mellan spelsessionerna. Denna röda tråd behöver inte vara färdig inom en vändning, men berättelsen brukar ha gjort en signifikant utveckling och ändrat riktning. Jämför med tredjedel eller halvsäsong för TV-serien. Det brukar spänna över fyra spelsessioner.
+En :index:`vändning <pair: kampanj; vändning>` är en serie spelsessioner som har en röd tråd som löper mellan spelsessionerna. Denna röda tråd behöver inte vara färdig inom en vändning, men berättelsen brukar ha gjort en signifikant utveckling och ändrat riktning. Jämför med tredjedel eller halvsäsong för TV-serien. Det brukar spänna över fyra spelsessioner.
 
 Om ditt spel faller utanför dessa "brukar"-intervaller så kan du tänkas vilja ändra på hur milstenar fungerar. Om dina vändningar tar mer än fyra till sex spelsessioner att spela så kan du tänkas vilja låta svåra konsekvenser läka efter fyra spelsessioner istället för att vänta på en vändning. Om du vill att utvecklingen ska gå långsammare kan du ge färdighetsnivåer och påfyllnad mer sällan. Om din grupp tenderar att ha korta spelsessioner kanske inte varje spelsessioner avslutas med milsten. Spelet är ditt att forma så som du vill ha det!
 
@@ -1306,11 +1306,11 @@ Skala
 
 Som exempel - du kan vill ändra listan till något som passar din kampanj bättre - så presenterar vi fem olika nivåer på skalan: Jordnära, Övernaturligt, Verklighetsfrämmande, Legendariskt och Gudalikt.
 
-- **:index:`Jordnära <pair: skala; jordnära>`** representerar karaktärer utan tillgång till övernaturliga krafter eller teknologier som skulle förbättra dem bortom vad människor förmår.
-- **:index:`Övernaturligt <pair: skala; övernaturligt>`** representerar karaktärer som har tillgång till övernaturliga krafter eller teknologier som når utanför vad människor förmår, men är fortfarande i princip människor i grund och botten.
-- **:index:`Verklighetsfrämmande <pair: skala; verklighetsfrämmande>`** representerar ovanliga eller unika karaktärer som har krafter som särskiljer dem från människor.
-- **:index:`Legendarisk <pair: skala; legendarisk>`** representerar mäktiga andar, väsen och utomjordingar för vilka människor är mest en intressant detalj än ett hot.
-- **:index:`Gudalikt <pair: skala; gudalikt>`** representerar universum mäktigaste krafter: ärkeänglar, gudar, älvdrottningar, levande planeter och så vidare.
+- :index:`Jordnära <pair: skala; jordnära>` representerar karaktärer utan tillgång till övernaturliga krafter eller teknologier som skulle förbättra dem bortom vad människor förmår.
+- :index:`Övernaturligt <pair: skala; övernaturligt>` representerar karaktärer som har tillgång till övernaturliga krafter eller teknologier som når utanför vad människor förmår, men är fortfarande i princip människor i grund och botten.
+- :index:`Verklighetsfrämmande <pair: skala; verklighetsfrämmande>` representerar ovanliga eller unika karaktärer som har krafter som särskiljer dem från människor.
+- :index:`Legendarisk <pair: skala; legendarisk>` representerar mäktiga andar, väsen och utomjordingar för vilka människor är mest en intressant detalj än ett hot.
+- :index:`Gudalikt <pair: skala; gudalikt>` representerar universum mäktigaste krafter: ärkeänglar, gudar, älvdrottningar, levande planeter och så vidare.
 
 När du applicerar en skala mellan två stridande krafter eller individer, jämför varje sidas nivå och se vilken som är högre och med hur många nivåer. De får *en* av följande fördelar för varje tärningsslag mot den lägre:
 
@@ -1433,9 +1433,22 @@ Vapen- och rustningsnivå
 
 Vill du få in lite av känslan med stridsutrustning som andra spel har? Då kan du överväga att använda vapen- och rustningsnivåer. I korthet så gör ett vapen mer skada medan rustning hindrar det från att inträffa. (Du kan få samma effekt med stunt men att använda stunt kanske inte känns rätt för dig.)
 
-**:index:`Vapennivå <pair: kamp; vapennivå>`** lägger till skada vid lyckad träff. Om du har Vapen:2, så betyder det att en träff ger 2 mer i skada än normalt.Detta räknas också in för oavgjort; du ger skada mot stress vid oavgjort *istället* för att få en bonus.
+:index:`Vapennivå <pair: kamp; vapennivå>` lägger till skada vid lyckad träff. Om du har Vapen:2, så betyder det att en träff ger 2 mer i skada än normalt.Detta räknas också in för oavgjort; du ger skada mot stress vid oavgjort *istället* för att få en bonus.
 
-**:index:`Rustningsnivå <pair: kamp; rustningsnivå>`** reducerar skadan vid lyckad träff. Rustning:2 gör att varje skada blir 2 mindre än normalt. Om du träffar men målets Rustning minskar attackens skdada till 0 eller lägre så får du en bonus du kan använda mot det målet men du gör ingen skada.
+:index:`Rustningsnivå <pair: kamp; rustningsnivå>` reducerar skadan vid lyckad träff. Rustning:2 gör att varje skada blir 2 mindre än normalt. Om du träffar men målets Rustning minskar attackens skdada till 0 eller lägre så får du en bonus du kan använda mot det målet men du gör ingen skada.
 
 Välj värdeområdet för nivån omsorgsfullt. Håll ett öga på hur sannolikt det är att de ger en konsekvens (eller värre) vid oavgjort. Vi rekommenderar ett värdeområde mellan 0 och 4 som mest.
+
+Att skapa karaktär är att spela
+===============================
+
+Detta kapitel är en översättning från `Fate Core <https://fate-srd.com/fate-core/character-creation>`_.
+
+Så fort du sätter dig ner och skapar spelet och karaktärerna, så spelar du Öde. Detta sätt att skapa karaktär använder tre metoder för att understryka detta.
+
+**För det första, karaktärsskapandet berättar en del om karaktärens historia, precis som vilken annan spelsession skulle göra.** Karaktärer som verkligen kommer till liv har såväl egna historier som delade. Detta visar var de har varit, vad de har gjort och varför de forstsätter att agera mot sina utmaningar, tillsammans eller i opposition. Det är en pågående historia som du nu kommer in i - det är bara det att det mest intressanta inte har inträffat än.
+
+**För det andra, det sätter scenen för nästa del i historien.** Varje vändning i historien sätter upp scenen för nästa, så att de flyter ihop till en naturlig evolution. Karaktärsskapandet behöver sätta upp den första `vändningen <#spelsessioner-och-vandningar>`_.
+
+**För det tredje, karaktärsskapandet är ett samarbete.** I likhet med spelskapandet, karaktärsskapandet görs bäst som en gruppaktivitet. Det bygger ett starkare kommunikationsfundament mellan spelare och spelledare, och denna process har ett antal olika sätt att etablera samband mellan olika karaktärer och spelmiljön.
 
