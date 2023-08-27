@@ -15,7 +15,7 @@ Vad behöver jag för att spela?
 
 För att spela *Öde - Kortfattad version* behöver du två till sex medspelare där en agerar spelledare, några tärningar, några spelmarker, pennor, papper och något att skriva små notiser på (till exempel Post-Its).
 
-*Öde - Kortfattad version* använder **Fate Dice** (ödestärningar) när karaktärer agerar. Ödestärningar är sexsidiga tärningar med två [ ] sidor, twå [+] sidor och två [-] sidor. En uppsättning med fyra tärningar fungerar fint, men en uppsättning per spelare är idealt. Andra alternativ finns, till exempel vanliga sexsidiga tärningar (1-2 = [-], 3-4 = [ ], 5-6 = [+]), eller `Deck of Fate <https://www.drivethrurpg.com/product/111835/Deck-of-Fate?affiliate_id=144937>`_, som använder spelkort istället för tärningar. Vi använder uttrycket "kasta tärning" genom hela texten för enkelhets skull.
+*Öde - Kortfattad version* använder **Fate Dice** (:index:`ödestärningar`) när karaktärer agerar. Ödestärningar är sexsidiga tärningar med två [ ] sidor, twå [+] sidor och två [-] sidor. En uppsättning med fyra tärningar fungerar fint, men en uppsättning per spelare är idealt. Andra alternativ finns, till exempel vanliga sexsidiga tärningar (1-2 = [-], 3-4 = [ ], 5-6 = [+]), eller `Deck of Fate <https://www.drivethrurpg.com/product/111835/Deck-of-Fate?affiliate_id=144937>`_, som använder spelkort istället för tärningar. Vi använder uttrycket "kasta tärning" genom hela texten för enkelhets skull.
 
 För veteraner: Ändringar från Fate Core
 =======================================
@@ -77,13 +77,13 @@ Fakta används också under spelets gång för att ändra på berättelsen. Den 
 
 Karaktären börjar med fem fakta: Övergripande faktum, problem, relation, och två fria fakta. Börja med den övergripande faktumet.
 
-Övergripande faktum::
+:index:`Övergripande faktum <triple: faktum; karaktär; övergripande>`::
    Ett övergripande faktum ger en bred beskrivning av karaktären och ska täcka de vitala delarna. Tänk dig att du med en kort mening ska sammanfatta för någon annan vem din karaktär är.
 
-Problem::
+:index:`Problem <triple: faktum; karaktär; problem>`::
    Nästa faktum är problem, något som gör livet för karaktären något mer komplicerat. Det kan vara en personlig svaghet, familjeproblem eller besvärliga åtaganden. Välj något som du känner blir roligt att spela! Kom också ihåg att de bästa fakta är tveeggade och det gäller även problemfakta. Något som normalt sett kan vara ett problem, kan i vissa fall visa sig vara en fördel.
 
-Relationer::
+:index:`Relationer <triple: faktum; karaktär; relationer>`::
    Relationer beskriver din relation till en annan karaktär i spelgruppen. De kan känna varandra sedan länge, eller nyss träffats.
 
    Ett gott relationsfaktum bör innehålla en hint av konflikt. Det innebär inte att de är öppet fientliga mot varandra, men relationen bör inte bara vara en dans på rosor. Ett exempel kan ju vara nidbilden av ett gammalt par med deras kärleksfulla gnabbande.
@@ -151,61 +151,61 @@ Färdigheterna
 - Smyga
 - Vilja
 
-Akademi::
+:index:`Akademi <pair: färdighet; akademi>`::
    Alldaglig, vardagliga kunskaper och utbildningar inom historia, vetenskap och medicin. Akademiska stunt handlar i allmänhet om specialistområden och medicinska kunskaper.
 
-Sport::
+:index:`Sport <pair: färdighet; sport>`::
    Mått på hur fyfiskt duglig man är. Sportstunt fokuserar på rörelse - springa, hoppa, parkour och undvika attacker.
 
-Stjäla::
+:index:`Stjäla <pair: färdighet; stjäla>`::
    Kunskap och förmåga att undvika säkerhetssystem, ficktjuveri och allmänna stölder. Stunt inom stjäla ger bonus på olika områden när man ska begå brott, från planering till exekvering och flykt.
 
-Kontakter::
+:index:`Kontakter <pair: färdighet; kontakter>`::
    Att ha de rätta kontakterna och känna de rätta människorna som kan vara till hjälp. Kontaktstunt ger dig allierade och ett informationsnätverk varhän du beger dig i världen.
 
-Hantverk::
+:index:`Hantverk <pair: färdighet; hantverk>`::
    Förmågan att bygga och ha sönder maskinerier, bygga apparater och föremål. Inkluderar sådant som rustningssmide, svärdssmide, snickeri och andra hantverk. Ger även förmågan att hitta på improviserade lösningar för praktiska problem med maskinerier och föremål. Hantverksstunt ger dig möjligheten att ha den rätta prylen tillhands, bonus på att bygga eller ha sönder saker, och rätt att använda hantverk för att förbättra färdigheter som stjäla och akademi under de rätta förutsättningarna.
 
-Bedraga::
+:index:`Bedraga <pair: färdighet; bedraga>`::
    Kunna ljuga och luras med självsäkerhet. Bedragastunt förbättrar färdigheten för viss typ av lögner eller hjälper till att hitta på falska identiteter.
 
-Rida/köra vagn::
+:index:`Rida/köra vagn <pair: färdighet; rida/köra vagn>`::
    Kunna utföra avancerade manövrar till häst eller annat riddjur, köra vagn när man är jagad eller strida från hästryggen. Ridastunt kan vara specialmanöver eller speciell typ av riddjur.
 
-Empati::
+:index:`Empati <pair: färdighet; empati>`::
    Förmågan att göra en korrekt bedömning av någons sinnesstämning och avsikter. Empatisk stunt kan vara att bedöma en folksamling, genomskåda lögner eller hjälpa andra att återhämta sig från psykiska problem.
 
-Slåss::
+:index:`Slåss <pair: färdighet; slåss>`::
    Närstrid med eller utan vapen. Stunt med slåss kan vara specialvapen eller specialla tekniker.
 
-Undersöka::
+:index:`Undersöka <pair: färdighet; undersöka>`::
    Avsiktligt och noggrannt studera och lista ut mysterier. Används för att knyta ihop ledtrådar eller rekonstruera brottsplatser. Stunt på undersöka hjälper till att ge en briljant slutsats eller foga ihop information snabbare.
 
-Mysticism::
+:index:`Mysticism <pair: färdighet; mysticism>`::
    Specialiserad, hemlig eller mystisk kunskap som inte omfattas av akademi. Detta inkluderar kunskap om magi såväl som att kunna kasta besvärjelser.
 
-Uppmärksamma::
+:index:`Uppmärksamma <pair: färdighet; uppmärksamma>`::
    Vara uppmärksam på omgivningen, upptäcka fara och vara allmänt uppmärksam. Stunts på uppmärksam vässar dina sinnen, förbättrar din reaktionshastighet eller gör det svårare att smyga sig på dig.
 
-Kroppsbyggnad::
+:index:`Kroppsbyggnad <pair: färdighet; kroppsbyggnad>`::
    Råstyrka och stryktålighet. Stunt på kroppsbyggnad ger dig övermänsklig styrka och förmåga utöver det vanliga att ta emot stryk. Hög kroppsbyggnad ger fler rutor för fysisk stress eller konsekvens.
 
-Provocera::
+:index:`Provocera <pair: färdighet; provocera>`::
    Att få folk ur balans för att få dem att göra det du vill. Det är hotande och manipulativt, inga positiva interaktioner. Stunt på provocera ger dig möjligheten att provocera folk till att göra något dumstristigt, få dem att bli aggressiva mot dig eller skrämmas.
 
-Kontakt::
+:index:`Kontakt <pair: färdighet; kontakt>`::
    Bygga förtroende och samförstånd, övertala folk att vilja hjälpa till. Stunt på kontakt låter dig att påverka en folksamling, improvisera relationer eller få nya kontakter.
 
-Resurser::
+:index:`Resurser <pair: färdighet; resurser>`::
    Ger dig tillgång till materiella ting, inte bara pengar eller direkt ägarskap. Det kan vara att låna från vänner eller organisationer. Stunt på resurser ger dig möjilgheten att använda resurser istället för kontakt eller kontakter eller extra fria åberopanden när du betalar för det bästa.
 
-Skjuta::
+:index:`Skjuta <pair: färdighet; skjuta >`::
    All form av avståndsvapen, kastvapen, bågar, armborst. Stunt på skjuta ger dig möjlighet att dra fram vapnet snabbt eller att alltid ha vapnet tillhands.
 
-Smyga::
+:index:`Smyga <pair: färdighet; smyga>`::
    Förbli osynlig, inte bli hörd eller fly undan när du behöver gömma dig. Stunt på smyga låter dig smälta in i omgivningen, gömma dig fullt synlig, eller utnyttja skuggor för att förflytta dig osedd.
 
-Vilja::
+:index:`Vilja <pair: färdighet; vilja>`::
    Mental styrka, kunna motstå frestelser och trauman. Stunt på vilja låter dig ignorera mentala konsekvenser, motstå mental dödsångest från okända krafter och behålla lugnet när andra försöker provocera. Hög vilja ger dig fler rutor på mental stress eller konsekvens.
 
 Alternativ färdighetslista
@@ -234,13 +234,13 @@ Författa stunt
 
 Du författar dina egna stunt när du gör karaktären. Det finns i grunden två olika sorters stunt: Bonusstunt och regeländrande stunt.
 
-Bonusstunt::
+:index:`Bonusstunt <pair: stunt; bonus>`::
    Bonusstunt ger **+2 bonus** på när du använder en viss färdighet inom vissa givna ramar, typiskt viss handling eller speciella omständigheter.
    Skriv stunten enligt följande mönsker:
    Eftersom jag **[beskriv på vilket sätt du är fantastisk eller har cool utrustning]**, så får jag +2 när jag använder **[välj färdighet]** för att **[välj en: övervinna, få en fördel, attackera, försvara]** när **[beskriv en omständighet]**.
    Exempel: Eftersom jag **är en tränad lönnmördare**, så får jag +2 när jag använder **Slåss** för att **attackera** när **belysningen är dålig**.
 
-Regeländrande stunt::
+:index:`Regeländrande stunt <pair: stunt; regeländrande>`::
    Regeländrande stunt är en bred kategori som inkluderar bland annat:
 
    - Byta ut vilken färdighet du använder i en given situation. Till exempel, en forskare kan använda Akademi när han utför en ritual, när man normalt skulle ha använt Mysticism.
@@ -275,8 +275,8 @@ Din nivå i färdigheten Sport påverkar hur många fysiska stressrutor din kara
 
 Du kommer att lära dig om hur stress och konsekvenser fungerar under spelets gång i att `ta skada`_.
 
-Påfyllning
-==========
+:index:`Påfyllning`
+===================
 
 Din påfyllning är det minsta antal ödespoäng som din karaktär börjar med inför varje spelsession. Din karaktär börjar med en påfyllning av 3.
 
@@ -321,9 +321,9 @@ När du utför en handling, följ dessa steg:
 Svårighet och motstånd
 ======================
 
-Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast **svårighetsnivå**. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa fakta (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
+Om karaktärernas agerande möter fasta hinder eller annars försöker ändra på världen snarare än på en annan person eller djur, får handligen en fast **:index:`svårighetsnivå`**. Dessa handlingar inkluderar dyrka upp lås, barrikadera dörrar och taktisk analys av fiendeläger. Spelledaren bestämmer om närvaron av vissa fakta (på karaktären, i scenariot eller något annat) medför en ändring av svårighetsnivån.
 
-Vid andra tillfällen kommer en fiende att erbjuda **motstånd** mot karaktärens handlande genom `försvarshandling <#forsvar>`_. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, fakta och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
+Vid andra tillfällen kommer en fiende att erbjuda **:index:`motstånd`** mot karaktärens handlande genom `försvarshandling <#forsvar>`_. Vid dessa tillfällen kommer även spelledaren att slå tärning och följa ovanstående regler och använda de färdigheter, fakta och stunt som fienden har. Varje gång du slår tärning för att attackera en fiende eller skapa ett övertag mot dem, kommer fienden att slå tärning för att försvara sig mot det.
 
 Motstånd kan anta många former. Kämpa mot en medlem av en kult över en rituell dolk har en uppenbar motståndare. Eller du kanske kämpar mot kraften från en mystisk ritual som måste övervinnas för att rädda världen. Bryta sig in i kassavalvet  på Stadsbanken för att komma åt bankfacken är en utmaning med risk för att bli upptäckt, men det är upp till spelledaren om du slår mot *motståndet* från de patrullerande vakterna eller mot bankvalvets *svårighetsnivån*.
 
@@ -332,8 +332,8 @@ Modifiera Tärningen
 
 Du kan modifiera tärningen genom att åberopa ett faktum för att få +2 på tärningsslaget eller slå om. Vissa stunt ger också viss bonus. Du kan också åberopa ett faktum för att `hjälpa en allierad <#samarbete>`_ eller öka svårighetsnivån för en fiende.
 
-Åberopa ett faktum
--------------------
+:index:`Åberopa ett faktum <pair: faktum; åberopa>`
+---------------------------------------------------
 
 När du utför en handling men tärningsslaget inte räcker till så behöver du inte bara sitta och acceptera nederlaget. (Fast du kan absolut göra det. Kan bli roligt det med.) Fakta som är i spel ger dig valmöjligheter och en väg till framgång.
 
@@ -352,10 +352,10 @@ Stunt kan ge dig en bonus på dina tärningsslag förutsatt att du uppfyller kra
 
 Normalt ger stunt +2 bonus inom ett snäv omständighet utan kostnad; du kan använda dem närhelst de är tillämpbara. Vissa sällsynta och kraftfulle stunt kan kräva ödespoäng för att använda dem.
 
-Resultat
-========
+:index:`Resultat <pair: färdighetsslag; resultat>`
+==================================================
 
-Skillnaden mellan ansträngningen (tärningsslaget plus modifikationer) och svårighetsnivån eller motståndet kallas steg. Ett steg har värdet 1. Det finns fyra möjliga resultat:
+Skillnaden mellan ansträngningen (tärningsslaget plus modifikationer) och svårighetsnivån eller motståndet kallas :index:`steg <pair: färdighetsslag; steg>`. Ett steg har värdet 1. Det finns fyra möjliga resultat:
 
 - Om din ansträngning är mindre än svårighetsnivån eller motståndet, misslyckas du.
 - Om din ansträngning är lika med svårighetsnivån eller motståndet, blir det oavgjort.
@@ -373,22 +373,22 @@ Om din ansträngning är mindre än svårighetsnivån eller motståndet, så mis
 
 Det kan spelas på ett antal olika sätt: enkelt misslyckande, lyckas till stor kostnad, eller att ta emot en träff.
 
-Enkelt misslyckande
-~~~~~~~~~~~~~~~~~~~
+:index:`Enkelt misslyckande <pair: färdighetsslag; enkelt misslyckande>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Den första är enklast att förstå - **enkelt misslyckande**. Du uppnår inte ditt mål, gör inga framsteg. Se till att berättelsen förs fram av det - att helt enkelt misslyckas med att dyrka upp kassavalvet är trögt och tråkigt.
 
 Ethan drar triumferande i handtaget, men kassavalvet förblir stängt medan alarmet börjar ljuda. Misslyckandet har förändrat situationen och driver berättelsen framåt - nu är det vakter på väg. Ethan måste välja mellan att försöka igen, eller minska förlusterna och springa.
 
-Lyckas till stor kostnad
-~~~~~~~~~~~~~~~~~~~~~~~~
+:index:`Lyckas till stor kostnad <pair: färdighetsslag; lyckas till stor kostnad>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Den andra är ett **lyckas till stor kostnad**. Du gör det du tänkte, men det finns ett stort pris att betala - situationen blir värre eller mer komplicerat. Spelledaren kan antingen bestämma detta resultat eller erbjuda det istället för ett enkelt misslyckande. Båda alternativen är bra och användbara i olika situationer.
 
 Ethan misslyckas med sitt tärningsslag och spelledaren säger "Du hör ett klick när det sista stiftet faller på plats. Det ekar till det klickande ljudet av hanen som spänns på en revolver när en vakt säger åt dig att sätta händerna upp i vädret.". Den stora kostnaden här är konfrontationen med en vakt som han hade hoppats undvika.
 
-Ta emot en träff
-~~~~~~~~~~~~~~~~
+:index:`Ta emot en träff <pair: färdighetsslag; ta emot en träff>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Slutligen kan du **ta emot en träff**, som du måste sätta upp på stress eller konsekvens, eller få någon annan nackdel. Det här misslyckandet är mest vanligt när man försvarar sig mot en attack eller försöker övervinna något farligt hinder. Det här skiljer sig från enkelt misslyckande genom att karaktären själv, och inte nödvändigtvis hela truppen, påverkas. Det skiljer sig också från lyckas till stor kostnad genom att lyckas inte nödvändigtvis finns tillgängligt som ett alternativ.
 
@@ -403,22 +403,22 @@ Om din ansträngning är lika med svårighetsnivån eller moståndet, blir det o
 
 Liksom vid misslyckande bör oavgjort föra berättelsen framåt, aldrig strypa händelserna. Något intressant ska bör hända. Liksom vid misslyckande kan det spelas på olika sätt: Lyckas till mindre kostnad eller delvis lyckande.
 
-Lyckas till mindre kostnad
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+:index:`Lyckas till mindre kostnad <pair: färdighetsslag; lyckas till mindre kostnad>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Den första är **lyckas till mindre kostnad** - några poäng av stress, detaljer i berättelsen om svårigheter eller komplikationer som i sig inte är några hinder, bonus åt fienden är alla mindre kostander.
 
 Ethans första försöka misslyckas. När han väl lyckas få upp kassavalvet har det blivit ljust igen, och att fly i skyddet av mörkret är inte längre att tänka på. Han fick det han ville ha, men situationen är värre nu.
 
-Delvis lyckande
-~~~~~~~~~~~~~~~
+:index:`Delvis lyckande <pair: färdighetsslag; delvis lyckande>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Det andra sättet att hantera oavgjort är **devlis lyckande** - du lyckas men fick bara en del av det du ville ha.
 
 Ethan lyckas bara öppna kassavalvet på glänt - om dörren öppnas mer kommer larmet ljuda och han kan inte lista ut hur han ska desarmera det. Han lyckas slita ut några sidor ur boken genom öppningen, men kommer att behöva gissa sig fram till de sista stegen.
 
-Lyckas
-------
+:index:`Lyckas <pair: färdighetsslag; lyckas>`
+----------------------------------------------
 
 Om din ansträngning är en eller två steg över svårighetsnivån eller motståndet så lyckas du.
 
@@ -431,8 +431,8 @@ Tillämpa "händelse först" på lyckas
 
 Historien definierar vad lyckas betyder. Tänk om Ethan inte hade de verktyg eller erfarenheter som krävdes för att dyrka upp kassavalvet? Kanske lyckas då är likt "till mindre kostnad" i exemplen ovan. Om Ethan var med och konstruerade kassavalvet så kanske lyckas är närmare "med stil" i exemplen.
 
-Lyckas med stil
----------------
+:index:`Lyckas med stil <pair: färdighetsslag; lyckas med stil>`
+----------------------------------------------------------------
 
 Om din ansträngning är tre steg över svårighetsnivån eller motståndet så lyckas du med stil.
 
@@ -450,8 +450,8 @@ Det finns fyra olika handlingar som du kan utföra, var och en med sitt eget spe
 - **Attackera** för att skada en fiende.
 - **Försvara** för att överleva en attack, stoppa en motståndare från att skapa ett övertag eller förhindra ett försök att övervinna ett hinder.
 
-Övervinna
----------
+:index:`Övervinna <pair: handling; övervinna>`
+----------------------------------------------
 
 Övervinna ett hinder med hjälp av dina färdigheter.
 
@@ -470,8 +470,8 @@ Charles har kommit fram till den antarktiska forskningsstationen. Byggnaderna ä
 
 Handling övervinna används i allmänhet för att utröna om karaktären kan få tillgång till eller notera fakta eller ledtrådar. Håll ett öga på lyckas-till-en-kostnad-alternativet när så är fallet. Om att missa en detalj skulle sinka berättelsen ignorera misslyckanden och fokusera på kostnaden för lyckanden istället.
 
-Skapa ett övertag
------------------
+:index:`Skapa ett övertag <pair: handling; skapa ett övertag>`
+--------------------------------------------------------------
 
 Skapa ett situationsfaktum eller få en fördel av ett existerande faktum.
 
@@ -501,8 +501,8 @@ Spelledaren bestämmer sig för att faktiskt träffa shoggoth är trivialt, så 
 
 Ethan samlar ihop till en Molotov-coctail och kastar den på besten. Shoggoth är nu *brinnande* nu och Ethan får ett fritt åberopande för detta nya faktum. Shoggoth är definitivt distraherad och om den försöker jaga honom, kan han använda detta åberopande för att hjälpa honom att undkomma.
 
-Attackera
----------
+:index:`Attackera <pair: handling; attackera>`
+----------------------------------------------
 
 Attackera för att skada fiende.
 
@@ -519,8 +519,8 @@ Dina alternativ för attacker är:
 
 Ruth snubblar över ett lik som väckts till liv av mystiska krafter för att fullfölja något mörkt syfte. Hon bestämmer sig för att slå till det. Hon har Utmärkt (+4) Slåss men slår [-][-][ ][ ], vilket ger Hyffsat (+2) i ansträngning.
 
-Försvar
--------
+:index:`Försvar <pair: handling; försvar>`
+------------------------------------------
 
 Försvara för att överleva en attack eller ingripa i en fiendes handling.
 
@@ -576,29 +576,29 @@ Vilka typer av fakta finns det?
 
 Det finns en `ändlös lista av fakta <#andra-fakta>`_, men oavsett vad de kallas fungerar de på liknande sätt. Den största skillnaden ligger i hur länge de finns kvar innan de försvinner.
 
-Karaktärsfakta
---------------
+:index:`Karaktärsfakta <pair: faktum; karaktär>`
+------------------------------------------------
 
 Det är fakta du hittar på ditt karaktärsblad, exempelvis ditt övergripande faktum och problemfaktumet. De beskriver dina personlighetsdrag, viktiga detaljer om ditt förflutna, relationer du har med andra, viktiga föremål eller titlar du har, problem som du behöver hantera eller mål du jobbar mot, eller rykte eller förpliktelser som du har. Dessa fakta ändras främst vid `milstenar <#mindre-milstenar>`_.
 
 Exempel: **Ledare över en grupp överlevare**, **Sinne för detaljer**, **Jag måste skydda min bror**.
 
-Situationsfakta
----------------
+:index:`Situationsfakta <pair: faktum; situation>`
+--------------------------------------------------
 
 Dessa fakta beskriver omgivningen eller scenario där handlingen äger rum. Situationsfaktumet upphör oftast när scenen där den uppstod upphör, eller när någon utför en handling som ändrar eller tar bort den. I princip så varar de så länge situationen de representerar varar.
 
 Exmpel: **Brinner**, **Skarpt solljus**, **Arg folkmassa**, **Slagen till marken**, **Jagad av polisen**.
 
-Konsekvenser
-------------
+:index:`Konsekvenser <pair: faktum; konsekvens>`
+------------------------------------------------
 
 Dessa fakta representerar skador eller uthållig trauma på grund av skada, oftast på grund av en attack.
 
 Exempel: **Stukad vrist**, **Hjärnskakning**, **Handikappande självtvivel**.
 
-Bonus
------
+:index:`Bonus <pair: faktum; bonus>`
+------------------------------------
 
 En bonus är ett speciell faktum som representerar en väldigt tillfällig eller obetydlig situation. Du kan inte betvinga en bonus eller lägga ett ödespoäng på att åberopa det. Du kan fritt åberopa det en gång, sedan försvinner det. En oanvänd bonus försvinner när övertaget som den representerar inte längre finns, vilket kan vara några sekunder eller under en enskild handling. De varar aldrig längre än till slutet av scenen, och du kan vänta med att namnge den tills du faktiskt använder den. Om du innehar en bonus kan du överlämna den till en allierad, om det är rimligt.
 
