@@ -614,8 +614,8 @@ Ett sätt att förtjäna ett ödepoäng är att låta din karaktärs fakta bli b
 
 Kom att du inför varje spelsession börjar med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har blivit betvingad mer än åberopat i förra spelsessionen så `kan du ha fler ödespoäng nästa spelsession <#aterhamtning>`_.
 
-Åberopanden
------------
+:index:`Åberopanden <pair: faktum; åberopande>`
+-----------------------------------------------
 
 För att utnyttja den fulla potentialen av fakta och låta dem jobba för dig så behöver du spendera ödespoäng för att `åberopa dem under tärningsslaget <#aberopa-fakta>`_. Håller reda på ödespoängen med hjälp av mynt, glaskulor, pokerpengar eller andra marker.
 
@@ -638,8 +638,8 @@ I allmänhet när ett faktum blir åberopad så är det en karaktärsfaktum elle
 
 Du kan lägga till en viktig eller osannolik detalj i berättelsen baserat på ett faktum som är i spel. Spendera inte ett ödespoäng när "`fakta är alltid sanna <#fakta-ar-alltid-sanna>`_" gäller. Gör det istället när det inte är självklart om faktumet är tillämpbar eller, om alla runt bordet går med på det, när det inte finns någon tillämpbar faktum.
 
-Betvinganden
-------------
+:index:`Betvinganden <pair: faktum; betvinganden>`
+--------------------------------------------------
 
 Fakta kan bli betvingade för att göra situationen mer komplicerad eller för att få ödespoäng. Spelledare eller spelare kan erbjuda ett ödespoäng i utbyte för att betvinga ett faktum så att livet blir svårare för karaktären, och berätta varför ett faktumet gör livet svårare för karaktären. Om du vägrar gå med på det behöver du spendera ett ödespoäng själv istället och beskriv hur din karaktär lyckas undvika komplikationen. Och ja, om du inte har något ödespoäng kvar så kan du inte vägra ett betvingande.
 
@@ -700,16 +700,16 @@ Andra typer av fakta
 
 Vi har gått igenom `vanliga typer av fakta <#vilka-typer-av-fakta-finns-det?>`_. Dessa ytterligare typer är valfria, men kan ge spelet en extra krydda. I viss grad är dessa varianter av karaktärsfakta (om du vidgar definitionen av karaktär) eller situationsfakta (om du ändrar hur länge dessa varar).
 
-Orginisationsfakta::
+:index:`Organisationsfakta <pair: faktum; organisation>`::
    Ibland kan du möta en hel organisation som opererar under vissa principer. Överväg att ge organisationen fakta som alla medlemmar kan använda som om det vore deras egna.
 
-Scenariofakta::
+:index:`Scenariofakta <pair: faktum; scenario>`::
    Vissa berättelser kan introducera ett nytt "tillägg" som återkommer gång på gång under berättelsens gång. Överväg att definiera ett faktum som är tillgänglig för alla karaktärer i berättelsen tills berättelsen avslutas.
 
-Uppsättningsfakta::
+:index:`Uppsättningsfakta <pair: faktum; uppsättning>`::
    I likhet med scenariofakta, uppsättningen av kampanjen kan i sig ha återkommande teman. I motsats till scenariofaktumet så försvinner inte uppsättningsfakta.
 
-Områdesfakta::
+:index:`Områdesfakta <pair: faktum; område>`::
    Du kan koppla situationsfakta till en viss plats på kartan `som är inom ett område <#omraden>`_. Det kan lägga till extra dynamik till spelargruppens interaktion med kartan. Spelledaren uppmuntras att skapa "fritt tillgängliga" fria åberopanden tillgängliga för områdesfakta vid början av scenen, för att locka karaktärerna (spelare eller spelledarpersoner) att utnyttja faktumet som del av deras tidiga strategier.
 
 ================================
@@ -769,8 +769,8 @@ Områdesfakta
 
 Vissa `situationsfakta kan gälla inom specifika områden på kartan <#andra-typer-av-fakta>`_, andra inte. Det är helt okej - det kan ge extra krydda, möjligheter och utmaningar i kartan som inte skulle finnas där annars.
 
-Turordning
-----------
+:index:`Turordning`
+-------------------
 
 Vanligtvis är turordningen inte viktig, men vid konflikter och strid kan det bli viktigt. Dessa scener utspelar sig under en antal **rundor**. Under en runda så kan varje inblandad karaktär göra ett motstånd, skapa ett övertag eller utföra en attack, samt en förflyttning. (`Kamp fungerar annorlunda <#utmaningar,-konflikter-och-strid>`_.) Eftersom försvar är en reaktion på någon annans handling så kan karaktärer försvara sig så många gånger som de behöver under andra karaktärers runda, så länge de kan motivera hur de kan blanda sig in i det baserat på vad de redan har bidragit till berättelsen.
 
@@ -782,8 +782,8 @@ Eftersom alla spelare nu har gjort sitt under rundan så måste Ruth dessvärre 
 
 Denna metod att skapa turordningen går under flera olika namn i onlinediskussioner: "elective order", och "popcorn", "handoff" eller "Balsera style initiative", där Balsera är efter Fate Core författaren Leonard Balsera, som planterade idén.
 
-Samarbete
-=========
+:index:`Samarbete <pair: färdighetsslag; samarbete>`
+====================================================
 
 Öde erbjuder tre alternativ för samarbete: kombinera samma färdighet från flera karaktärer till ett tärningsslag, lägga ihop fria åberopanden genom att skapa övertag för att hjälpa en lagkamrat samt åberopa ett faktum å en allierads vägnar.
 
@@ -791,8 +791,8 @@ När du kombinerar färdigheter ta reda på vem som har den högsta färdighetsn
 
 Annars kan du skapa ett övertag under din tur och låta allierade använda fria åberopanden närhelst det är rimligt. När det inte är din tur kan du åberopa ett faktum för att lägga till en bonus på någon annans tärningsslag.
 
-Utmaningar
-==========
+:index:`Utmaningar <pair: färdighetsslag; utmaning>`
+====================================================
 
 Många svårigheter som karaktärerna möter kan hanteras av ett enkelt tärningsslag under loppet av en scen - desarmera bomben, hitta skriften av en ohygglig kunskap, eller dekryptera ett skiffer. Men ibland är saker mer flytande, mer komplicerade och det är helt enkelt inte så enkelt att hitta skriften med den ohyggliga kunskapen eftersom yachten som genomsöks far okontrollerat genom Hong Kongs hamn under ett monsunregn och båtens bibliotek brinner - absolut inte ditt fel.
 
@@ -804,12 +804,12 @@ Spelledare, gör ditt bästa för att låta varje karaktär i scenen få en chan
 
 Efter att alla tärningsslag är gjorda så kommer spelledaren att utreda framgång, misslyckanden och kostnader för varje handling allteftersom scenen fortgår. Det kan bli så att ett resultat leder till en ny utmaning, konflikt eller till och med strid. En mix av framgångar och misslyckanden bör låta karaktärerna komma framåt med delvis lyckande när de möter nya komplikationer.
 
-Konflikter
-==========
+:index:`Konflikter <pair: färdighetsslag; konflikt>`
+====================================================
 
 En konflikt är när två sidor står i direkt opposition mot varandra, men det är inte en strid. Det betyder inte nödvändigtvis att ena sidan inte *vill* skada den andra. Konflikt kan få gruppen att försöka fly undan ett hot innan det förstör alla chanser till att lyckas.
 
-I början av konflikten deklarerar alla sina avsikter, vad de hoppas få ut av det. Om det är flera spelarpersoner inblandade, de kan vara på samma sida eller olika beroende på deras mål - exempelvis vandringstävling så kan varje karaktär vara på sin egen sida. **I en konflikt försöker eller kan inte spelarpersonerna skada motståndarna. Externa hot (exempelvis vulkanutbrott, arg gud) kan attackera någon eller alla sidor; dessa hot kan också vara en deltagare i konflikten.**
+I början av konflikten deklarerar alla sina avsikter, vad de hoppas få ut av det. Om det är flera spelarpersoner inblandade, de kan vara på samma sida eller olika beroende på deras mål - exempelvis vandringstävling så kan varje karaktär vara på sin egen sida. **I en konflikt försöker inte eller kan inte spelarpersonerna skada motståndarna. Externa hot (exempelvis vulkanutbrott, arg gud) kan attackera någon eller alla sidor; dessa hot kan också vara en deltagare i konflikten.**
 
 Konflikten utspelar sig under ett antal rundor. Varje sida utför en handling för att övervinna motstånd för att uppnå deras mål under varje runda. Bara en karaktär på varje sida utför handlingen för att övervinna motstånd under varje runda, men allierade kan hjälpa till genom samarbete och försöka skapa övertag för att hjälpa till (vilket innebär en viss risk - se nedan). Handlingen övervinna motstånd kan vara mot en svårighetsnivå - om deltagarna möter utmaningar från miljön - eller mot någon annan om de är i direkt konflikt.
 
@@ -824,8 +824,8 @@ Skapa övertag under en konflikt
 
 Under en runda kan din sida försöka skapa ett övertag innan slaget mot handlingen övervinna motstånd görs. Målet, eller vem som helst som rimligen kan påverka utfallet, kan stå emot handlingen genom en normal försvarshandling. Varje deltagare kan försöka skapa övertag var och en för sig eller delta i `lagsanarbete för att få bonus <#samarbete>`_. Om du misslyckas med att skapa ett övertag får du välja mellan att inte få något övertag eller att få ett övertag men mot en kostnad (bibehålla ditt slag eller bonus från samarbete) genom att ge den andra sidan ett fritt åberopande istället. Om du åtminstone fick oavgjort fortsätt sedan som vanligt med ditt slag eller bonus.
 
-Kamp
-====
+:index:`Kamp <pair: färdighettslag; kamp>`
+==========================================
 
 När hjältarna går in i en direkt strid - mot myndighetspersoner, kultmedlemmar eller obeskrivliga hemskheter - och kan vinna, så är det en **strid**. Med andra ord, använd strid om våld eller tvång är rimliga handlingar för spelarpersonerna.
 
@@ -835,8 +835,8 @@ Strid kan vara fysiskt eller mentalt. Fysiska strider kan vara skjutningar, svä
 
 När man utför `samarbete <#samarbete>`_ är timingen viktig. Du kan åberopa ett faktum å en allierads vägnar för att förbättra deras tärningsslag när som helst. Du kan hjälpa en allierad före deras tur genom att skapa ett övertag eller ge +1 i bonus som handling. Om deras tur inträffar innan din under rundan kan du inte hjälpa dem genom att skapa ett övertag, men du kan välja att hoppa över din tur under rundan för att ge dem +1 i bonus för samarbete.
 
-Ta skada
---------
+:index:`Ta skada <pair: kamp; skada>`
+-------------------------------------
 
 När en attack är framgångsrik måste försvararen ta emot skadan, vars storlek är skillnaden mellan attackerarens och försvararens ansträng.
 
@@ -844,8 +844,8 @@ Du kan ta skadan genom att kryssa för stressrutor och genom att ta konsekvenser
 
 Ett antal dåliga beslut har försatt Charles i en unken källare och möter en ghoul som är mycket sugen på att äta upp honom. Ghoulen attackerar, kastar sig fram med sina vassa klor; denna attack har nivån Hyffsat (+2) på Slåss. Spelledaren slår [ ][ ][+][0], vilket får ansträngningen att bli Umtärkt (+4). Charles försöker hoppa undan och har God (+3) på Sport men slår [ ][ ][ ][-] vilket blir ansträngning Hyffsat (+2). Eftersom ghoulens attackansträngning har två nivåer högre än Charles försvarsansträngning så får Charles två i skada. Han markerar två av sina tre fysiska stressrutor; striden har redan blivit farlig.
 
-Stress
-~~~~~~
+:index:`Stress <pair: kamp; stress>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Enkelt uttryckt är stress en rustning som berättelsen erbjuder. Det är en resurs som används för att hålla karaktären i stridbart skick när fienden träffar dem. När du markerar stressrutor för skada du får säger du saker som "Det träffade mig nästan" eller "Oj, det där slog luften ur mig men jag är okej." Med det sagt så är det en begränsad resurs - de flesta karaktärer har bara tre rutor för fysisk och mental stress respektive. Karaktärer med hög nivå av Vilja och Kroppsbyggnad kan ha mer.
 
@@ -853,8 +853,8 @@ Du ser två typer av stressrutor på ditt karaktärsblad, en för fysiska skador
 
 Rutorna är binära - antingen är de tomma och kan användas eller också är de ikryssade och då kan de inte användas. Det är okej. Du tar bort alla kryssen i rutorna när scenen är över - förutsatt att monstrena inte äter upp dig först.
 
-Konsekvenser som skada
-~~~~~~~~~~~~~~~~~~~~~~
+:index:`Konsekvenser som skada <pair: kamp; konsekvens>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Konsekvenser** är nya fakta som du skriver upp på ditt karaktärsblad när din karaktär får skada, och utgör de skador och lyten som karaktären lider av.
 
@@ -870,8 +870,8 @@ Nackdelen med konsekvenser är att de är fakta - och `fakta är alltid sanna <#
 
 Charles slåss fortfarande mot ghoulen. Den klöser honom, denna gång slår den [ ][ ][+][+], vilket tillsammans med dess färdighetsvärde på Strid som är Hyffsad (+2), och dessutom åberopar sitt faktum **Hungrig efter kött** för ytterligre +2, blir summan hela Fantastisk (+6) i skada. Charles slår [-][-][ ][ ] vilket tillsammans med God (+3) i Sport ger honom ynka Ordinär (+1) i försvar; det blir fem i skada som han behöver absorbera. Han väljer att ta en medelsvår konsekvens. Spelaren och spelledaren kommer överens om att ghoulen gav honom **Gapande sår i bröstkorgen**. Denna konsekvens absorberar fyra i skada, ett återstår, och Charles använder sin sista stressruta för att absorbera den.
 
-Bli utslagen
-~~~~~~~~~~~~
+:index:`Bli utslagen <pair: kamp; utslagen>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Om du inte kan absorbera all skada med stress och konsekvenser så blir du **utslagen**.
 
@@ -905,8 +905,8 @@ Avsluta en strid
 
 En strid avslutas när alla på ena sidan av striden antingen har gett upp eller blivit utslagna. När striden avslutas så får alla spelare som gett upp ödespoäng för att de `gett upp <#ge-upp>`_. Spelledaren delar också ut ödespoäng som är intjänade genom `fientligt åberopande <#fientliga-aberopanden>`_ som inträffade under konflikten.
 
-Återhämta sig från en konflikt
-------------------------------
+:index:`Återhämta sig från en konflikt <pair: kamp; återhämtning>`
+------------------------------------------------------------------
 
 I slutet av varje scen suddar alla karaktärer sina stressrutor. Konsekvenser tar däremot längre tid och mer ansträngning att återhämta sig från.
 
@@ -1110,8 +1110,8 @@ Valfria regler
 
 Dessa är några valfria eller alternativa regler som du kan bestämma dig för att använda i spelet.
 
-Kondition
-=========
+:index:`Kondition <pair: konsekvens; kondition>`
+================================================
 
 **Kondition** är en ersättning för konsekvenser, och ersätter dem helt. Kondition har två syften: de förenklar för spelare och spelledare genom att inte snabbt behöva lista ut rätt uttryckt faktum för en uppkommen konsekvens, och de ger dig en möjlighet att forma spelets natur genom att fördefiniera hur bestående skador drabbar karaktärerna.
 
@@ -1191,8 +1191,8 @@ Spelledaren kan vilja avslöja närvaron av nedräkningsspåret för spelarna ut
 
 En nedräkning kan ha mer än en utlösare om du vill; kanske fortlöper nedräkningen med ett förutsägbart tempo till något inträffar som accelererar det. Du kan också ha olika utlösare för varje ruta i nedräkningsspåret om du vill att en specifik serie händelser ska leda till utfallet.
 
-Extrema konsekvenser
-====================
+:index:`Extrema konsekvenser <pair: faktum; extrem konsekvens>`
+===============================================================
 
 Extrema konsekvenser introducerar en valfri fjärde nivå av konsekvenser till ditt spel: något som permanent och oåterkallelight ändrar en karaktär.
 
@@ -1211,8 +1211,8 @@ En del grupper kan känna att tävlingar har för många försök att skapa ett 
 - Slå får `Skapa övertag`_, men ingen bonus för samarbete.
 - Ge deras samarbetsbonus för sin sidas tärningsslag för övervinna eller skapa övertag. Slå inget tärningsslag.
 
-Fullt försvar
-=============
+:index:`Fullt försvar <pair: kamp; fullt försvar>`
+==================================================
 
 Ibland vill spelare (eller spelledare) att deras karaktärer går all-in med försvar till nästa runda, istället för att utföra en handling när det är deras tur. Det kallas **fullt försvar**.
 
@@ -1233,8 +1233,8 @@ Hinder uppkommer inte i alla scener. De förstärker fienden i scenen för att g
 
 Det finns tre typer av hinder: faror, blockeringar och distraktioner.
 
-Faror
------
+:index:`Faror <pair: hinder; faror>`
+------------------------------------
 
 Om ett hinder kan attackera en spelarkaraktär så är det en fara. Eldstråle, rullande stenblock eller en krypskytt alltför långt borta för att kunna hanteras direkt - de är alla faror. Alla faror har ett namn, en färdighetsnivå och en `vapennivå <#Vapen-och-rustningsniva>`_ mellan 1 och 4.
 
@@ -1246,8 +1246,8 @@ En fara agerar i initiativet precis som spelare och deras fiender gör. Om regle
 
 Om en spelare vill övervinna eller skapa ett övertag över en fara så slår de ett motståndsslag baserat på farans färdighetsnivå.
 
-Blockeringar
-------------
+:index:`Blockeringar <pair: hinder; blockering>`
+------------------------------------------------
 
 Medan faror finns för att skada spelarkaraktärerna så hindrar **blockeringar** dem från att göra det de vill göra. Blockeringar *kan* orsaka stress, men inte alltid. Den största skillnaden mellan blockeringar och faror är att blockeringar inte agerar och är svårare att få bort. Blockeringar ger ett passivt motstånd under vissa förutsättningar och kan hota eller skada om man inte är försiktig.
 
@@ -1267,8 +1267,8 @@ Använd blockeringar sparsamt. Blockeringar gör det svårare för spelarkarakt�
 
 Ibland vill spelarna helt enkelt få bort blockeringen. För att göra det måste de övervinna med ett färdighetsslag mot blockeringens nivå plus två.
 
-Distraktioner
--------------
+:index:`Distraktioner <pair: hinder; distraktion>`
+--------------------------------------------------
 
 Där faror attackerar spelarkaraktärerna och blockeringar hindrar dem från att utföra vissa handlingar, så tvingar **distraktioner** spelarna att fundera på deras prioriteringar. Av alla hinder så är distraktioner den minst spelmekaniskt väldefinierade. De behöver inte heller nödvändigtvis göra scenen mekaniskt svårare. Snarare så erbjuder de spelarna svåra beslut. Här är distraktionens olika delar:
 
@@ -1306,11 +1306,11 @@ Skala
 
 Som exempel - du kan vill ändra listan till något som passar din kampanj bättre - så presenterar vi fem olika nivåer på skalan: Jordnära, Övernaturligt, Verklighetsfrämmande, Legendariskt och Gudalikt.
 
-- **Jordnära** representerar karaktärer utan tillgång till övernaturliga krafter eller teknologier som skulle förbättra dem bortom vad människor förmår.
-- **Övernaturligt** representerar karaktärer som har tillgång till övernaturliga krafter eller teknologier som når utanför vad människor förmår, men är fortfarande i princip människor i grund och botten.
-- **Verklighetsfrämmande** representerar ovanliga eller unika karaktärer som har krafter som särskiljer dem från människor.
-- **Legendarisk** representerar mäktiga andar, väsen och utomjordingar för vilka människor är mest en intressant detalj än ett hot.
-- **Gudalikt** representerar universum mäktigaste krafter: ärkeänglar, gudar, älvdrottningar, levande planeter och så vidare.
+- **:index:`Jordnära <pair: skala; jordnära>`** representerar karaktärer utan tillgång till övernaturliga krafter eller teknologier som skulle förbättra dem bortom vad människor förmår.
+- **:index:`Övernaturligt <pair: skala; övernaturligt>`** representerar karaktärer som har tillgång till övernaturliga krafter eller teknologier som når utanför vad människor förmår, men är fortfarande i princip människor i grund och botten.
+- **:index:`Verklighetsfrämmande <pair: skala; verklighetsfrämmande>`** representerar ovanliga eller unika karaktärer som har krafter som särskiljer dem från människor.
+- **:index:`Legendarisk <pair: skala; legendarisk>`** representerar mäktiga andar, väsen och utomjordingar för vilka människor är mest en intressant detalj än ett hot.
+- **:index:`Gudalikt <pair: skala; gudalikt>`** representerar universum mäktigaste krafter: ärkeänglar, gudar, älvdrottningar, levande planeter och så vidare.
 
 När du applicerar en skala mellan två stridande krafter eller individer, jämför varje sidas nivå och se vilken som är högre och med hur många nivåer. De får *en* av följande fördelar för varje tärningsslag mot den lägre:
 
@@ -1336,8 +1336,8 @@ Om du skapar övertag via övernaturliga vägar och *en motståndargrupp kan dir
 
 Annars så slår du tärning för att skapa övertag utan skala (troligen mot en fastställd svårighetsnivå), men senare användande av fakta ge fördelar från skalan närhelst det är rimligt.
 
-Tidsförskjutningar
-==================
+:index:`Tidsförskjutningar <pair: färdighetsslag; tidsförskjutning>`
+====================================================================
 
 När du bestämmer hur lång tid det tar för en karaktär att göra en viss handling så kanske du vill använda ett mer systematiskt tillvågagångsätt för att bestämma effekten av lyckande, misslyckande och "till kostnad". Hur mycket längre eller snabbare? Låt förskjutningarna bestämma med hjälp av dessa riktlinjer.
 
@@ -1411,8 +1411,8 @@ Denna metod fungerar särskilt väl om storskurken är en sannerligen gigantiskt
 
 Oavsett om du använder kartidén fullt ut eller helt enkelt bygger storskurken som en hög, så kommer du säkerligen få en mer dynamisk strid där storskurken agerar oftare, och spelarna måste lista ut en attackplan för att eliminera hotet del för del innan de slutligen kan besegra det.
 
-Sätt att hantera flera samtidiga mål
-====================================
+:index:`Sätt att hantera flera samtidiga mål <pair: kamp; flera mål>`
+=====================================================================
 
 Förr eller senare kommer någon vid bordet att vilja påverka flera mål samtidigt. Om det är tillåtet så finns här några metoder som du kan använda.
 
@@ -1433,9 +1433,9 @@ Vapen- och rustningsnivå
 
 Vill du få in lite av känslan med stridsutrustning som andra spel har? Då kan du överväga att använda vapen- och rustningsnivåer. I korthet så gör ett vapen mer skada medan rustning hindrar det från att inträffa. (Du kan få samma effekt med stunt men att använda stunt kanske inte känns rätt för dig.)
 
-**Vapennivå** lägger till skada vid lyckad träff. Om du har Vapen:2, så betyder det att en träff ger 2 mer i skada än normalt.Detta räknas också in för oavgjort; du ger skada mot stress vid oavgjort *istället* för att få en bonus.
+**:index:`Vapennivå <pair: kamp; vapennivå>`** lägger till skada vid lyckad träff. Om du har Vapen:2, så betyder det att en träff ger 2 mer i skada än normalt.Detta räknas också in för oavgjort; du ger skada mot stress vid oavgjort *istället* för att få en bonus.
 
-**Rustningsnivå** reducerar skadan vid lyckad träff. Rustning:2 gör att varje skada blir 2 mindre än normalt. Om du träffar men målets Rustning minskar attackens skdada till 0 eller lägre så får du en bonus du kan använda mot det målet men du gör ingen skada.
+**:index:`Rustningsnivå <pair: kamp; rustningsnivå>`** reducerar skadan vid lyckad träff. Rustning:2 gör att varje skada blir 2 mindre än normalt. Om du träffar men målets Rustning minskar attackens skdada till 0 eller lägre så får du en bonus du kan använda mot det målet men du gör ingen skada.
 
 Välj värdeområdet för nivån omsorgsfullt. Håll ett öga på hur sannolikt det är att de ger en konsekvens (eller värre) vid oavgjort. Vi rekommenderar ett värdeområde mellan 0 och 4 som mest.
 
