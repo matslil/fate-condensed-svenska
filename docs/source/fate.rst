@@ -23,7 +23,7 @@ För veteraner: Ändringar från Fate Core
 Att summera nästan 300 sidor ner till ungefär 50 sidor text leder till några ändringar. När det här ursprungligen skrevs hade det också gått åtta år sedan *Fate Core System* skapades, så lite ändringar i utformningen är bara att förvänta. I synnerhet skulle vi vilja lyfta fram följande:
 
 - Vi har bytt till `enpoängs stressrutor <#stress>`_ för att minska förvirringen.
-- `"Balsera style initiative <#turordning>`_ (även känt som "elective action order" eller "popcorn initiative" är det normala istället för att använda färdigheter för att utröna turordning.
+- `"Balsera style initiative" <#turordning>`_ (även känt som "elective action order" eller "popcorn initiative" är det normala istället för att använda färdigheter för att utröna turordning.
 - `Karriär <#karriar>`_ fungerar lite annorlunda; vi har tagit bort signifikanta milstenar och lagt till genombrott för att kompensera.
 - Vi har tagit bort aktivt motstånd som något separat från handlingen `försvara sig <#forsvar>`_. Det har några mindre konsekvenser, i synnerhet `övervinna motstånds resultat oavgjort <#overvinna-motstand>`_.
 - `Skapa övertag <#skapa-ett-overtag>`_ har ändrats för att skapa mer klarhet och möjlighet att upptäcka befintliga okända fakta.
@@ -1451,4 +1451,22 @@ Så fort du sätter dig ner och skapar spelet och karaktärerna, så spelar du �
 **För det andra, det sätter scenen för nästa del i historien.** Varje vändning i historien sätter upp scenen för nästa, så att de flyter ihop till en naturlig evolution. Karaktärsskapandet behöver sätta upp den första `vändningen <#spelsessioner-och-vandningar>`_.
 
 **För det tredje, karaktärsskapandet är ett samarbete.** I likhet med spelskapandet, karaktärsskapandet görs bäst som en gruppaktivitet. Det bygger ett starkare kommunikationsfundament mellan spelare och spelledare, och denna process har ett antal olika sätt att etablera samband mellan olika karaktärer och spelmiljön.
+
+Tillsammans med spelskapandet, skapa karaktärer kan ta en hel spelsession att göra - det ger en möjlighet för alla att lära känna världen och de andras karaktärer. Du och de andra spelarna kommer att prata om din karaktär, utbyta förslag med varandra, diskutera hur de är relaterade och etablera mer om spelmlijön.
+
+Du vill föra bra anteckningar under denna process. Du kan använda karaktärsbladet och arbetsbladet för karaktärsskapande som kan laddas ner från `FateRPG.com <https://www.faterpg.com/>`.
+
+Börja med att bestämma din karaktärs övergripande faktum och problem. Bygg sedan upp din karaktärs bakgrundshistoria, en process som äger rum i tre faser. När du har gått igenom det, bygg på med din karaktärs färdigheter och stunt. Sedan är du redo att börja spela!
+
+.. admonition:: När du skapar din karaktär
+
+   - **Fakta**: Bestäm din karaktärs övergripande faktum och problem.
+   - **Namn**: Namnge din karaktär.
+   - **Fas ett**: Beskriv din karaktärs första äventyr.
+   - **Fas två och tre**: Beskriv hur dina vägar har korsats med två andra karaktärer.
+   - **Fakta**: Anteckna en aspekt för varje fas.
+   - **Färdigheter**: Välj färdigheter och deras nivåer.
+   - **Stunt**: Välj eller uppfinn tre till fem stunt.
+   - **Påfyllning**: Bestäm hur många ödespoäng du börjar spelet med.
+   - **Stress och konsekvenser**: Bestäm hur mycket stryk din karaktär tål.
 
