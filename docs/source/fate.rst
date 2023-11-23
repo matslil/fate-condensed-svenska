@@ -901,17 +901,17 @@ En strid avslutas när alla på ena sidan av striden antingen har gett upp eller
 :index:`Återhämta sig från en konflikt <pair: kamp; återhämtning>`
 ------------------------------------------------------------------
 
-I slutet av varje scen suddar alla karaktärer sina stressrutor. Konsekvenser tar däremot längre tid och mer ansträngning att återhämta sig från.
+I slutet av varje scen suddar alla karaktärer sina tillfälliga skador. Bestående skador tar däremot längre tid och mer ansträngning att återhämta sig från.
 
-För att starta **återhämtningsprocessen** måste den person som behandlar din skada lyckas med handlingen övervinna motstånd med lämplig färdighet. Fysiska skador läks typiskt genom att använda kunskaper inom Akademi, mentala konsekvenser läks med Empati. Svårighetsnivån för handlingen övervinna motstånd avgörs av hur allvarlig konsekvensen är:
+För att starta **återhämtningsprocessen** måste den person som behandlar din skada lyckas med handlingen övervinna motstånd med lämplig färdighet. Fysiska skador läks typiskt genom att använda kunskaper inom Bildning, mentala konsekvenser läks med Empati. Svårighetsnivån för handlingen övervinna motstånd avgörs av hur allvarlig den bestående skadan är:
 
-==========  ===============  ==================================================
-Konsekvens  Svårighetsnivå   Tid för läkning efter avslutad behandling
-==========  ===============  ==================================================
-mild        Hyffsad (+2)     En scen
-medelsvår   Utmärkt (+4)     En spelomgång
-svår        Fantastisk (+6)  Kräver att man passerat en `milsten <#milstenar>`_
-==========  ===============  ==================================================
+===============  ===============  ==================================================
+Bestående skada  Svårighetsnivå   Tid för läkning efter avslutad behandling
+===============  ===============  ==================================================
+mild             Hyffsad (+2)     En scen
+medelsvår        Utmärkt (+4)     En spelomgång
+svår             Fantastisk (+6)  Kräver att man passerat en `milsten <#milstenar>`_
+===============  ===============  ==================================================
 
 =======
 Karriär
@@ -926,9 +926,9 @@ Milstenar inträffar i slutet av varje spelsession som ett delsteg inför en vä
 
 Under en milsten kan du göra en av följande:
 
-- Byta nivåer på två färdigheter, eller ersätt en färdighet på nivå Ordinär (+1) med en som inte finns på karaktärsbladet.
-- Skriva om en stunt.
-- Köpa en ny stunt genom att spendera en påfyllning. (Kom ihåg att du inte kan ha lägre än 1 i påfyllning.)
+- Öka nivån på två färdigheter, eller ersätt en färdighet på nivå Ordinär (+1) med en som inte finns på karaktärsbladet.
+- Skriva om en specialförmåga.
+- Köpa en ny specialförmåga genom att spendera en påfyllning. (Kom ihåg att du inte kan ha lägre än 1 i påfyllning.)
 - Skriva om ett av dina fakta, utom huvudfaktumet.
 
 Genombrott
@@ -937,12 +937,12 @@ Genombrott
 Genombrott är större och låter din karaktär att utvecklas och bli mäktigare. Ett genombrott låter dig välja en sak från milstenslistan. Utöver det får du göra **en eller flera** av nedanstående alternativ:
 
 - Skriva om din karaktärs huvudfaktum.
-- Om du har något medelsvår eller svår konsekvens som inte är behandlad än, får du se dem som behandlade och döpa om dem. Alla konsekvenser som redan var under behandling får tas bort.
+- Om du har något medelsvår eller svår bestående skada som inte är behandlad än, får du se dem som behandlade och döpa om dem. Alla bestående skador som redan var under behandling får tas bort.
 - Öka färdighetsnivån på en färdighet - även från Medioker (+0) till Ordinär (+1).
 
 Om spelledaren tycker att berättelsen har avslutat en viktig handling i berättelsen och det är dags att göra karaktärerna märkbart bättre så kan de bli erbjudna ena eller båda av följande alternativ:
 
-- Få ett poäng påfyllning, som kan användas omedelbart för att köpa en ny stunt med om du vill.
+- Få ett poäng påfyllning, som kan användas omedelbart för att köpa en ny specialförmåga med om du vill.
 - Öka en färdighet till med ett steg.
 
 Förbättra färdighetsnivåer
@@ -950,7 +950,7 @@ Förbättra färdighetsnivåer
 
 När du förbättrar en färdighetsnivå måste du behålla "kolumn"-strukturen. Varje färdighetsnivå får inte ha fler färdigheter än nivån under, oräknat nivån Medioker (+0). Det betyder att du kan behöva öka några färdigheter från Medioker (+0) först - eller spara ett antal färdighetsnivåer istället för att använda dem på en gång, och låta dig gå upp många färdighetsnivåer vid ett tillfälle.
 
-Ruth vill öka sin Mysticism från Ordinär (+1) till Hyffsad (+2), men den skulle innebära att hon får fyra färdigheter på nivå Hyffsad (+2) men bara tre på nivån Medioker (+1) ... det duger inte. Lyckligtvis har hon sparat en färdighetsnivå från tidigare så hon ökar också sin färdighet Empati från Medioker (+0) till Hyffsad (+1). Nu får hon on Utmärkt (+4), två God (+3), fyra Hyffad (+2) och fyra Medioker (+1).
+Ruth vill öka sin Magi från Ordinär (+1) till Hyffsad (+2), men det skulle innebära att hon får fyra färdigheter på nivå Hyffsad (+2) men bara tre på nivån Medioker (+1) ... det duger inte. Lyckligtvis har hon sparat en färdighetsnivå från tidigare så hon ökar också sin färdighet Empati från Medioker (+0) till Hyffsad (+1). Nu får hon en Utmärkt (+4), två God (+3), fyra Hyffad (+2) och fyra Medioker (+1).
 
 Pyramid, giltig:
 
@@ -1005,7 +1005,7 @@ En :index:`spelsession <pair: kampanj; spelsession>` består av ett antal scener
 
 En :index:`vändning <pair: kampanj; vändning>` är en serie spelsessioner som har en röd tråd som löper mellan spelsessionerna. Denna röda tråd behöver inte vara färdig inom en vändning, men berättelsen brukar ha gjort en signifikant utveckling och ändrat riktning. Jämför med tredjedel eller halvsäsong för TV-serien. Det brukar spänna över fyra spelsessioner.
 
-Om ditt spel faller utanför dessa "brukar"-intervaller så kan du tänkas vilja ändra på hur milstenar fungerar. Om dina vändningar tar mer än fyra till sex spelsessioner att spela så kan du tänkas vilja låta svåra konsekvenser läka efter fyra spelsessioner istället för att vänta på en vändning. Om du vill att utvecklingen ska gå långsammare kan du ge färdighetsnivåer och påfyllnad mer sällan. Om din grupp tenderar att ha korta spelsessioner kanske inte varje spelsessioner avslutas med milsten. Spelet är ditt att forma så som du vill ha det!
+Om ditt spel faller utanför dessa "brukar"-intervaller så kan du tänkas vilja ändra på hur milstenar fungerar. Om dina vändningar tar mer än fyra till sex spelsessioner att spela så kan du tänkas vilja låta svåra bestående skador läka efter fyra spelsessioner istället för att vänta på en vändning. Om du vill att utvecklingen ska gå långsammare kan du ge färdighetsnivåer och påfyllnad mer sällan. Om din grupp tenderar att ha korta spelsessioner kanske inte varje spelsessioner avslutas med milsten. Spelet är ditt att forma så som du vill ha det!
 
 ===================
 Att vara spelledare
@@ -1019,14 +1019,14 @@ Som spelledare är du regissören för spelessionerna. Tänk dock på att du int
 - **Bestäm kostnaden för misslyckande**: När karaktärerna kastar tärningar och misslyckas så är det du som avgör vad kostnaden för att lyckas mot en kostnad blir. Du kan absolut lyssna på förslag från spelaren - de kanske vet hur de vill att deras karaktär ska råka illa ut - men i slutändan så är det du som bestämmer.
 - **Spela spelledarpersonerna**: Varje spelare kontrollerar deras egen karaktär, men du kontrollerar resten, från kultmedlemmarna till monstren till Stora Stygga.
 - **Ge spelarna möljighet till handling**: Om spelarna inte vet vad de ska göra härnäst, så är ditt jobb att ge dem ledtrådar om vad de kan göra. Låt det aldrig bli fastkört i obeslutsamhet eller brist på information - gör något som rör till det hela. När du är osäker tänk då på Stora Styggas taktik och mål för att skapa bekymmer för hjältarna.
-- **Se till att alla får stå i rampljuset**: Ditt mål är inte att besegra spelarna, utan att utmana dem. Se till att alla spelare får chansen att få vara stjärnan någon gång ibland. Sprid betvinganden och utmaningar skräddarsydda för karaktärernas olika förmågor och svagheter.
-- **Gör spelarens liv mer komplicerat**: Utöver att slänga in monster mot karaktärerna så kommer du vara den primära källan till betvinganden. Spelare kan betvinga sig själva eller andra karaktärer förstås men du måste se till att alla får chansen att uppleva den negativa sidan av sina fakta.
+- **Se till att alla får stå i rampljuset**: Ditt mål är inte att besegra spelarna, utan att utmana dem. Se till att alla spelare får chansen att få vara stjärnan någon gång ibland. Dela ut erbjudanden om komplikationer och utmaningar skräddarsydda för karaktärernas olika förmågor och svagheter.
+- **Gör spelarens liv mer komplicerat**: Utöver att slänga in monster mot karaktärerna så kommer du vara den primära källan till komplikationer. Spelare kan föreslå och acceptera komplikation för sig själva eller andra karaktärer men du måste se till att alla får chansen att uppleva den negativa sidan av sina fakta.
 - **Bygg vidare på spelarnas val**: Titta på vilka val spelarna har gjort under spelet och fundera på hur världen ändras och reagerar på det. Få världen att kännas levande genom att låta spelarna möta dessa konsekvenser - bra och dåliga - i sitt spelande.
 
 Sätta svårighetsnivå och motstånd
 =================================
 
-Ibland kommer en spelares handling möta på motstånd från en annan karaktär i scenen. I dessa fall kommer motståndarkaraktären att slå tärningar och lägga på relevant färdighetsnivå, precis som spelaren. Om motståndarkaraktären har relevanta fakta så kan de bli åberopade; spelledaren kan åberopa spelledarpersonernas fakta med hjälp av `ödespoängerna som de har <#Dina ödespoäng>`_.
+Ibland kommer en spelares handling möta på motstånd från en annan karaktär i scenen. I dessa fall kommer motståndarkaraktären att slå tärningar och lägga på relevant färdighetsnivå, precis som spelaren. Om motståndarkaraktären har relevanta fakta så kan de användas; spelledaren kan använda spelledarpersonernas fakta med hjälp av `ödespoängerna som de har <#Dina ödespoäng>`_.
 
 Med om det inte finns något motstånd så behöver du bestämma en **svårighetsnivå** för handlingen:
 
@@ -1042,7 +1042,7 @@ Om du kan tänka på åtminstone en anledning varför uppgiften skulle vara svå
 
 När du tänker på dessa faktorer tänk på vilka fakta som är i spel. Om något är viktigt nog för att bli ett faktum så förtjänar det lite uppmärksamhet här. Eftersom `fakta alltid är sanna <#fakta-ar-alltid-sanna>`_ så kan de ha ett inflytande på hur lätt eller svårt något borde vara. Det innebär förstås inte att fakta är den enda faktorn att ta hänsyn till! Mörker är mörker oavsett om du beslutat att det är ett faktum eller inte i scenen.
 
-Om uppgiften blir omöjligt svår sätt den så högt som du anser är rimligt. Spelaren kommer att behöva använda ödespoäng och få en massa hjälp för att kunna lyckas, men det är helt i sin ordning.
+Om uppgiften är omöjligt svår sätt den så högt som du anser är rimligt. Spelaren kommer att behöva använda ödespoäng och få en massa hjälp för att kunna lyckas, men det är helt i sin ordning.
 
 För ytterligare idéer för hur du kan skapa varierade och intressanta motståndare och antagonister för dina spelare, titta på `Fate Advesary Toolkit <https://fate-srd.com/fate-adversary-toolkit>`_,  tillgänglig för försäljning som PDF eller med de viktiga beståndsdelarna fritt tillgängliga på Fate SRD.
 
@@ -1056,36 +1056,36 @@ Huvudspelledarpersoner
 
 Om någon är särskilt viktig för berättelsen så kan du beskriva dem precis som för spelarkaraktärer. Det är lämpligt om det är någon som spelarna kommer att möta flera gånger, såsom en allierad, rival, representant för en mäktig grupp, eller Storbossen.
 
-En huvudspelledarperson behöver inte följa samma begränsningar som när man skapar en spelarkaraktär. Om spelledarpersonen ska bli ett återkommande hot på bossnivå, ge honom eller henne högre nivå i de bästa färdigheterna (see `Sätta svårighetsnivå och motstånd`_), mer stunts och vad annat som krävs för att göra dem till en fara.
+En huvudspelledarperson behöver inte följa samma begränsningar som när man skapar en spelarkaraktär. Om spelledarpersonen ska bli ett återkommande hot på bossnivå, ge honom eller henne högre nivå i de bästa färdigheterna (see `Sätta svårighetsnivå och motstånd`_), mer specialförmågor och vad annat som krävs för att göra dem till en fara.
 
 Bispelledarperson
 -----------------
 
-Spelledarpersoner som inte behöver vara viktiga, återkommande karaktärer behöver inte vara i närheten så väldefinierade som en huvudspelledarperson. För mindre viktiga spelledarpersoner beskriv bara det som är mest nödvändigt.
+Spelledarpersoner som inte är viktiga behöver inte vara i närheten så väldefinierade som en huvudspelledarperson. För mindre viktiga spelledarpersoner beskriv bara det som är mest nödvändigt.
 
-De flesta bispelledarpersonerna har bara ett faktum som säger precis vad de är: **Vakthund**, **Obstruerande byråkrat** eller **Arg kultmedlem**.
+De flesta bispelledarpersoner har bara ett faktum som säger precis vad de är: **Vakthund**, **Obstruerande byråkrat** eller **Arg kultmedlem**.
 
-Om det är nödvändigt så ge dem ytterligare ett faktum eller två för att fånga vad som är intressant med dem eller vad de har för svagheter. De kan också ha stunt.
+Om det är nödvändigt så ge dem ytterligare ett faktum eller två för att fånga vad som är intressant med dem eller vad de har för svagheter. De kan också ha en specialförmåga.
 
 Ge dem en eller två färdigheter som beskriver vad de är bra på. Du kan välja en färdighet från färdighetslistan eller hitta på något mer specifikt, exempelvis Hyffsad (+2) på att Starta krogslagsmål eller Utmärkt (+4) på att Bita folk.
 
-Ge dem noll till tre stressrutor; ju fler de har desto större hot kan de bli. De har vanligen inga konsekvensrutor; om de får större skada än vad de kan absorbera med stress så blir de helt enkelt utslagna. Bispelledarpersoner är inte tänkta att ha kvar.
+Ge dem noll till tre rutor för tillfälliga skador; ju fler de har desto större hot kan de bli. De har vanligen inga rutor för bestående skador; om de får större skada än vad de kan absorbera med tillfälliga skador så blir de helt enkelt utslagna. Bispelledarpersoner är inte tänkta att ha kvar.
 
 Monster, storskurken och andra hot
 ----------------------------------
 
-Liksom bispelledarpersoner så skrivs monster och andra hot (såsom storm, eld som sprider sig eller en skvadron med hejdukar i rustning) som karaktärer, men enklare än spelarkaraktärer. Du behöver bara beskriva det allra mest nödvändiga. Till skillnad från bispelledarpersoner så kan dessa hot beskrivas på vilket sätt som helst. Bryt mot reglerna. Ge dem vilken kombination av fakta, färdigheter, stunt, stress och konsekvenser som krävs för att göra dem farliga, och tänk på vilket sorts fara som de ska erbjuda spelarkaraktärerna när du avgöra deras nivåer.
+Liksom bispelledarpersoner så skrivs monster och andra hot (såsom storm, eld som sprider sig eller en skvadron med hejdukar i rustning) som karaktärer, men enklare än spelarkaraktärer. Du behöver bara beskriva det allra mest nödvändiga. Till skillnad från bispelledarpersoner så kan dessa hot beskrivas på vilket sätt som helst. Bryt mot reglerna. Ge dem vilken kombination av fakta, färdigheter, specialförmågor, rutor tillfälliga och bestående skador som krävs för att göra dem farliga, och tänk på vilket sorts fara som de ska erbjuda spelarkaraktärerna när du avgöra deras nivåer.
 
 Dina ödespoäng
 ==============
 
-I början av varje scen börja med en hög med ödepoäng där det är ett ödespoäng per spelare. Om scenen inkluderar en huvudspelledarperson eller monster som gav upp i en tidigare strid, eller fick `fientligt åberopande`_ i en tidigare scen, lägg dessa ödespoäng till högen. Om du fick betvinganden i tidigare scenen som avslutade den scenen så du inte hade chans att använda dessa ödespoäng, så kan du lägga till dem också till högen.
+Börja varje scen med en hög ödepoäng där det är ett ödespoäng per spelare. Om scenen inkluderar en huvudspelledarperson eller monster som gav upp i en tidigare strid, eller fick `utnyttjande`_ i en tidigare scen, lägg dessa ödespoäng till högen. Om du accepterade komplikation i tidigare scen som avslutade den scenen så du inte hade chans att använda dessa ödespoäng, så kan du lägga till dem också till högen.
 
-Charles, Rigth, Cassandra och Ethan närmar sig den avslutande striden mot Alice Westforth. Hon undkom hjältarna tidigare genom att ge upp efter att ha tagit en medelsvår konsekvens. Det betyder att spelledaren får fyra ödespoäng för spelarna och två till för de som Alice tar med sig.
+Charles, Rigth, Cassandra och Ethan närmar sig den avslutande striden mot Alice Westforth. Hon undkom hjältarna tidigare genom att ge upp efter att ha tagit en medelsvår bestående skada. Det betyder att spelledaren får fyra ödespoäng för spelarna och två till för de som Alice tar med sig.
 
-Som spelledare kan du spendera ödespoäng från denna hög för att åberopa fakta, vägra betvinganden som spelare gör mot spelledarpersoner, och använda stunts för spelledarpersoner som kräver det - allt precis så som spelarna gör.
+Som spelledare kan du spendera ödespoäng från denna hög för att använda fakta, vägra komplikationer som spelare gör mot spelledarpersoner, och använda specialförmågor för spelledarpersoner som kräver det - allt precis så som spelarna gör.
 
-**Däremot behöver du inte spendera ödespoäng för att betvinga något faktum.** Du har oändligt antal ödespoäng för detta.
+**Däremot behöver du inte spendera ödespoäng för att erbjuda en komplikation för något faktum.** Du har oändligt antal ödespoäng för detta.
 
 Trygghetsverktyg
 ================
@@ -1095,7 +1095,7 @@ Spelledaren (och sannerligen, spelarna också) har ett ansvar att se till att al
 - **X-kortet**: X-kortet är ett valfritt verktyg (skapad av John Stavropoulos) som låter alla i spelet (dig inkluderad) att redigera ut innehåll som du känner dig obekväm med att spela. Du kan lära dig mer om X-kortet på http://tinyurl.com/x-card-rpg.
 - **RPG-verktygslåda ändra manus**: För något mer nyanserat och granulärt kan du titta på ändra manus av Brie Beau Sheldon, som ger möjlighet att pausa, spola tillbaka, hoppa framåt och mer genom familjära begrepp från mediespelare. Lär dig mer om Ändra manus på http://tinyurl.com/nphed7m.
 
-Verktyg som dessa kan också användas som `falskregel <#Åberopa ett faktum>`_ för kalibrering. De erbjuder ett sätt för spelarna att på ett bekvämt sätt propagera för vad de vill få ut av spelet. Ge dessa verktyg den respekt och uppmuntran som de förtjänar!
+Verktyg som dessa kan också användas som `falskregel <#Använda ett faktum>`_ för kalibrering. De erbjuder ett sätt för spelarna att på ett bekvämt sätt propagera för vad de vill få ut av spelet. Ge dessa verktyg den respekt och uppmuntran som de förtjänar!
 
 ==============
 Valfria regler
@@ -1103,12 +1103,12 @@ Valfria regler
 
 Dessa är några valfria eller alternativa regler som du kan bestämma dig för att använda i spelet.
 
-:index:`Kondition <pair: konsekvens; kondition>`
+:index:`Mående <pair: bestående skada; mående>`
 ================================================
 
-**Kondition** är en ersättning för konsekvenser, och ersätter dem helt. Kondition har två syften: de förenklar för spelare och spelledare genom att inte snabbt behöva lista ut rätt uttryckt faktum för en uppkommen konsekvens, och de ger dig en möjlighet att forma spelets natur genom att fördefiniera hur bestående skador drabbar karaktärerna.
+**Mående** är en ersättning för bestående skador, och ersätter dem helt. Mående har två syften: de förenklar för spelare och spelledare genom att inte snabbt behöva lista ut rätt uttryckt faktum för en uppkommen bestående skada, och de ger dig en möjlighet att forma spelets natur genom att fördefiniera hur bestående skador drabbar karaktärerna.
 
-Öde - Kortfattad version tar varje konsekvensnivå och delar det i två konditioner med halva värdet var.
+Öde - Kortfattad version tar varje nivå av bestående skador och delar det i två måenden med halva värdet var.
 
 **[1] Sårad** (Mild) **[1] Rädd** (Mild)
 **[2] Skadad** (Medelsvår) **[2] Omskakad** (Medelsvår)
@@ -1116,21 +1116,21 @@ Dessa är några valfria eller alternativa regler som du kan bestämma dig för 
 
 Dessa omfattar både fysiskt och mentalt tillstånd - bara för att du får en fysisk skada betyder inte att du inte kan få mental skada också, och vice versa, så länge det är rimligt. Attacker är traumatiserande!
 
-Konditioner läks på samma sätt som med konsekvenser, baserat på deras nivå.
+Mående läks på samma sätt som med bestående skador, baserat på deras nivå.
 
-Om du får en extra mild konsekvens, lägg istället till två rutor till på antingen **Sårad** eller **Rädd**, beroende på konsekvens.
+Om du får en extra mild bestående skada, lägg istället till två rutor till på antingen **Sårad** eller **Rädd**, beroende på typ av bestående skada.
 
-Flytta isär konditioner
------------------------
+Flytta isär mående
+------------------
 
-Om du föredrar att separarera fysiska och mentala konditioner, dubblera antalet rutor för vardera. Med det sagt så finns det en gräns; om totalt två rutor är markerade för endera kondition för en given rad (nivå), får inga fler rutor kryssas för den raden. Så om du har en ruta (av två) markerad för **Sårad** och ingen på **Rädd**, och sedan kryssar i antingen en andra ruta för **Sårad** eller första rutan för **Rädd** så får du inte kryssa i fler rutor på den raden.
+Om du föredrar att separarera fysiskt och mentalt mående, dubblera antalet rutor för vardera. Med det sagt så finns det en gräns; om totalt två rutor är markerade för endera mående för en given rad (nivå), får inga fler rutor kryssas för den raden. Så om du har en ruta (av två) markerad för **Sårad** och ingen på **Rädd**, och sedan kryssar i antingen en andra ruta för **Sårad** eller första rutan för **Rädd** så får du inte kryssa i fler rutor på den raden.
 
-Om du får extra mild konsekvensruta (från hög Sport, Vilja eller från en stunt) lägg istället till två rutor till på **Sårad** eller **Rädd** beroende på typ av konsekvens. Dessa extra rutor ökar gränsen för den raden, ett för ett.
+Om du får extra ruta för mild bestående skada (från hög Smidighet, Vilja eller från en specialförmåga) lägg istället till två rutor till på **Sårad** eller **Rädd** beroende på typ av bestående skada. Dessa extra rutor ökar gränsen för den raden, ett för ett.
 
-Andra versioner av konditioner
-------------------------------
+Andra versioner av mående
+-------------------------
 
-Flera publiserade Ödesbaserade spel använder kondition istället för konsekvenser. Du kan anamma deras implementation av kondition istället för denna, om de passar dig bättre. De uppfyller alla samma mål i spelet: att försöka lista ut konsekvenser mitt i spelets gång, och guida spelets natur genom att begränsa vilka typer av bestående skador en karaktär kan få.
+Flera publiserade Ödesbaserade spel använder mående istället för bestående skador. Du kan anamma deras implementation av mående istället för denna, om de passar dig bättre. De uppfyller alla samma mål i spelet: att försöka lista ut konsekvenser mitt i spelets gång, och guida spelets natur genom att begränsa vilka typer av bestående skador en karaktär kan få.
 
 Ändra listan över färdigheter
 =============================
