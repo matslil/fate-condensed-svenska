@@ -1135,7 +1135,7 @@ Flera publiserade Ödesbaserade spel använder mående istället för bestående
 Ändra listan över färdigheter
 =============================
 
-Som har nämnts tidigare så är `färdighetslistan det första du bör fundera på när du vill ändra <#Alternativ färdighetslista>`_ på Ödes spelregler. Exempellistan har 19 färdigheter som är arrangerade i en pyramid av 10. Listan är strukturerad kring begreppet förmåga och svarar egentligen på frågan "vad kan du göra?". Andra listor på färdigheter behöver inte vara av samma längd, arrangerad på samma sätt eller svara på samma fråga. Med det sagt, här är några korta färdighetslistor som du kan överväga, låna eller modifiera.
+Som har nämnts tidigare så är `färdighetslistan är det första du bör fundera på när du vill ändra <#Alternativ färdighetslista>`_ på Ödes spelregler. Exempellistan har 19 färdigheter som är arrangerade i en pyramid av 10. Listan är strukturerad kring begreppet förmåga och svarar egentligen på frågan "vad kan du göra?". Andra listor på färdigheter behöver inte vara av samma längd, arrangerad på samma sätt eller svara på samma fråga. Med det sagt, här är några korta färdighetslistor som du kan överväga, låna eller modifiera.
 
 - Action: Uthärda, Slåss, Veta, Förflytta, Notera, Köra, Smyga, Tala, Pilla.
 - Tillvägagångsätt: Försiktig, Smart, Elegant, Kraftfull, Snabb, Lömsk.
@@ -1146,7 +1146,7 @@ Som har nämnts tidigare så är `färdighetslistan det första du bör fundera 
 - Teman: Luft, Eld, Metall, Sinne, Sten, Tomrum, Vatten, Vind, Trä.
 - Värderingar: Plikt, Ära, Rättvisa, Kärlek, Makt, Trygghet, Sanning, Hämnd.
 
-Om du vill ha en längre lista börja med exempellistan och lägg till, kombinera och ta bort färdigheter efter tycke och smak tills du får det du är ute efter. Du kan också blanda två eller fler av ovanstående listor.
+Om du vill ha en längre lista kan du börja med exempellistan och lägg till, kombinera och ta bort färdigheter efter tycke och smak tills du får det du är ute efter. Du kan också blanda två eller fler av ovanstående listor.
 
 **Karriär**: Ju färre antal färdigheter i din lista jämfört med exempellistan desto mer sällan vill du ge färdighetspoäng som resultat av karriär. Kanske bara tillåta det under `Genombrott`_, eller begränsa på annat sätt.
 
@@ -1165,7 +1165,7 @@ Skapa karaktär under spelets gång
 
 Om spelarna är bekväma med att göra snabba kreativa beslut i stunden så kan de tänkas vilja skapa sina karaktärer *medan de spelar* snarare än i förväg. Detta imiterar hur karaktärer avslöjar sig och utvecklas i andra medier. Det är inte för alla men för de som det passar kan det bli riktigt bra.
 
-Med denna metod börjar karaktären bara med namn, övergripande faktum och bästa färdigheten - om ens det! Allteftersom spelet fortlöper och spelaren blir ombedd att slå mot en färdighet han inte har valt än, kan de välja att fylla en tom ruta för färdigheter med denna färdighet och avslöja sina kunskaper för gruppen. På liknande sätt kan fakta och stunt fyllas i allteftersom behovet uppstår, precis när ett ödespoäng spenderas eller när karaktären får en bonus.
+Med denna metod börjar karaktären bara med namn, övergripande faktum och bästa färdigheten - om ens det! Allteftersom spelet fortlöper och spelaren blir ombedd att slå mot en färdighet han inte har valt än, kan de välja att fylla en tom ruta för färdigheter med denna färdighet och avslöja sina kunskaper för gruppen. På liknande sätt kan fakta och specialförmåga fyllas i allteftersom behovet uppstår, precis när ett ödespoäng spenderas eller när karaktären får en bonus.
 
 Nedräkningar
 ============
@@ -1174,9 +1174,9 @@ En nedräkning skapar känsla av tidsbrist inför en motståndare eller situatio
 
 Nedräkning har tre komponenter: nedräkningsspår, en eller fler utlösare och ett utfall.
 
-**Nedräkningsspåret** ser väldigt mycket ut som stress: det är en rad rutor som du markerar från vänster till höger. Varje gång du kryssar i en ruta närmar sig nedräkningen noll. Ju kortare spår desto snabbare närmar sig deras undergång.
+**Nedräkningsspåret** ser väldigt mycket ut som rutor för tillfälliga skador: det är en rad rutor som du markerar från vänster till höger. Varje gång du kryssar i en ruta närmar sig nedräkningen noll. Ju kortare spår desto snabbare närmar sig deras undergång.
 
-**Utlösare** är en händelse som kryssar för en ruta i nedräkningsspåret. Det kan vara så enkelt som "en minut/timme/dag har passerat" eller specifikt såsom "en brottsling får en konsekvens eller blir satt ur spel."
+**Utlösare** är en händelse som kryssar för en ruta i nedräkningsspåret. Det kan vara så enkelt som "en minut/timme/dag har passerat" eller specifikt såsom "en brottsling får en bestående skada eller blir satt ur spel."
 
 När sista rutan har markerats avslutas nedräkningen och **utfallet** inträffar, vad det nu är.
 
@@ -1184,16 +1184,16 @@ Spelledaren kan vilja avslöja närvaron av nedräkningsspåret för spelarna ut
 
 En nedräkning kan ha mer än en utlösare om du vill; kanske fortlöper nedräkningen med ett förutsägbart tempo till något inträffar som accelererar det. Du kan också ha olika utlösare för varje ruta i nedräkningsspåret om du vill att en specifik serie händelser ska leda till utfallet.
 
-:index:`Extrema konsekvenser <pair: faktum; extrem konsekvens>`
+:index:`Extrema bestående skador <pair: faktum; extrem bestående skada>`
 ===============================================================
 
-Extrema konsekvenser introducerar en valfri fjärde nivå av konsekvenser till ditt spel: något som permanent och oåterkallelight ändrar en karaktär.
+Extrema bestående skador introducerar en valfri fjärde nivå av bestående skador till ditt spel: något som permanent och oåterkallelight ändrar en karaktär.
 
-Att ta en extrem konsekvens minskar stress med 8. När du tar den måste du **ersätta** ett av din karaktärs existerande fakta (utom den översiktliga konsekvensen, den är inte tillgänglig) med ett faktum som återspeglar den genomgripande ändring som karaktären genomgår på grund av den skada karaktären fick.
+Att ta en extrem bestående skada minskar skadenivån med 8. När du tar den måste du **ersätta** ett av din karaktärs existerande fakta (utom den översiktliga faktumet, den är inte tillgänglig) med ett faktum som återspeglar den genomgripande ändring som karaktären genomgår på grund av den skada karaktären fick.
 
-Normalt sett så finns inget sätt att återhämta sig från en extrem konsekvens. Den har nu blivit en del av karaktären nu. Vid nästa genombrott kan du döpa om den för att återspegla hur du förlikat dig med den, men du kan inte återgå till föregående faktum.
+Normalt sett så finns inget sätt att återhämta sig från en extrem bestående skada. Den har nu blivit en del av karaktären. Vid nästa genombrott kan du döpa om den för att återspegla hur du förlikat dig med den, men du kan inte återgå till föregående faktumet.
 
-En karaktär kan bara använda denna konsekvens en gång mellan varje genombrott.
+En karaktär kan bara använda denna bestående skada en gång mellan varje genombrott.
 
 Snabbare tävlingar
 ==================
@@ -1231,11 +1231,11 @@ Det finns tre typer av hinder: faror, blockeringar och distraktioner.
 
 Om ett hinder kan attackera en spelarkaraktär så är det en fara. Eldstråle, rullande stenblock eller en krypskytt alltför långt borta för att kunna hanteras direkt - de är alla faror. Alla faror har ett namn, en färdighetsnivå och en `vapennivå <#Vapen-och-rustningsniva>`_ mellan 1 och 4.
 
-Farans namn är både en färdighet och ett faktum; det vill säga namnet berättar vad faran kan göra och dess färdighetsnivå berättar hur bra den är på det, men namnet kan också bli åberopad eller betvingad som med vilket annat faktum som helst.
+Farans namn är både en färdighet och ett faktum; det vill säga namnet berättar vad faran kan göra och dess färdighetsnivå berättar hur bra den är på det, men namnet kan också bli använd eller erbjudas som komplikation som med vilket annat faktum som helst.
 
 Rent generellt bör en faras färdighetsnivå vara åtminstone lika hög som en spelarkaraktärs högsta färdighetsnivå, om inte lite högre. En fara med väldigt hög färdighetsnivå *och* väldigt hög Vapennivå kommer troligen ta en spelarkaraktär eller två ur spel. Du kan också göra en fara med en lägre färdighetsnivå men en högre vapennivå, vilket gör att den träffar mer sällan men slår hårt när den väl gör det. Omvänt får man en fara som träffar ofta men gör liten skada varje gång.
 
-En fara agerar i initiativet precis som spelare och deras fiender gör. Om reglerna föreskriver att alla ska slå för sitt initiativ så slår faror mer deras nivå. Under sin tur varje runda så agerar faran enligt sitt namn och slår enligt sin nivå. Om en attack får oavgjort eller bättre lägg till Vapennivå till skadan. Faror kan attackera eller skapa övertag; de kan inte attackeras och de kan inte övervinna hinder.
+En fara agerar i initiativet precis som spelare och deras fiender gör. Om reglerna föreskriver att alla ska slå för sitt initiativ så slår faror med deras nivå. Under sin tur varje runda så agerar faran enligt sitt namn och slår enligt sin nivå. Om en attack får oavgjort eller bättre lägg till Vapennivå till skadan. Faror kan attackera eller skapa övertag; de kan inte attackeras och de kan inte övervinna hinder.
 
 Om en spelare vill övervinna eller skapa ett övertag över en fara så slår de ett motståndsslag baserat på farans färdighetsnivå.
 
