@@ -266,7 +266,7 @@ Din nivå i färdigheten Smidighet påverkar hur många fysiska rutor för tillf
    Hyffsad (+2)                      [1][1][1] [1][1]
    God (+3) eller Utmärkt (+4)       [1][1][1] [1][1][1]
    Superb (5) eller högre            [1][1][1] [1][1][1] och en andra ruta för mild tillfällig skada speciellt för fysisk eller mental skada
-   ================================  =====================
+   ================================  ==================================
 
 Du kommer att lära dig om hur tillfälliga och bestående skador fungerar under spelets gång i att `ta skada`_.
 
@@ -338,7 +338,7 @@ När ditt användande av faktum anses fel har du två valmöjligheter. Du kan ta
 
 När du använder ett faktum får du antingen +2 bonus på tärningsslaget, eller möjlighet att slå om alla tärningar, eller lägga till 2 på motståndarens svårighetsnivå om det kan motiveras. Du kan göra flera användanden för samma tärningsslag så länge det görs mot olika fakta, med ett undantag: Du kan använda så många *fria användanden* för ett faktum som du vill på samma tärningsslag.
 
-Vanligtvis använder du en av din karaktärs faktum. Du kan också `använda ett situationsfaktum <#användanden>`_ eller göra ett `utnyttjande <#utnytjanden>`_ av någon annan karaktärs faktum.
+Vanligtvis använder du en av din karaktärs faktum. Du kan också `använda ett situationsfaktum <#användanden>`_ eller göra ett `utnyttjande <#utnyttjande>`_ av någon annan karaktärs faktum.
 
 Använda specialförmåga
 ----------------------
@@ -586,7 +586,7 @@ Dessa fakta beskriver omgivningen eller scenario där handlingen äger rum. Situ
 Exmpel: **Brinner**, **Skarpt solljus**, **Arg folkmassa**, **Slagen till marken**, **Jagad av polisen**.
 
 :index:`Bestående skador <pair: faktum; bestående skada>`
-------------------------------------------------
+----------------------------------------------------------
 
 Dessa fakta representerar skador eller uthållig trauma på grund av skada, oftast på grund av en attack.
 
@@ -605,7 +605,7 @@ Vad kan jag göra med fakta?
 Tjäna ödespoäng
 ---------------
 
-Ett sätt att förtjäna ett ödepoäng är att acceptera en komplikation för din karaktärs fakta. Du kan också få ödespoäng om någon använder ditt faktum mot dig med ett `utnyttjande <#utnyttjanden>`_ eller när du `medger-det <#medgivande>`_.
+Ett sätt att förtjäna ett ödepoäng är att acceptera en komplikation för din karaktärs fakta. Du kan också få ödespoäng om någon använder ditt faktum mot dig med ett `utnyttjande <#utnyttjande>`_ eller när du `medger-det <#medgivande>`_.
 
 Inför varje spelsession börjar du med åtminstone det antal ödespoäng som anges av **återhämtning**. Om du har accepterat fler komplikationer än användanden i förra spelsessionen så `kan du ha fler ödespoäng nästa spelsession <#aterhamtning>`_.
 
@@ -634,7 +634,7 @@ Använda fakta för att deklarera detaljer i berättelsen
 Du kan lägga till en viktig eller osannolik detalj i berättelsen baserat på ett faktum som är i spel. Spendera inte ett ödespoäng när "`fakta är alltid sanna <#fakta-ar-alltid-sanna>`_" gäller. Gör det istället när det inte är självklart om faktumet är tillämpbar eller, om alla runt bordet går med på det, när det inte finns något tillämpbart faktum.
 
 :index:`Erbjudas komplikationer <pair: faktum; erbjudas komplikation>`
---------------------------------------------------
+-----------------------------------------------------------------------
 
 Man kan bli erbjuden komplikation för ett Fakta för att göra situationen mer komplicerad eller för att få ödespoäng. Spelledare eller spelare kan erbjuda ett ödespoäng i utbyte för att man accepterar en komplikation för ett faktum så att livet blir svårare för karaktären, och berätta varför ett faktumet gör livet svårare. Om du vägrar gå med på det behöver du spendera ett ödespoäng själv istället och beskriv hur din karaktär lyckas undvika komplikationen. Och ja, om du inte har något ödespoäng kvar så kan du inte vägra att acceptera en komplikation.
 
@@ -838,7 +838,7 @@ Du kan ta tillfälliga och bestående skador. Om du inte kan eller vill ta all s
 Ett antal dåliga beslut har försatt Charles i en unken källare och möter en ghoul som är mycket sugen på att äta upp honom. Ghoulen attackerar, kastar sig fram med sina vassa klor; denna attack har nivån Hyffsat (+2) på Närstrid. Spelledaren slår [ ][ ][+][0], vilket får ansträngningen att bli Umtärkt (+4). Charles försöker hoppa undan och har God (+3) på Sport men slår [ ][ ][ ][-] vilket blir ansträngning Hyffsat (+2). Eftersom ghoulens attackansträngning har två nivåer högre än Charles försvarsansträngning så får Charles två i skada. Han markerar två av sina tre fysiska rutor för tillfällig skada; striden har redan blivit farlig.
 
 :index:`Tillfällig skada <pair: kamp; tillfällig skada>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Enkelt uttryckt är tillfällig skada en rustning som berättelsen erbjuder. Det är en resurs som används för att hålla karaktären i stridbart skick när fienden träffar dem. När du markerar rutor för tillfällig skada säger du saker som "Det träffade mig nästan" eller "Oj, det där slog luften ur mig men jag är okej." Med det sagt så är det en begränsad resurs - de flesta karaktärer har bara tre rutor för fysiska och mentala tillfälliga skador, respektive. Karaktärer med hög nivå av Vilja och Styrka kan ha mer.
 
@@ -896,7 +896,7 @@ Ju högre pris du betalar destor större utdelning bör det bli för din sida n�
 Avsluta en strid
 ----------------
 
-En strid avslutas när alla på ena sidan av striden antingen har gett upp eller blivit utslagna. När striden avslutas så får alla spelare som gett upp ödespoäng för att de `gett upp <#ge-upp>`_. Spelledaren delar också ut ödespoäng som är intjänade genom `utnyttjanden <#utnyttjanden>`_ som inträffade under konflikten.
+En strid avslutas när alla på ena sidan av striden antingen har gett upp eller blivit utslagna. När striden avslutas så får alla spelare som gett upp ödespoäng för att de `gett upp <#ge-upp>`_. Spelledaren delar också ut ödespoäng som är intjänade genom `utnyttjanden <#utnyttjande>`_ som inträffade under konflikten.
 
 :index:`Återhämta sig från en konflikt <pair: kamp; återhämtning>`
 ------------------------------------------------------------------
@@ -1185,7 +1185,7 @@ Spelledaren kan vilja avslöja närvaron av nedräkningsspåret för spelarna ut
 En nedräkning kan ha mer än en utlösare om du vill; kanske fortlöper nedräkningen med ett förutsägbart tempo till något inträffar som accelererar det. Du kan också ha olika utlösare för varje ruta i nedräkningsspåret om du vill att en specifik serie händelser ska leda till utfallet.
 
 :index:`Extrema bestående skador <pair: faktum; extrem bestående skada>`
-===============================================================
+========================================================================
 
 Extrema bestående skador introducerar en valfri fjärde nivå av bestående skador till ditt spel: något som permanent och oåterkallelight ändrar en karaktär.
 
