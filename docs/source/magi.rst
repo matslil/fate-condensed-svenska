@@ -13,43 +13,52 @@ Magin utnyttjar den kraft som bygger upp världen och dess befolkning, vilket ä
 
 En vanlig konsekvens att använda magi är att det är en kostnad. Fördelen för den som använder magi är att det blir mer förutsägbart, och därför mer lämpligt för magi som förväntas användas relativt ofta, nackdelen blir förstås att magin blir en begränsad resurs. Det är avsiktligt, för annars skulle magi fungera under samma förutsättningar som färdigheter och skulle då lika gärna kunna vara en färdighet.
 
-En karaktärs magiska förmågor
-=============================
+Magi - färdighet och specialförmåga
+===================================
 
-När en karaktär har tillgång till magi så utgår det från en karaktärsaspekt. På något sätt har karaktären fått en aspekt som berättar vilken form av magi som karaktären har tillgång till. Aspekten kan finnas med när karaktären skapas, kan fås som del av karaktärens karriär eller erhållas av att något speciellt händer under berättelsens gång. Oavsett vilket behöver alla runt bordet vara överens om att aspekten är rimlig och platsar i berättelsen. Exempel på magiska aspekter är **Jediriddare**, **Demonbörd**, **Välsignad av guden Toleth**, **Ett med naturen**.
+Färdigheten **Magi** berättar hur duktig man är på magi, men ger dig inga magiska förmågor. Har man högt på färdigheten Magi, men inga specialförmågor, så innebär det att man har gedigna kunskaper kring magi.
 
-Spelaren kan använda ödespoäng för att åberopa sin magiska aspekt, såvida det inte finns något annat som ger karaktären möjlighet att använda aspekten. En karaktär av demonbörd kan åberopa sin aspekt om karaktären möter en annan demon, en som är ett med naturen kan åberopa sin aspekt för att enkelt ta sig fram i snårig natur och så vidare utan att behöva använda ödespoäng, så länge alla runt bordet anser det rimligt.
+För att kunna väva magi, såsom kasta besvärjelser, utföra Jediförmågor, skapa magiska föremål eller utföra magiska ritualer, så krävs specialförmågor.
 
-Stunt
------
+Varje specialförmåga motsvarar en besvärjelse, en Jediförmåga, en typ av magi som kan skapas på ett föremål eller viss ritual. Det är upp till beskrivningen av specialförmågan hur specialiserad den är. Den kan vara "Skapa eld", och med den kan man göra allt från att tända ett stearinljus, skapa eldboll, skapa eldsalamander till att tända eld på en hel skog, allt beroende på hur hög **Magi** man har.
 
-Genom att sätta en stunt på en färdighet får man något som skulle kunna vara en besvärjelse, bön, magisk förmåga eller ritual. En magisk stunt beskriver vilken effekt den har, hur den aktiveras (mumla besvärjelse, utföra ritual, be en bön eller bara genom tankekraft om det är en magisk förmåga) samt huruvida den har en kostnad (fysisk eller mental stress).
+Vill man ha det mer specialiserat har man specifika förmågor för varje, t.ex. tända eld på något kan vara en förmåga, skapa eldsalamander en annan och skapa eldbollar en tredje och så vidare.
 
-För stunt vars effekt är i närheten av att få +2 i bonus krävs ingen kostnad, men för mäktigare stunt så bör det finnas en kostnad. Kostnaden kan vara antingen fysisk eller mental stressruta, eller både och. Är det en riktigt mäktig stunt så kan det krävas fler rutor.
+Magisk inriktning
+=================
 
-Om karaktären väljer att utföra en stunt med en kostnad som han inte har stressrutor för så får han det som blir över i skada som då får tas av konsekvenser istället. Spelaren kan välja att göra detta även om det finns stressrutor att kryssa för.
+Vill man ha en karaktär som är bättre på viss magi, men sämre på annan, kan man använda personfakta till detta. Har man personfaktumet **Eld är mitt hem**, så kan det utöver att man bättre motstår effekten av eld genom möjligeten att använda ödespoäng för att få +2 bonus på att motstå eld, så kan man också få möjlighet att använda ödespoäng för att få +2 bonus på eldbesvärjelser, eldmagi i föremål eller ritualer som frammanar eller motstår eld.
 
-Upprätthålla balansen
----------------------
+Andra exempel kan vara **Demonbörd**, där allt relaterat till demoner ger möjlighet till att använda detta faktum för besvärjelser, ritualer eller annat som har med demoner att göra.
 
-Vilken nivå på effekter man väljer att ha beror på vilken typ av kampanjer man bedriver. Om man vill ha en kampanj där magiker är mäktiga och pöbeln inte duger mycket till i jämförelse (tänk Harry Potter) så kan stunt som bygger på en magisk aspekt vara betydligt mäktigare än icke-magiska stunt, utan att kosta något.
+Lyckas
+======
 
-För att ända upprätthålla någon slags balans i spelet kan sådana mäktiga stunt ha sidoeffekter som kanske är svårförutsägbara. Man drar en massa energi från omgivningen och stör ordningen, och exakt vilken effekt detta får kan vara svårt att förutse.
+Låt säga att spelaren lägger besvärjelsen "Eld" via sin specialförmåga. Han har nivå Hyffsad (+2) på Magi. Han slår sina tärningar och får +1. Detta blir totalt 3 i ansträngning. Men vad betyder det?
 
-Detta kan användas även då man använder stunt som kräver en kostnad som ett sätt att kunna få mäktig magi till låg kostnad.
+Notera först att specialförmågan ger ingen extra bonus. Att specialförmågan ger dig möjlighet till att göra något som ingen annan kan göra, Skapa eld med hjälp av magi, anses som tillräckligt speciellt utan att behöva lägga på bonus på tärningsslaget också.
 
-Notera dock att dessa effekter är tänkta att vara neutrala, det vill säga till lika mycket förtret för spelarna som deras antagonister.
+Som med andra tärningsslag så jämförs ansträngningen med en svårighetsnivå eller motstånd. Om ansträngningen är ett eller mer över svårighetsnivån eller motståndet så har magin effekt, annars inte.
 
-Färdighet och magi
-==================
+Kostnad
+-------
 
-Eftersom magi normalt utgår ifrån en stunt, och en stunt är knuten till en färdighet, så finns också en färdighetsnivå. När man använder en stunt under stress eller försöka göra något riskabelt eller mäktigt, finns all anledning att slå för färdigheten. Stunten ger +2 på färdighetsslaget, och svårighetsnivån sätts som med vilken färdighet som helst. Det vill säga, är det inget motstånd så slås färdigheten mot en svårighetsnivå som spelledaren har bestämt, annars slår man själv fram en ansträngning och motståndaren gör detsamma, och dessa jämförs för att utröna om man lyckades eller inte.
+Svårighetsnivån eller motståndet anger hur ansträngande det är att utföra magin. Detta ger en kostnad i form av tillfällig mental skada, lika mycket som svårighetsnivån eller motståndet är.
 
-Om man misslyckas med mer än +2 nivåer kan spelledaren bestämma att något oförutsett inträffar som är en effekt av att balansen i omgivningen har störts. Skillnaden mellan denna störning av balansen och den störning som annars kan inträffa när man utför mäktig magi är att denna störning är klart negativ för spelarna. Något inträffar som orsakar dem bekymmer.
+Om ansträngningen är över svårighetsnivån eller motståndet, kan detta antingen användas till att få bättra magi, eller minska kostnaden. För varje poäng över ansträngningen eller motståndet minskas kostnaden med ett.
 
-Kraften av besvärjelse eller ritual
------------------------------------
+Notera dock att anstängningen inte kan minskas till mindre än 1 på detta sätt, eftersom man då inte längre övervinner svårighetsnivån eller motståndet.
 
-När en besvärjelse eller ritual utförs som stunt på en färdighet görs detta mot en svårighetsnivå som avgörs av hur mäktig besvärjelse karaktären försöka utföra, eller mot en motståndsnivå om besvärjelsen görs mot någon som försöker försvara sig mot den. Dessa kan dessutom läggas ihop ifall man försöker göra extra mäktig besvärjelse mot någon som försöker försvara sig mot den.
+Effekt
+------
 
+Nedanstående tabell ger lite riktlinjer för svårighetsnivån:
+
+====  ============================
+Nivå  Effekt
+====  ============================
+0     Tända/släcka ett stearinljus, levitera en penna
+2     Sätta eld på torr ved, levitera en fylld tekopp
+4     Sätta eld på sur ved, levitera en människa
+====  ============================
 
