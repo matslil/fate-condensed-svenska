@@ -62,3 +62,18 @@ Nivå  Effekt
 4     Sätta eld på sur ved, levitera en människa
 ====  ============================
 
+Episk magi eller jordnära
+-------------------------
+
+Reglerna ovan är anpassade till ganska jordnära magi. Om man vill ha ett system där magi är mer allmänt tillgänglig och vardagligt, så vill man troligen minska svårighetsgraden. Enklast är att helt enkelt flytta effekttabellen ett eller flera steg, så att det blir lättare att få en effekt.
+
+Magisystem
+==========
+
+- Formell magi
+- Vild magi
+- Runmagi
+- Shamanism
+- Rituell magi
+- Silverristningar
+
