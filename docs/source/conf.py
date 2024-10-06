@@ -17,10 +17,13 @@ release = '0.1'
 extensions = [
         "sphinx.ext.autosectionlabel",
         "sphinx.ext.imgconverter",
+        "sphinx.ext.graphviz",
         ]
 
 # Make sure the target is unique
 autosectionlabel_prefix_document = True
+
+graphviz_output_format = 'svg'
 
 templates_path = ['_templates']
 exclude_patterns = []

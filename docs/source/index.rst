@@ -12,6 +12,7 @@ Magireglerna är helt egen konstruktion men bygger på ovanstående regelsystem.
    :maxdepth: 3
 
    fate
+   fate-map
    magi
 
 Index och tabeller
