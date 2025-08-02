@@ -18,6 +18,7 @@ extensions = [
         "sphinx.ext.autosectionlabel",
         "sphinx.ext.imgconverter",
         "sphinx.ext.graphviz",
+        "sphinxcontrib.mermaid",
         ]
 
 # Make sure the target is unique
