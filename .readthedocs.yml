@@ -11,6 +11,9 @@ build:
   tools:
     python: "3.11"
 
+apt_packages:
+  - graphviz
+
 python:
   install:
     - requirements: requirements.txt
