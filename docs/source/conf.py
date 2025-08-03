@@ -17,14 +17,13 @@ release = '0.1'
 extensions = [
         "sphinx.ext.autosectionlabel",
         "sphinx.ext.imgconverter",
-        "sphinx.ext.graphviz",
         "sphinxcontrib.mermaid",
         ]
 
 # Make sure the target is unique
 autosectionlabel_prefix_document = True
 
-graphviz_output_format = 'svg'
+mermaid_output_format = 'raw'
 
 templates_path = ['_templates']
 exclude_patterns = []
